@@ -1,0 +1,111 @@
+---
+layout: post
+title: Lumenlog v.2
+categories:
+- Articles
+- Design
+- Essay
+- Featured
+- Meta
+- Web
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  img: v2
+  sub: Redesign, hurra!
+---
+Oh, das Lumenlog. Irgendwie mag ich es ja doch schon sehr, mein kleines Häuschen in den Weiten des Cyberspace. Es hat mir eine willkommene Ausrede verschafft um einen Server anzumieten, mit der Linux-Kommandozeile Freundschaft zu schließen und meine Webdesign-Fähigkeiten zu verbessern. Und es ist, natürlich,  eine großartige Plattform um ein paar Gedanken mit euch, meinen geschätzten Lesern, zu teilen. Alles in allem, eine tolle Sache. 
+
+Mit der Einführung der Links hat sich der Charakter des Blogs etwas gewandelt, die Artikel wurden von den Links förmlich überrannt. Das hat mir überhaupt nicht gefallen. Da ich keine Möglichkeit sah, das bestehende Design des Blogs, das auf dem großartigen, aber extrem komplexen <a href="http://getk2.com">K2</a> aufbaut war, an die Links anzupassen, habe ich die Gelegenheit beim Schopf ergriffen, mal etwas ganz neues zu machen. Einfach mal selbst hinsetzen, ein bisschen im Wordpress-Wiki lesen und ein eigenes Design coden, so sah der Plan aus. Er hat auch funktioniert, aber eine Menge Zeit gekostet.
+
+Doch hier ist es, das Lumenlog v.2, die neueste Versionen dieses kleinen Blogs. Nun sind Artikel wieder von den Links getrennt. Jetzt ist der Quellcode aufgeräumt und sinnvoll, nicht mehr so vollgepackt mit komplizierten Verschachtelungen. Lasst mich mal ein bisschen ausholen und das neue Design erklären. Wir machen einen kleinen Rundgang, sozusagen.
+
+<h3>Artikel & Links</h3>
+
+Diese Änderung ist wohl die offensichtlichste: Artikel werden jetzt vollkommen anders behandelt als Links. Während Artikel am besten in ihrer vollen Länge auf einer eigenen Seite gelesen werden und sonst nur mit ihren Überschriften angezeigt werden, sind Links kurze Textschnipsel in der rechten Spalte. Sie sind kleiner und unauffälliger geworden, damit sie dem Hauptinhalt der Seite nicht mehr die Aufmerksamkeit stehlen. 
+
+Die technische Umsetzung dieser Idee hat sich jedoch als nicht gerade einfach erwiesen, da Wordpress es einem schwer macht, Artikel an zwei verschiedenen Stellen im Design auszugeben. Letztlich sieht es so aus, dass die Links die "offizielle" Funktion für die Artikelausgabe benutzen, während die Artikel mit einer eigenen Funktion angezeigt werden. <a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a> Ihr kennt doch bestimmt diese "Ältere Artikel"-Links aus anderen Blogs? Die gibt's bei Wordpress nur für die "offizielle" Artikel-Loop (die Funktion, die Artikel ausgibt). Deshalb werden in den Archiven immer alle <em>Artikel</em> auf einmal ausgegeben, während die <em>Links </em> auf mehrere Seiten verteilt werden. Links brauchen nämlich mehr Platz.
+
+Artikel sind jetzt, wie schon gesagt, überall nur noch mit ihren Titeln vertreten. Das spart Platz auf der Startseite und in den Archiven, so dass es für Leser einfacher wird, interessante Inhalte zu finden. Diese farbige Linie auf der linken Seite aller Artikel-Titel zeigt auf einen Blick an, welcher Kategorie der Artikel angehört. Orange ist <a class="link-modding" href="http://lumenlog.com/modding">Modding</a>, grün steht für <a class="link-tech" href="http://lumenlog.com/tech">Tech</a> und Türkis ist der <a class="link-adventskalender" href="http://lumenlog.com/adventskalender">Adventskalender</a>.
+Die Bilder in jedem Artikel-Titel geben einen kleinen Einblick in das Thema des Artikels und lockern das textbasierte Design ein wenig auf. Manchen älteren Artikeln habe ich noch keines zugewiesen, aber das wird in der nächsten Zeit nachgereicht.
+
+<h3>Erkunden</h3>
+
+Euch ist bestimmt schon der neue Footer aufgefallen, der neben einem kleinen Einführungstext auch mit dem "Erkunden"-Teil glänzt. Dort sind all die Tags und Kategorien versammelt, mit denen ich die Artikel des Lumenlogs organisiere. Anstatt zu verlangen, dass Besucher auf der Archiv-Seite ihr Glück versuchen, ist jetzt jede Seite mit dieser Navigation ausgestattet. Beim Gestalten dieses Abschnitts habe ich auch gleich mal die endlose Vielfalt an Tags aussortiert und mich auf ein paar wenige begrenzt. Es ist jetzt viel wahrscheinlicher, mal mehr als einen Artikel pro Tag zu vorzufinden.  Außerdem habe die verschiedenen Arten von Artikeln wie Essays, Reviews oder Interviews eingeführt. Einen Kalender gibt es auch. Jetzt gibt es wohl keine Ausrede mehr, Artikel <em>nicht</em> zu finden. 
+
+<h3>Design</h3>
+
+Offensichtlich hat sich auch das Aussehen des Lumenlogs nicht wenig gewandelt. Ich bin immer noch ein wenig traurig darüber, dass der Holzhintergrund wegfallen musste. Auf <a href="http://lumenlog.com/tech/der-erste-tag-als-switcher">meinem MacBook</a> sieht er unglaublich schön aus, dunkel und mystisch, einfach nur <em>holzig</em>. Leider musste ich feststellen, dass er auf Firefox oder gar einem PC ganz anders aussieht, das Holz macht einen vergilbten und bleichen Eindruck, überhaupt nicht mehr schön. Außerdem bin ich mir nicht so ganz über die Herkunft dieses Holzmusters klar, da gehe ich lieber auf Nummer sicher. Das Letzte, was ich brauche, ist ein Copyright-Prozess... daher gibt es nun ein angenehmes Grau als Hintergrund, neutral und dunkel. Ich mag dieses Grau. Es bringt die Farben der Seite so richtig zum Leuchten, das Orange der Titel, das Blau der Links, die Farben der Kategorien und natürlich die einzelnen Artikel-Bilder.
+
+Zudem habe ich dem Design ein Raster verpasst, ein 20x20 Raster, um genau zu sein. Das sorgt für einen Rhythmus in der Seite und bietet einen klaren Aufbau, der dem Auge gut tut. 
+
+Die Schriftart für das Lumenlog ist und bleibt <a href="http://de.wikipedia.org/wiki/Palatino">Palatino Linotype</a>, 13px groß, grau und wunderschön. Viele Blogs setzen auf <a href="http://de.wikipedia.org/wiki/Sans-Serif">Sans-Serif</a>-Schriftarten, aber ich mag den ein wenig altmodischen Look einer guten <a href="http://de.wikipedia.org/wiki/Serif">Serif</a>-Schrift. Meiner Meinung nach sind Serif-Schriften auch besser zu lesen, aber darüber wird gerne und ausführlich gestritten, soweit ich weiß.
+
+<h3>Favicon</h3>
+
+Wenn ihr mal einen Blick nach oben in die Adresszeile eures Browsers werft, ganz links ist ein kleines Bildchen, das "<a href="http://de.wikipedia.org/wiki/Favicon">Favicon</a>". Früher war dort eine kleine Version des Lumenlog-Logos zu sehen, das in dieser Größe allerdings ein wenig unscharf und hässlich aussah. Jetzt finden sich dort zwei Kreise mit den wichtigsten Farben des Lumenlogs, die einen bedeutend weniger pixeligigen Eindruck machen. Eine kleinere Änderung, aber in den Lesezeichen oder dem Feedreader ist das doch noch ein bisschen angenehmer als vorher.
+
+<h3>Schluss</h3>
+
+So, das war ein kleiner Rundgang durch das neue Design, bei dem natürlich nicht alles angesprochen wurde. Ich hoffe, es gefällt euch. Im Moment geht es der letzten Woche meines <a href="http://lumenlog.com/tech/goin-west">Kanada-Aufenthalts</a> entgegen und deshalb werde ich in der nächsten Zeit unglaublich beschäftigt sein. Alle möglichen Sachen wollen noch besichtigt und erlebt werden, ich muss packen und allen "Adieu" sagen. Deshalb solltet ihr in der nächsten Zeit nicht allzu viele Artikel erwarten. Wenn ich mich in Deutschland wieder eingelebt habe, geht es wieder richtig los hier! Mit dem neuen Design sind wir auf jeden Fall für alles gerüstet.
+
+<div class="footnotes">
+<a name="1"></a><sup>1</sup></a> <a href="#1-up">&#8617;</a> Die technische Umsetzung sieht so aus:
+Die Link-Spalte hat die Wordpress-Standardloop, mit ungefähr diesem Code:
+<code>
+&lt;?php  if ( have_posts() ) : while ( have_posts() ) : the_post(); //Start the Loop ?&gt;<br />
+<br />
+&lt;?php  if (in_category('4')) continue; // &Uuml;berspringt alle Posts in der Kategorie Tech, Modding und Adventskalender ?&gt;<br />
+&lt;?php  if (in_category('3')) continue; ?&gt;<br />
+&lt;?php  if (in_category('6')) continue; ?&gt;<br />
+<br />
+	&lt;div class=&quot;link&quot;&gt;<br />
+		&lt;?php the_content(); // Hier wird der Link ausgegeben ?&gt;<br />
+		&lt;span class=&quot;date&quot;&gt;&lt;?php the_time('j. F Y'); ?&gt;&lt;/span&gt; &lt;a class=&quot;permalink&quot; href=&quot;&lt;?php the_permalink(); ?&gt;&quot; title=&quot;Permalink zu &lt;?php the_title(); ?&gt;&quot;&gt;Permalink&lt;/a&gt;<br />
+	&lt;/div&gt;<br />
+<br />
+&lt;?php endwhile; else: // Falls das Archiv leer ist... ?&gt;<br />
+&lt;p&gt;Keine Links vorhanden... uh-oh. Sorry. &lt;/p&gt;<br />
+&lt;?php  endif; ?&gt;
+</code>
+Die Artikel dagegen werden mit einem eigenen WP-Query ausgeben. Die Standard-Loop bekommt vom System automatisch die richtigen Informationen zugespielt, welcher Tag gerade angezeigt wird, oder ob es sich um ein Datum handelt... bei dem eigenen Query muss man dagegen vorher die Argumente sammeln, deshalb gibt es diese längliche Sektion im Archiv-Template:
+<code>
+&lt;?php /* If this is a tag archive */ if( is_tag() ) { ?&gt;<br />
+		&lt;?php $current_tag = single_tag_title(&quot;&quot;, false); ?&gt;	<br />
+		&lt;?php $query= 'tag=' . $current_tag . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+<br />
+&lt;?php /* If this is a daily archive */ } elseif (is_day()) { ?&gt;<br />
+			&lt;?php $current_day = get_the_time('j');<br />
+			$current_month =  get_the_time('n'); <br />
+			$current_year = get_the_time('Y'); ?&gt;	<br />
+		&lt;?php $query= 'day=' . $current_day . '&amp;monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts 			that are not links ?&gt;<br />
+		<br />
+&lt;?php /* If this is a monthly archive */ } elseif (is_month()) { ?&gt;<br />
+			&lt;?php $current_month =  get_the_time('n'); <br />
+			$current_year = get_the_time('Y'); ?&gt;	<br />
+		&lt;?php $query= 'monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+<br />
+&lt;?php /* If this is a yearly archive */ } elseif (is_year()) { ?&gt;<br />
+		&lt;?php $current_month =  get_the_time('n'); <br />
+			$current_year = get_the_time('Y'); ?&gt;	<br />
+		&lt;?php $query= 'monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+		<br />
+ 	  &lt;?php } ?&gt;
+</code>
+
+Und schließlich wird ein neuer Query generiert... wenn es da eine bessere Lösung gibt, sagt mir das bitte. Diese hier ist ein wenig... unelegant.
+
+<code>
+&lt;?php  $my_query = new WP_Query($query); if ( $my_query-&gt;have_posts() ) : while ($my_query-&gt;have_posts()) : $my_query-&gt;the_post(); // Erzeugt einen neuen Query mit den Argumenten, die weiter oben definiert wurden ?&gt;<br />
+&lt;?php include (TEMPLATEPATH . '/article_head.php'); // Artikel-Titel-Styling ist ausgelagert ?&gt;<br />
+	&lt;?php endwhile; else: ?&gt;<br />
+		&lt;p&gt;Keine Artikel vorhanden. Sorry. &lt;/p&gt;<br />
+	&lt;?php endif; ?&gt;
+</code>
+
+So, das war jetzt mal ein wenig nerdiger, aber ich wollte mal die Fußnoten testen. Wieder zurück? Gerne doch: <a href="#1-up">&#8617;</a>
+</div>
+
+<strong>So, und nun zu euch. Ich möchte nicht umsonst Stunden mit den Kommentarfeldern da unten verbracht haben. Wie gefällt euch das neue Outfit? Gibt es noch irgendwo noch (unvermeidliche) Seltsamkeiten? Na los, da unten sind die Felder. Und sie sind wunderschön!</strong>

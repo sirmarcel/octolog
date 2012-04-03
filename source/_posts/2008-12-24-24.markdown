@@ -1,0 +1,14 @@
+---
+layout: post
+title: ! 'Tür #24 - Weihnachten!'
+categories:
+- Articles
+- Der Orden
+status: publish
+type: post
+published: true
+meta: {}
+---
+Wie schon angekündigt, sorgt der Orden auch an Weihnachten für die Überraschung. <a href="http://lumenpage.com/blog/modding/weihnachtsgeschenk-vom-orden">Hier</a> ist es, das Weihnachtsgeschenk. 
+
+Viel Spaß damit und fröhliche Weihnachten. Danke an alle, die fleißig hier Türchen geöffnet haben. Soll ich das nächstes Jahr wieder machen?

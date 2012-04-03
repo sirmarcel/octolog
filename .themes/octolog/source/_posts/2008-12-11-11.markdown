@@ -1,0 +1,25 @@
+---
+layout: post
+title: ! 'Tür #11'
+categories:
+- Articles
+- Humor
+- Meta
+- Web
+status: publish
+type: post
+published: true
+meta: {}
+---
+Heute gibt es ein wenig Bildung. Keine Panik! Es geht nur um Blogs. Was sind sie überhaupt? Hier ist die Antwort. Wieder als Video. Und auf Englisch. Ich glaube, das wird ein ziemlich englischer Adventskalender...
+
+<object type="application/x-shockwave-flash" height="260" width="320" data="http://www.youtube.com/v/NN2I1pWXjXI&amp;rel=0" id="VideoPlayback" >
+      <param name="movie" value="http://www.youtube.com/v/NN2I1pWXjXI&amp;rel=0" />
+      <param name="allowScriptAcess" value="sameDomain"/>
+      <param name="quality" value="best"/>
+      <param name="bgcolor" value="#FFFFFF"/>
+      <param name="scale" value="noScale"/>
+      <param name="salign" value="TL"/>
+      <param name="FlashVars" value="playerMode=embedded" />
+      <param name="wmode" value="transparent" />
+    </object>

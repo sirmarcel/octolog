@@ -1,0 +1,19 @@
+---
+layout: post
+title: ! 'Tür #21 - The Monty Pythons'
+categories:
+- Articles
+- Humor
+- Web
+status: publish
+type: post
+published: true
+meta: {}
+---
+Gibt es eine bessere Comedy-Gruppe als die Monty Pythons? Nun, sie haben einen eigenen YouTube-Channel eröffnet. Die Begründung? Die Leute auf YouTube haben jahrelang die Videos sowieso online gestellt - also machen sie es selber. Das können sie machen, weil sie selbst alle Rechte besitzen. Interessanterweise. Aber genug geredet - <a href="http://www.youtube.com/montypython">hier der Link</a>. Und als Vorgeschmack einen Sketch.
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/9ZlBUglE6Hc&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9ZlBUglE6Hc&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+Viel Spaß!
+
+

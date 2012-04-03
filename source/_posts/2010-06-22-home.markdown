@@ -1,0 +1,17 @@
+---
+layout: post
+title: Home
+categories:
+- Essay
+- ISS
+- Links
+- Weltraum
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+external-url: http://www.esquire.com/features/ESQ0704-JULY_ASTRO
+---
+Ein sehr persönlicher Bericht über das Leben auf der ISS. Sorgt dafür, dass man von den Sternen träumt.
+<span class="en">A very personal essay on life on the ISS. Makes you dream of the stars.</en>

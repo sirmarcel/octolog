@@ -1,0 +1,17 @@
+---
+layout: post
+title: Not Okay
+categories:
+- Gaming
+- Homophobia
+- Ism
+- Links
+- Racism
+- Sexism
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.escapistmagazine.com/videos/view/the-big-picture/5436-Not-Okay
+---
+Just watch that already, it's good to be reminded regularly that sexism, racism and homophobia are not okay at all.

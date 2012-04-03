@@ -1,0 +1,15 @@
+---
+layout: post
+title: ! 'Tür #23'
+categories:
+- Articles
+- Umwelt
+- Web
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.miniature-earth.com/me_german.htm
+---
+Weihnachtszeit. Eine nachdenkliche Zeit, aber auch eine Zeit der Geschenke und des Überflusses. Bevor morgen die Bescherung ansteht, hier ein Link zu einem nachdenklich stimmenden Video. Ein wenig Statistik. Wenn die Erde nur 100 Bewohner hätte, wie wäre der Reichtum verteilt? Wie viele wären Amerikaner, wie viele Chinesen? Interessant auf jeden Fall.
+

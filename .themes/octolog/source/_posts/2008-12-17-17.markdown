@@ -1,0 +1,14 @@
+---
+layout: post
+title: ! 'Tür #17'
+categories:
+- Articles
+- Design
+- Humor
+- Web
+status: publish
+type: post
+published: true
+meta: {}
+---
+Heute gibt es ein mal wieder ein Video. Ein kleiner Animationsfilm, in dem sich zwei Gentlemen mit recht... interessanten Methoden duellieren. Seht nett gemacht, außerdem humorvoll.<!--more--><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/E2ylO7GoMMw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/E2ylO7GoMMw&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

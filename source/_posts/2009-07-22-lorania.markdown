@@ -1,0 +1,14 @@
+---
+layout: post
+title: Lorania
+categories:
+- Links
+- Modding
+- Oblivion
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.scharesoft.de/joomla/forum/showthread.php?t=28490
+---
+Detailreiche und mit Liebe gebaute Städte, die dazu noch mit Quests gefüllt werden sollen, machen doch immer wieder Freude. Ein Projekt, das man auf jeden Fall im Auge behalten sollte. [via <a href="http://pagan-tes-mods.com/">Pagan</a>] 

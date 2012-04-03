@@ -1,0 +1,46 @@
+---
+layout: post
+title: Zwei Stunden in Nehrim
+categories:
+- Articles
+- Modding
+- Nehrim
+- Nehrim Erfahrungsbericht
+- Oblivion
+- Review
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  sub: Ein Erfahrungsbericht (Teil 1)
+  img: nehrim_1
+
+---
+<a href="http://lumenlog.com/images/articles/nehrim_03.jpg" class="img-link"><img src="http://lumenlog.com/images/articles/nehrim_03_s.jpg"></a>
+
+*Warnung: Obwohl ich keine Storydetails verrate, könnte euch dieser Artikel einige Überraschungen vorwegnehmen. Wollt ihr Nehrim also ohne jegliches Vorwissen beginnen, solltet ihr nicht weiterlesen.*
+
+Seit einigen Jahren verfolge ich schon die Entwicklung von "<a href="http://nehrim.de">Nehrim</a> - Am Rande des Schicksals", des bestimmt ambitioniertesten Mod-Projekts für Oblivion. Schon von Anfang an war klar, dass das Team von Freiwilligen (<a href="http://www.sureai.de/">SureAI</a>), das sich für dieses Projekt zusammengefunden hatte, gute Chancen hatte, das beste Rollenspiel der letzten Jahre zu erschaffen. Vier Jahre lang haben sie geschuftet, und endlich nähert sich Nehrim der Vollendung. Man kann sich vorstellen, wir groß meine Freude war, als mich Arandor vor einigen Wochen gefragt hat, ob ich nicht am Nehrim-Betatest teilnehmen wollte. Letzten Samstag konnte ich dann mit dem Spielen beginnen. Endlich hatte das Warten ein Ende! 
+
+<h3>Die erste Stunde</h3>
+
+Die Installation ist vorbei, das Spiel gestartet und endlich, nach Jahren des Wartens kann ich auf den Button klicken, der ein neues Spiel startet. Ich werde mit einer Introsequenz begrüßt, in der eine mysteriöse, weibliche Stimme kurz die Vorgeschichte umreißt. Zuerst bringe ich eine Viertelstunde mit den Schiebereglern des Charakter-Editors zu, dann geht es endlich los. Das Spiel beginnt tief unter Tage, in einer alten Mine. Sofort geht es los. Ein Troll taucht auf und wird von meinem zukünftigen Begleiter erschlagen. Der folgende Dialog wirft mehr Fragen auf als er beantwortet und ich möchte wissen, was hier vor sich geht. Die Story hat mich gepackt, und wird mich so schnell nicht wieder loslassen.
+
+Von der erste Sekunde an ist die Qualität des Leveldesigns unglaublich hoch. Jede noch so unwichtige Ecke wurde bedacht, nirgendwo wirkt etwas kahl oder lieblos hingeworfen. Die Detaildichte schlägt Oblivion um ein Vielfaches, überall liegen Fässer herum, winden sich Verladerampen durch den Raum, wachsen Pilze aus dem Boden. <a class="img-link-left" href="http://lumenlog.com/images/articles/nehrim_01.jpg"><img class="noclear" src="http://lumenlog.com/images/articles/nehrim_01_s.jpg" /></a>Staunend beobachte ich, wie das Team von Nehrim vorführt, was man mit dem Konzept eines Minenlevels alles anstellen kann. Ich durchwandere enge Gänge und naturbelassene Höhlenteile, durchquere gigantische Höhlen auf atemberaubenden Holzkonstruktionen, erklimme Treppen, betrete sogar eine verlassene unterirdische Taverne. Niemals habe ich das Gefühl, genug gesehen zu haben, ständige Abwechslung treibt mich voran. Auf die bereits aufgebaute Spannung und Neugier bauend, lässt mich das Spiel über weite Teile in Ruhe, mich treibt der Wille, Neues zu sehen, von ganz alleine an. Trotzdem fühle ich mich nicht im Stich gelassen, denn immer wieder unterbricht ein Skript-Ereignis die Stille. An einem Punkt taucht plötzlich ein übermächtiger Troll auf, der mich für die nächsten Minuten durch das halbe Level jagt und als Aufhänger für die erste klar umrissene Aufgabe dient: Töte den Troll. Die Umsetzung dieser klassischen Aufgabe ist großartig gelungen, die ganze Aktion geht ohne einen Schwertstreich vonstatten. Stattdessen warten ein einfaches Rätsel und ein Teil, in dem es vor allem auf Schnelligkeit ankommt. Hier fällt mir zum ersten Mal das integrierte Hilfssystem von Nehrim auf: Wichtige Gegenstände sind von einem gelblichen Schein umgeben. Dadurch braucht viel weniger in Tagebucheinträgen und Dialogen erklärt zu werden, was einen flüssigeren Spielablauf und auch komplexere Quests ermöglicht. 
+
+Das Zusammenspiel aus Story, Leveldesign und Gameplay funktioniert perfekt, nichts stört die dichte Atmosphäre, die sich aufgebaut hat. Aus den Kopfhörern dringt das leichte Säuseln eines Windstoßes, im Schein meiner Fackel und vereinzelter Pilze tuen sich immer neue Entdeckungen auf, die Kämpfe sind vereinzelt, weder zu schwer noch zu leicht, langsam entfaltet sich eine Story, die auf ein komplexes Universum hindeutet... Nehrim hat mich in seinen Bann gezogen. Ich denke gar nicht daran, ins Bett zu gehen.
+<br /><br />
+<div class="gallery"><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_02.jpg"><img src="http://lumenlog.com/images/articles/nehrim_02_s.jpg" /></a><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_04.jpg"><img src="http://lumenlog.com/images/articles/nehrim_04_s.jpg" /></a><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_05.jpg"><img src="http://lumenlog.com/images/articles/nehrim_05_s.jpg" /></a></div>
+<h3>Frische Bergluft</h3>
+
+Mit einem letzten Knalleffekt, den ich euch nicht spoilern möchte, entlässt mich Nehrim endlich aus den wunderschönen Tiefen des Berges. Damit ist der Prolog zu Ende, doch die Story hat nichts von ihrer Fahrt verloren. Für einen kurzen Moment ist sie aber vergessen, als ich zum ersten Mal einen Blick auf die Landschaft Nehrims werfen darf. Über mir kreisen einige Bergvögel, unter mir erstreckt sich eine waldige Landschaft, die in der Ferne effektvoll unschärfer wird. Nehrim besitzt im Gegensatz zu Oblivion einen eingebauten Tiefenunschärfe-Effekt, der die Schwächen der Engine im Bezug auf die Darstellung entfernter Landschaften kaschiert, und somit die Spielwelt ein gutes Stück glaubhafter wirken lässt. Tief beeindruckt vom auch hier herrschenden Detailgrad, der an den des <a href="http://orden.xerxes-design.de/">Ordens</a> erinnert, mache ich mich daran, einem kleinen Weg bergab zu folgen. Dieser Weg führt mich schließlich zu dem Bereich der Mine, der noch bewirtschaftet wird. Ein unfreundlicher Wachmann informiert mich darüber, dass momentan eine Belagerung im Gang ist. Ich kann nicht helfen, also mache ich mich auf die Suche nach Nebenaufgaben, die auch schnell gefunden sind. Zwei ebenfalls ausgesprochen einfallsreiche Quests später (darunter eine weitere Version der klassischen Rattenplage) kann ich endlich in Richtung der Abtei aufbrechen, zu der ich geschickt wurde. Glücklicherweise muss ich nicht laufen, sondern werde in einer animierten Bootsfahrt dorthin transportiert. Während wir am Ufer vorbei gleiten, erzählt mir der Bootsführer von den aktuellen Ereignissen in der Welt von Nehrim. Offensichtlich ist nicht nur in das Leveldesign, sondern auch in die Story und die Hintergrundgeschichte eine Menge Arbeit geflossen.
+
+Schließlich erreichen wir die Abtei, ich verabschiede mich, speichere und beende das Spiel. Es ist nach Mitternacht, ich habe eine gute Stunde länger gespielt, als ich eigentlich wollte. Und ich möchte weitermachen, es liegen ja noch viele Stunden vor mir!
+
+Wenn ich das Erlebnis der ersten zwei Stunden zusammenfassen sollte, würde ich mit einem Eindruck antworten: Dieses Spiel macht alles richtig. Man spürt, dass es von Leuten erschaffen wurde, die es gerne selbst spielen würden, die ein Auge für Details haben. Wo Oblivion nervt, macht Nehrim Spaß. Bei Oblivion ist das Interface für Konsolen optimiert und am PC nur mit Mods erträglich, bei Nehrim stimmt es einfach. Jeder Quest bis jetzt ist durchdacht, kreativ und macht schlicht und einfach Spaß, eben weil alles irgendwie stimmt. Man muss nicht ewig nach NPCs suchen, wenn man einem folgen soll, läuft dieser auch schnell genug und winkt einen sogar ungeduldig vorwärts, wenn man trödelt. Man weiß zwar immer genau, was man machen muss, wird aber trotzdem ständig überrascht. 
+
+An Nehrim sieht man, wie gut Projekte werden können, wenn sie von Leuten umgesetzt werden, die sich dafür begeistern können und wie sie kommerzielle Großprojekte in den Schatten stellen können. 
+
+<em>Dies ist der erste Teil meines Erfahrungsberichts über Nehrim. Sobald ich etwas weiter gekommen bin, werden weitere folgen...</em>

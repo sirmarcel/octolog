@@ -1,0 +1,15 @@
+---
+layout: post
+title: Welcome to 1954
+categories:
+- Buch
+- Links
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://nineteenfiftyfour.org/2010/01/welcome-to-1954.html
+---
+<blockquote>In 1993, I spent the year writing in a blank datebook from 1954. Now, in 2010, I'm posting each page on the web and writing about it.</blockquote>
+
+Ein großartige Idee, ein wunderschönes Notizbuch, und interessante Geschichten.

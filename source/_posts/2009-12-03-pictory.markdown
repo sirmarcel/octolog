@@ -1,0 +1,16 @@
+---
+layout: post
+title: Pictory
+categories:
+- Articles
+- Design
+- Links
+- Photographie
+- Web
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.pictorymag.com
+---
+Photo-Stories, perfekt präsentiert und, natürlich, gut photographiert. Und die Seite ist noch nicht einmal drei Tage alt.

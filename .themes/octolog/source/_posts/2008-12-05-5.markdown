@@ -1,0 +1,16 @@
+---
+layout: post
+title: ! 'Tür #5'
+categories:
+- Articles
+- Humor
+- Modding
+- Oblivion
+status: publish
+type: post
+published: true
+meta: {}
+---
+Heute zur Abwechslung mal eine Überraschung, die etwas mit Oblivion zu tun hat. Man stelle sich vor, die wichtigen Figuren Oblivions würden sich einfach mal einen freien Abend gönnen...
+
+[caption id="attachment_152" align="aligncenter" width="500" caption="Klicken, dann auf die Vorschau klicken, um eine größere Version zu sehen."]<a href="http://TheMinttu.deviantart.com/art/Oblivion-Boys-Night-Out-59018752"><img class="size-medium wp-image-152 " title="Boy's night out." src="http://lumenpage.com/blog/wp-content/uploads/2008/12/oblivion__boys___night_out_by_theminttu-500x175.jpg" alt="Klicken, dann auf die Vorschau klicken, um eine größere Version zu sehen." width="500" height="175" /></a>[/caption] 

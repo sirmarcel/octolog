@@ -1,0 +1,36 @@
+---
+layout: post
+title: Die Wurzel von 4.036.081
+categories:
+- Articles
+- Essay
+- Meta
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://lumenpage.com/blog/wp-content/uploads/2008/12/newyear.jpg
+---
+Das Jahr 2008 liegt in den letzten Zügen, das neue Jahr donnert schon in der Ferne vor sich hin. Also lasst uns ein bisschen darüber reden, wie die Reise weitergeht. Doch bevor wir das tun, könnten wir uns dem bereits Geschehenen widmen. Inzwischen ist das Lumenlog genau einen Monat alt. In dieser doch recht kurzen Zeit hat es 658 einzigartige Besucher gehabt, die insgesamt 2.391 Seitenaufrufe geschafft haben. Danke nochmals dafür. Man schreibt doch viel lieber, wenn man weiß, dass auch jemand mitliest.
+Mit Abstand die meisten Aufrufe haben — wie zu erwarten war — die Nikolaus- und Weihnachtsüberraschung generiert. Der beliebteste Artikel war mit 48 Aufrufen der Leveldesign-Artikel, dicht gefolgt vom Interview mit Trebron.
+Alles in allem könnte man den Start des Blogs als Erfolg bezeichnen. Es gibt schon einige Stammgäste, die sich auch trauen, einen Kommentar zu hinterlassen. Das wäre mein Wunsch für das neue Jahr. Kommentiert mehr! Ich möchte nicht so gegen eine Wand schreiben. Ihr habt doch auch Meinungen, die ich gerne hören würde.
+<!--more-->
+Aber genug der Zahlenkauerei und des Rückblicks. Wie wird das nächste Jahr aussehen? Nun, <a href="http://nehrim.de/">Nehrim</a> wird höchstwahrscheinlich (endlich!) fertig, die erste Teile vom <a href="http://www.der-orden.de.hm">Orden</a> trudeln ein, <a href="http://eleyon.de/">Eleyon</a> wird vielleicht auch offiziell angekündigt. Ein weiterer Teil von <a href="http://www.adash-web.de/">Adash</a> kommt. Alles Dinge, auf die ich mich freue. Nehrim, endlich. Das beste Rollenspiel der letzten Jahre.
+Aber was passiert mit dem Lumenlog? Nun, das wichtigste Ereignis wird eine Zwangspause sein, über die ich mich allerdings sehr freue. Von Februar bis Ende Juni bin ich in Winnipeg, Kanada. Weit, weit weg von zu Hause. Das wird bestimmt eine sehr interessante Zeit, während der ich nicht großartig bloggen können werde. Vielleicht schaffe ich es aber, den einen oder anderen Post zu schreiben, damit das Lumenlog nicht ganz tot aussieht. Versprechen möchte ich, wie gesagt, nichts. Eventuell findet sich auch jemand, der hier ein bisschen aufpasst, mal sehen. Nach dieser Pause geht es aber auf jeden Fall weiter. Ganz bestimmt!
+
+Abgesehen davon starten wir mit einem endlich größtenteils meinen Vorstellungen entsprechendem Design in das neue Jahr. Wie man an diesem Post merken kann, habe ich mein Lieblingsfeature eingebaut: Untertitel für Posts. Sowas wollte ich schon immer haben...
+Hinzu kommt außerdem, dass unter den Post-Titeln nun keine Icons mehr zu sehen sind. Sie sahen für mich zu sehr wie Fremdkörper im Design aus und wurden durch normale Unicode-Zeichen ersetzt. Eine kleine Veränderung sind auch die Post-Titel, die oben in der Fensterleiste eures Browsers stehen. Die Formatierung mit "Postname" bei Lumenlog wurde durch "Post-Titel" — Lumenlog ersetzt. Dadurch können die Post-Titel auch mit einem Satzzeichen enden.
+Vor ein paar Tagen ist rechts noch diese Textbox  hinzugekommen, um neue Besucher etwas persönlicher zu begrüßen. Ich finde, sie verleiht dem Lumenlog eine nettere Note.
+
+Von den Artikeln her werde ich weitermachen wie bisher, längere Artikel, mindestens einmal die Woche. Vielleicht ergibt sich im Laufe der Zeit auch ein fester Zeitpunkt für die Veröffentlichung, so dass ihr euch darauf einstellen könnt, dass jeden Mittwoch ein Post kommt. Oder jeden Sonntag. Das wäre doch recht wünschenswert, finde ich.
+Gelegentlich werden diese längeren Artikel unterbrochen durch eine kurze Meldung, so wie die beiden Weihnachtstrailer.
+Mir gefällt momentan auch die thematische Mischung aus Modding und Tech-Themen ziemlich gut. Ein Thema alleine fände ich etwas einseitig, so kommt Abwechslung ins Spiel. Wie seht ihr das?
+
+Nun wird es Zeit, das neue Jahr donnernd zu begrüßen! Mit viel Feuerwerk... hier ein Video aus einer großartigen <a href="http://planetelderscrolls.gamespy.com/View.php?id=5907&amp;view=Mods.Detail">Feuerwerk-Mod</a> für Morrowind. Wenn es das auch für Oblivion gäbe...
+
+<object width="425" height="344" data="http://www.youtube.com/v/1ONmHECaDSs&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/1ONmHECaDSs&amp;hl=en&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<a href="http://www.youtube.com/watch?v=Nu8O5fNLq2w">Hier</a> ein weiteres Video.
+
+Gut, dann bleibt mir noch, euch einen guten Rutsch ins neue Jahr zu wünschen. Und außerdem ein schönes Jahr 2009. Passt auf euch auf.
+
+<em>Hinweis: die Brushes auf dem Bild oben rechts stammen von </em><a href="http://www.obsidiandawn.com/"><em>Obsidian Dawn</em></a><em>.</em>

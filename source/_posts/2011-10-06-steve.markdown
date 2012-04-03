@@ -1,0 +1,22 @@
+---
+layout: post
+title: Steve
+categories:
+- Apple
+- English
+- Links
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.appleoutsider.com/2011/10/06/sj/
+---
+Steve
+
+> An era has ended, and we now sit to reflect on our good fortune for having lived in a time when a true giant walked the Earth.
+
+so eloquently says what I have been trying to put into words. We live in a truly amazing time, and some of its awesomeness is Steve's work. He has truly, undeniably changed the world we live in. He also was, and is, an inspiration. I am deeply grateful to have shared a planet with him.
+
+[Jason Kottke](http://kottke.org/11/10/remembering-steve-jobs) has collected some great stories, thoughts and videos on Steve. Do yourself a favor and read some, or at least watch [this video](http://www.youtube.com/watch?v=8rwsuXHA7RA).
+
+Thank you, Steve. 

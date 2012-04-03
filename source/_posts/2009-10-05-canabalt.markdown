@@ -1,0 +1,14 @@
+---
+layout: post
+title: Canabalt
+categories:
+- Articles
+- Design
+- Links
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.adamatomic.com/canabalt/
+---
+Ein in künstlerischer Pixelgrafik gehaltenes Spiel, bei dem man als Anzug tragender Mann hüpfend über die Dächer einer Stadt vor einer ständig im Hintergrund ablaufenden Alien-Invasion flieht. Die iPhone-Version ist exzellent, gelinkt habe ich zur Flash-Version.

@@ -1,0 +1,46 @@
+---
+layout: post
+title: Unterwegs in Nehrim
+categories:
+- Articles
+- Essay
+- Modding
+- Morrowind
+- Nehrim
+- Nehrim Erfahrungsbericht
+- Oblivion
+- Review
+- SureAI
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _edit_last: '1'
+  img: nehrim_2
+  sub: Ein Erfahrungsbericht (Teil 2)
+ 
+---
+<a href="http://lumenlog.com/images/articles/nehrim_06.jpg" class="img-link"><img src="http://lumenlog.com/images/articles/nehrim_06_m.jpg"></a>
+
+<em>Achtung, Spoiler! Solltest du Nehrim ohne jegliches Vorwissen genießen wollen, solltest du jetzt aufhören zu lesen.</em>
+
+Nachdem ich in der Abtei einige einfallsreich umgesetzte Nebenquests abgeschlossen habe, verlasse ich fürs erste den Pfad der Hauptstory. Mit dem Vorsatz, herauszufinden, ob Nehrim auch von der spielmechanischen Seite überzeugen kann, breche ich in grob westlicher Richtung auf. Es regnet, wie eigentlich immer in dieser Gegend. Mich juckt es in den Fingern, mit Hilfe der Konsole (<code>fw 38eee</code>) einige Minuten Sonnenschein zu erzwingen. Während ich noch über diese Möglichkeit nachdenke, werde ich in die ersten Kämpfe mit der lokalen Fauna verwickelt. Einige Prügeleien mit Wölfen, Krabben und Wildschweinen später fühle ich mich in meiner Einschätzung bestätigt, dass das Balancing von Nehrim gut funktioniert. Die Kämpfe sind hart, aber ohne Frust zu schaffen. Eine kleine Herausforderung bleiben sie aber, und so ist es selbst nach einer Weile noch aufregend, einen Wolf auf der Straße zu entdecken. Mir fällt auf, dass ich, ganz im Gegensatz zu Oblivion, einen Großteil der Zeit mit einem angeschlagenen Lebenspunkte-Balken spiele. Dort würde ich mich pausenlos selbst heilen, bei Nehrim ist nach drei oder vier Mal Schluss, denn Mana ist begrenzt. Endlich haben Heiltränke wieder eine Daseinsberechtigung. 
+
+Auch abseits der Schauplätze der Geschichte hält Nehrim ein hohes Leveldesign-Niveau. Natürlich, die Detaildichte ist etwas geringer als in der Abtei, <a class="img-link-left" href="http://lumenlog.com/images/articles/nehrim_07.jpg"><img src="http://lumenlog.com/images/articles/nehrim_07_m.jpg" /></a> übertrifft Oblivion aber weiterhin um ein Vielfaches. Am Straßenrand liegen umgekippte Karren, es gibt handgezimmert aussehende Brücken und wackelige Holzkonstruktionen, die anscheinend Felsrutsche verhindern sollen. Auch bei der Landschaft stellt sich keine Langeweile ein, enge Felsschluchten wechseln sich mit pittoresken Teichen und Waldstücken ab. Immer wieder begegne ich auch Zeichen der Zivilisation, Feuerholz ist am Wegesrand aufgeschichtet, in der Nähe einer Scheune stehen einige Bienenstöcke, an deren Honig man sich bedienen kann. Nehrim ist auch hier detailverliebt wie üblich, man kann natürlich auch gestochen werden.  Unterwegs begegne ich immer wieder Reisenden, Jägern und Wanderern. Die Welt von Nehrim fühlt sich lebendig an.
+<br /><br />
+<div class="gallery margin-top"><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_09.jpg"><img src="http://lumenlog.com/images/articles/nehrim_09_s.jpg" /></a><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_10.jpg"><img src="http://lumenlog.com/images/articles/nehrim_10_s.jpg" /></a><a class="img-link" href="http://lumenlog.com/images/articles/nehrim_11.jpg"><img src="http://lumenlog.com/images/articles/nehrim_11_s.jpg" /></a></div>
+
+Eine Ruine, die sich des Ayleiden-Tilesets bedient, erregt meine Aufmerksamkeit. Ich zücke mein Schwert, speichere ab und betrete die "Manakapelle". Drinnen warten zwei Magier, die mit mir kurzen Prozess machen. Blindes Stürmen von Dungeons scheint wohl nicht die beste Taktik zu sein. Beim nächsten Versuch stelle ich mich etwas geschickter ein, schleiche in die Ruine und werde mit Hilfe von Pfeilen, Heiltränken und Schwerthieben mit den beiden Gegnern fertig. Man wird sozusagen vom Spiel gezwungen, vorsichtig vorzugehen, sich anzustrengen. Ohne Nachdenken lässt sich Nehrim nicht spielen. Beim Einsacken der Beute fällt mir auf, wie viel ich mitnehmen kann, ohne das Gewichtslimit zu erreichen. Damit verzichtet Nehrim auf ein Stück Realismus, um einfacher und angenehmer spielbar zu sein. Eine Entscheidung, die ich nur begrüßen kann. Ständig Sachen wegwerfen zu müssen, war mir bei Oblivion immer eher lästig. Hier kann ich endlich ein, zwei Dungeons ausräumen, ohne groß über das Gewicht nachzudenken.
+
+Auf dem Weg zum nächsten Dungeon stolpere ich über das Lager eines fahrenden Händlers, der zusätzlich auch Lektionen für bestimme Fähigkeiten anbietet. Ich tausche zwei Lernpunkte und einige Goldstücke gegen zwei Punkte auf Bogenschießen ein, und verkaufe einen Teil meiner Beute. Obwohl auch Nehrim das für die Elder-Scrolls-Spiele typische "Learning by doing"-Prinzip anwendet, erfolgt das Trainieren von Fähigkeiten doch hauptsächlich über solche Lehrer. Da das Geld kostet, ist dieses bedeutend knapper als bei Oblivion. Ich freue mich über jedes Goldstück, dass ich einem Händler abluchsen kann. Nicht nur das Trainieren von Fähigkeiten, auch die Stufenaufstiege funktionieren bei Nehrim anders, nämlich in traditioneller Rollenspiel-Manier über Erfahrungspunkte, die man für besiegte Gegner oder andere Verdienste erhält. Dieses System funktioniert sehr gut, es motiviert zum Weiterspielen und bietet eine "direkte" Belohnung für jeden errungenen Sieg.
+
+Eine ausgeräumte Burg später trete ich den Rückweg an, die Story ruft. Schnellreise per Karte ist bei Nehrim nicht vorgesehen. <a class="img-link-left" href="http://lumenlog.com/images/articles/nehrim_08.jpg"><img src="http://lumenlog.com/images/articles/nehrim_08_m.jpg" /></a>Im weiteren Spielverlauf wird es aber anscheinend Teleport-Zauber geben. Soweit bin ich noch nicht, also muss ich zu Fuß gehen. Die schöne Landschaft (und die Wölfe) verhindern, dass mir auf dem Weg langweilig wird. Auch der nächste Schritt der Geschichte wird eine Menge Laufen beinhalten. Normalerweise würde mich das wohl eher stören, zu Nehrim scheint es jedoch zu passen. Anstatt die Schauplätze der Hauptstory im Schnelldurchlauf abzuklappern, ist man gezwungen, sich mit der Welt, die man wohl irgendwann retten muss<a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a>, auseinanderzusetzen. Außerdem fühlt sich die Welt von Nehrim einfach größer an. Man hat das Gefühl, wirklich etwas erforschen zu können. Darin gleichen sich Nehrim und Morrowind.
+
+Schließlich erreiche ich die Abtei, speichere ab und beende das Spiel. Schon wieder ist es etwas später, als ich eigentlich wollte. Nehrim ist wohl auch außerhalb der Hauptstory fesselnd. Die Grundlagen des Rollenspiels funktionieren gut, Kämpfe machen Spaß, das Leveln  geschieht mit angenehmer Geschwindigkeit, die Dungeons sind abwechslungsreich. Ich muss aber zugeben, dass mir die Story immer noch wichtiger ist als das bloße täglich Brot eines Rollenspielers, als die Kämpfe, Dungeons und Levels. Natürlich, Kämpfe sind ein wichtiger Teil mittelalterlich-archaischen Stimmung, die in Rollenspielen vorherrscht. Sie sorgen dafür, dass sich Entdeckungsreisen auch so anfühlen, doch sie sind nur in Verbindung mit eine Geschichte sinnvoll. Und genau dort brilliert Nehrim.
+
+<em>Eine Fortsetzung folgt, sobald ich etwas Freizeit zum Weiterspielen finde. An dieser Stelle möchte ich mich nochmals bei allen bedanken, die den letzten Artikel kommentiert haben. Ihr seid super. :-)</em>
+
+<div class="footnotes">
+<a name="1"></a><sup>1</sup></a> <a href="#1-up">&#8617;</a>  Was übrigens kein Spoiler ist, nur eine Vermutung. Ob sich Nehrim an die Genre-Konventionen hält, werdet ihr wohl selbst herausfinden müssen... ;-)
+</div>

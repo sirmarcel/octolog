@@ -1,0 +1,39 @@
+---
+layout: post
+title: Grapher
+categories:
+- Apple
+- Articles
+- Mac
+- MacBook
+- Physik
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  img: grapher
+  sub: Eine Entdeckung
+
+---
+
+<img src="http://lumenlog.com/images/articles/grapher_1.jpg" alt="grapher">
+
+Manchmal habe ich meinen Computer in der Schule dabei, und ich nutze die Gelegenheit immer gerne dazu, im Physikunterricht mitzuschreiben. Unser Lehrer ist in dieser Hinsicht liberal, und mal den Stift für eine Stunde aus der Hand zu legen ist eine willkommene Abwechslung. Aufschriebe am Computer sehen außerdem so angenehm professionell aus.
+
+Dabei wird allerdings das Eingeben mathematischer Ausdrücke zum Problem. Bei Potenzen kann man sich ja noch mit "^2" oder Ähnlichem behelfen, aber bei den Gleichungen, die in einem in Physik an den Kopf geworfen werden, hat man so keine Chance. Griechische Buchstaben muss man sich mühsam aus der Sonderzeichentabelle zusammenkramen, Bruchstriche durch Klammern und Schrägstriche ersetzen und Multiplikationen durch Sternchen. Da ist man mit Stift und Papier nicht übersichtlicher, sondern auch bedeutend schneller.
+
+Glücklicherweise hat sich dieses Problem vor kurzem gelöst, denn durch Zufall bin ich auf "Grapher" gestoßen, ein kleines, in Mac OS X mitgeliefertes Werkzeug zum graphischen Darstellen von Funktionen. Das ist an sich schon ausgesprochen interessant und hätte mir auch so schon die eine oder andere Minute des Herumhackens auf einem TI-83 erspart. Viel interessanter ist für mich aber die Eingabezeile für die zu zeichnende Funktion.
+In dem unscheinbaren Programm verbirgt sich nämlich eine beinahe perfekte Implementation einer Eingabemöglichkeit für mathematische Ausdrücke aller Art. Gibt man zum Beispiel x^3 ein, wird automatisch x<sup>3</sup> daraus. Tippt man /, wird ein Bruchstrich gezogen. Ein "pi" wird zu π, ein "delta" zu δ, ein großes "Delta" zu Δ, ein "phi" zu ɸ. Die Ergebnisse kann man ohne Probleme in Pages einfügen, oder sich auch als PDF oder LaTex-Ausdruck exportieren lassen. 
+<img src="http://lumenlog.com/images/articles/grapher_2.jpg" />
+Irgendwie fasziniert mich diese einfache Eingabezeile, weil sie ein Problem so elegant löst. Sie funktioniert genau so, wie ich es vermutet habe. Ich tippe "^", um eine Potenz zu schreiben, und automatisch wechselt die Eingabe auf die höhere Ebene. "Wie komme ich wieder zurück?", denke ich mir und drücke die "Pfeil-Nach-Unten"-Taste. Das Erwartete tritt ein. Wie bei allen guten User Interfaces macht die Interaktion hier einfach Spaß. Gute User Interfaces machen eben schlicht und einfach Spaß.
+
+Aufmerksam auf Grapher wurde ich durch <a href="http://www.nucalc.com/Story/">diesen Artikel</a>, in dem die Entwicklung des ersten in Mac OS mitgelieferten graphischen Taschenrechners beschrieben wird. Ich hätte eigentlich erwartet, dass Grapher der Nachfolger dieser Software ist, doch eine kurze Recherche hat ergeben, dass "Grapher" unabhängig entstanden ist und später von Apple aufgekauft wurde.
+
+Weiterführende Informationen und eine ausführliche Bedienungsanleitung, die ich mir auch bald zu Gemüte führen werde, finden sich bei <a href="http://guides.macrumors.com/Grapher">MacRumors</a> und <a href="http://en.wikipedia.org/wiki/Grapher">Wikipedia</a> (<a href="http://de.wikipedia.org/wiki/Grapher">deutsch</a>), wo auch mein Anwendungsfall beschrieben wird:
+
+<blockquote>
+Further, it is also possible to use the operating system's copy and paste feature to copy equations from the application's visual equation editor. By doing so, Grapher functions somewhat as an equation editor, as the user may copy images of entered equations into other applications.
+</blockquote>
+
+Eine großartige Entdeckung auf jeden Fall – und eine schöne Überraschung. Ein bisschen wie Weihnachten.

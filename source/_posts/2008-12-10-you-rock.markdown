@@ -1,0 +1,30 @@
+---
+layout: post
+title: You rock!
+categories:
+- Articles
+- Essay
+- Featured
+- Meta
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://lumenpage.com
+---
+1000. 1000 Seitenaufrufe zeigt mein Zähler an. Und das noch nicht einmal zwei Wochen nach Launch dieses Blogs, mit so erstaunlich wenigen Artikeln. Danke, Leute. Ihr rockt. Weiter so!
+
+Zusätzlich noch ein paar Statistiken... manchmal sind Zahlen doch recht interessant.
+<!--more-->
+Auf die 1000 Seitenaufrufe kommen 269 Besucher. Das ist die kleine "Unique"-Zahl hinter den Seitenaufrufen. Denn bei den Seitenaufrufen wird jeder Klick gezählt, daher ist sie deutlich höher.
+Die meistaufgerufene Seite ist die Nikolausüberraschung mit 332 Aufrufen. Danach folgt endlich, mit 283, die Startseite.
+Die meisten Besucher kommen von Scharesoft (124) hier vorbei, danach kommt das Ei der Zeit mit 88 Lesern.
+Der Lieblingsbrowser der User ist glücklicherweise Firefox mit überwältigenden 63 %.
+Ein Großteil der Leser kommt aus Deutschland, danach folgen die Schweiz, Österreich und Frankreich. Auch vertreten sind die USA, Taiwan und Kroatien (jeweils weniger als 1%).
+Der/das Nikolauswallpaper wurde 188 mal heruntergeladen und hat dabei ungefähr 690 Megabyte Traffic erzeugt.
+
+Ganz schön viele Daten, nicht wahr? Und, um mal ein wenig Paranoia zu zeigen, Google kennt sie bei den meisten Seiten auch. Hier allerdings nicht, da ich nicht Google Analytics, sondern <a href="http://haveamint.com">Mint</a> benutze. Darüber wird es bei Gelegenheit auch einen Artikel geben.
+
+Nochmals vielen Dank, liebe Leser. Ich hoffe, ihr fühlt euch hier wohl. Nehmt euch doch ein Stück Kuchen, rechts in der Seitenleiste zu finden. You rock!
+
+Nach dieser kurzen, nicht ganz so ernsten Unterbrechung werden wir bald zum Normalbetrieb zurückkehren. Während das RL mich noch ein wenig auf Trab hält, könnt ihr euch ja mit dem Adventskalender beschäftigen. <a href="http://playauditorium.com">Auditorium</a> ist auf jeden Fall noch ein paar Stunden wert!

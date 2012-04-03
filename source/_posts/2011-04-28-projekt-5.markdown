@@ -1,0 +1,17 @@
+---
+layout: post
+title: Projekt 5
+categories:
+- Links
+- Nehrim
+- Skyrim
+- SureAI
+status: publish
+type: post
+published: true
+meta: {}
+external-url: http://www.sureai.de/
+---
+SureAI plant weitere Schandtaten. Ein Projekt für Skyrim. Ich zitiere mal freizügig, weil ich keinen Permalink auf den Blogartikel gefunden habe:
+
+> [...] anschließend werden wir mit der Entwicklung eines neuen Projekts auf Basis der Creation Engine von Skyrim beginnen. Viele der ehemaligen Nehrim-Entwickler haben sich der Vision eines neuen Spiels anschließen können und brennen darauf erneut  loslegen zu können. Wir würden uns auch darüber freuen, neue Talente willkommen zu heißen.  Da wir uns bisher noch auf keinen Namen einigen konnten, trägt das neue Spiel den Arbeitsnamen „Projekt 5“.  Projekt 5 wird wieder im gleichen Universum spielen und an die Handlung von Nehrim anknüpfen.

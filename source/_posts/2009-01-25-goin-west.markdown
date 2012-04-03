@@ -1,0 +1,30 @@
+---
+layout: post
+title: Goin' West
+categories:
+- Articles
+- Meta
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  sub: Fünf Monate in Kanada
+  img: canada
+---
+Wie ich ja schon im <a href="http://lumenpage.com/blog/tech/sylvester-2008">Neujahrspost</a> angekündigt hatte, werde ich mich bald nach Winnipeg, Kanada verabschieden. Für fünf Monate, bis Anfang Juli. Aber keine Panik &#151; ich werde dort Internetverbindung haben. Trotzdem möchte ich nichts versprechen, auf jeden Fall wird es <strong>nicht</strong> wie gewohnt einen Post in der Woche geben. Der eine oder andere wird bestimmt auftauchen, damit der Server nicht ganz verstaubt. Ihr könnt das Lumenlog also als halb stillgelegt betrachten. Aber nur halb.
+Wenn ich dann wieder da bin, steht ein Relaunch des Lumenlogs an. Ich freue mich schon drauf, einen Server bei <a href="http://slicehost.com">Slicehost</a> zu bestellen und ein paar Tage an der Konsole rumzufummeln. Yeah. 
+Damit ihr nicht ganz ohne Aufgabe seid, habe ich noch einen schönen neuen Internetdienst ausprobiert: Skribit. <a href="http://skribit.com/blogs/lumenlog">Hier</a> könnt ihr Artikelvorschläge machen und über sie abstimmen. Ich bin schon gespannt auf eure Vorschläge! Dann weiß ich gleich, was euch so alles interessiert.
+Es ist ein seltsames Gefühl, alles einzupacken. Die ganzen Klamotten, Bücher, alle möglichen Dinge. Und natürlich das MacBook. Das ja sowieso das wichtigste Gepäckstück überhaupt ist.
+
+So, ich geh' dann mal wieder packen. Es geht ja schon am Freitag los. 
+
+Ich wünsche euch allen eine großartige Zeit!
+
+Und um es mal mit Neil Young zu sagen:
+
+"We packed our bags and drove out to Winnipeg..."
+<!--more-->
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/e-972pm8AhQ&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/e-972pm8AhQ&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+You rock. Man sieht sich.

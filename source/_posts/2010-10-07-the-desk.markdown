@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Desk
+categories:
+- Design
+- Film
+- Links
+status: publish
+type: post
+published: true
+meta:
+  via: <a href="http://kottke.org">Kottke</a>
+  aktt_notify_twitter: 'yes'
+  _wp_old_slug: ''
+external-url: http://www.imaginaryforces.com/featured/10/502
+---
+Eine kurze Dokumentation über Schreibtische, und ihre Bedeutung für kreative Arbeit.
+<span class="en">A short documentary on desks and their meaning to the creative process.</a>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Portal 2
+categories:
+- Humor
+- Links
+- Portal
+status: publish
+type: post
+published: true
+meta:
+  aktt_notify_twitter: 'yes'
+  _wp_old_slug: ''
+external-url: http://thinkwithportals.com/
+---
+<p>Gestern fertig gespielt. Unglaublich gut erzählt, spannend, wunderschön, intelligent, witzig und herrlich abgedreht. Eine echte Empfehlung.</p>

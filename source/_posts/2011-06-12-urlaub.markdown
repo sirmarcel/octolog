@@ -1,0 +1,17 @@
+---
+layout: post
+title: Urlaub
+categories:
+- Asides
+- Links
+- Meta
+status: publish
+type: post
+published: true
+meta: {}
+---
+Nachdem sämtliche Abiturfeiern nun erledigt sind, mache ich erst einmal etwas Urlaub. Ein wenig Pause, bevor ein neuer Lebensabschnitt beginnt.
+
+Bis in drei Wochen!
+
+Wer sich dafür interessiert, was ich in der Zeit treibe, sollte [mir auf Twitter](http://twitter.com/xartas) folgen. ;-)

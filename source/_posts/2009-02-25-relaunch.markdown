@@ -1,0 +1,25 @@
+---
+layout: post
+title: Relaunch
+categories:
+- Articles
+- Design
+- Meta
+- Web
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  sub: Erfolgreich überstanden
+  img: relaunch
+---
+Wenn ihr diesen Post lesen könnt, hat das Lumenlog den Relaunch schon hinter sich. Alles ist gut gegangen. Wie man vielleicht sehen kann, gibt es die eine oder andere Veränderung. Die größte ist wohl der Umzug, oder besser die Umzüge. Zum einen hat sich die Domain geändert und passt jetzt auch zum Namen der Seite. Außerdem habe ich das Hosting gewechselt. Das Lumenlog liegt jetzt auf einem Virtual Private Server bei Slicehost. Wenn sich hier alles ein bisschen flotter anfühlt, liegt das daran.
+Abgesehen von diesen Umzügen habe ich auch ein wenig am Design gefeilt, die Stylesheets aufgeräumt, die Sidebar an einen vernünftigen Platz geschoben... falls euch Seltsamkeiten ins Auge fallen, könnt ihr mir einfach eine Mail and me (at) lumenpage.com schreiben.
+Ganz neu sind die Links. Eine neue Kategorie, die ich eingeführt habe, um euch Links zu schicken, über die ich keinen Artikel schreiben möchte. Außerdem ist das Blog etwas lebendiger, zwischen den längeren Artikeln gibt es nicht mehr so große Lücken.
+Wenn euch also etwas über den Weg läuft, oder ihr eine neue Mod veröffentlicht, lasst es mich wissen, dann werde ich mal sehen, ob das nicht gut in die Links passt.
+Gut, das war's dann über den Relaunch. Ich bin gerade, wie ihr wisst, in Kanada, und konnte es trotzdem nicht lassen, hier herumzubasteln. Mal sehen, wie viele längere Artikel ich hier schreiben kann, aber die Links werden auf jeden Fall eintrudeln.
+
+Wenn ihr euch wundert, warum ich mich so plötzlich entschieden habe, alles umzuziehen - das andere Hosting macht gerade grausige Dinge... deshalb etwas überstürzter Umzug. Bitte sagt, wenn etwas nicht geht.
+
+Have a good time.
