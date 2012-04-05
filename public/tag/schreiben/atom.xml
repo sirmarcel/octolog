@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Schreiben | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/schreiben/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[NoteSlate]]></title>
+		
+			<link href="http://noteslate.com/"/>
+		
+
+		<updated>2011-02-25T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/noteslate</id>
+		<content type="html">
+			<![CDATA[<p>Digitales Papier für 99$. Will ich haben.</p>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/noteslate/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Ways of reading]]></title>
+		
+			<link href="http://aworkinglibrary.com/library/archives/ways_of_reading/"/>
+		
+
+		<updated>2010-03-27T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/ways-of-reading</id>
+		<content type="html">
+			<![CDATA[<blockquote> Always read with a pen in hand. The pen should be used both to mark the text you want to remember and to write from where the text leaves you. Think of the text as the starting point for your own words.
+</blockquote>
+
+Trotz seiner Kürze steckt dieser Artikel voller Weisheiten über Bücher, Bibliotheken, Lesen und Schreiben. 
+<span class="en">Wisdom on books, libraries, reading and writing. So true</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/ways-of-reading/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

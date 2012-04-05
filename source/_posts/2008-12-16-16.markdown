@@ -8,8 +8,11 @@ status: publish
 type: post
 published: true
 meta: {}
-external-url: http://turnyournameintoaface.com/
+
 ---
-[caption id="attachment_251" align="alignleft" width="171" caption="Marcel als Gesicht."]<a href="http://lumenpage.com/blog/wp-content/uploads/2008/12/bild-2.png"><img src="http://lumenpage.com/blog/wp-content/uploads/2008/12/bild-2.png" alt="Marcel als Gesicht." title="Marcel als Gesicht." width="171" height="204" class="size-full wp-image-251" /></a>[/caption]Irgendwie habe ich eine Schwäche für Programme, die aus Wörtern Dinge machen. Heute: aus Namen Gesichter machen. Schön altmodische Pixelgesichter, ein wenig im Stil von 3-D-Barcodes. Mich würde mal interessieren, wie das funktioniert. ;)
+
+[Turn your name into a face.](http://turnyournameintoaface.com/)
+
+<a href="http://lumenpage.com/blog/wp-content/uploads/2008/12/bild-2.png" class="img-link-block"><img src="http://lumenpage.com/blog/wp-content/uploads/2008/12/bild-2.png" alt="Marcel als Gesicht." title="Marcel als Gesicht." width="171" height="204" class="size-full wp-image-251" /></a>Irgendwie habe ich eine Schwäche für Programme, die aus Wörtern Dinge machen. Heute: aus Namen Gesichter machen. Schön altmodische Pixelgesichter, ein wenig im Stil von 3-D-Barcodes. Mich würde mal interessieren, wie das funktioniert. ;)
 Sehr amüsant. Ach, ja: so sehe ich nicht aus, soweit ich weiß. Auf jeden Fall eine nette Seite. 
 

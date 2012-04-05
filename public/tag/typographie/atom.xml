@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Typographie | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/typographie/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[The Timeless Beauty of National Geographic]]></title>
+		
+			<link href="http://retinart.net/graphic-design/timeless-beauty-national-geographic"/>
+		
+
+		<updated>2010-08-23T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/the-timeless-beauty-of-national-geographic</id>
+		<content type="html">
+			<![CDATA[Ein ganz genauer Blick auf die Entwicklung des Layouts von National Geographic.
+<span class="en">An in-depth review of the National Geographic layout over time.</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/the-timeless-beauty-of-national-geographic/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Colosseo: Available March 2010 on Vimeo]]></title>
+		
+			<link href="http://vimeo.com/9001402"/>
+		
+
+		<updated>2010-01-27T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/colosseo-available-march-2010-on-vimeo</id>
+		<content type="html">
+			<![CDATA[Typographie + Architektur + Poster = Großartig.
+
+Außerdem habe ich noch nie vorher einen Teaser für ein Poster gesehen. The times, they are a-changing...
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/colosseo-available-march-2010-on-vimeo/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

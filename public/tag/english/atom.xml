@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: English | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/english/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Greeting the Kraken]]></title>
+		
+			<link href="http://lumenlog.com/post/greeting-the-kraken/"/>
+		
+
+		<updated>2012-04-05T15:39:00+02:00</updated>
+		<id>http://lumenlog.com//post/greeting-the-kraken</id>
+		<content type="html">
+			<![CDATA[*TL;DR: I moved this blog from Wordpress to Octopress, and used the chance to touch up the design. Hopefully, you like it as much as I do, if you notice any wonkiness, let me know. And now for the nerdiness.*
+
+It all started with a small realisation: Even though running this blog on a virtual private server at [Slicehost](http://slicehost.com) taught me a lot about the way the web works, I really don't have the knowledge (and spare time) to keep everything running smoothly and securely. So I decided to move to [Webfaction](http://webfaction.com), a hosting company that provides managed web hosting while still allowing SSH access.
+
+The mere thought of once again migrating Wordpress, however, sent shivers running down my spine. I did the only logical thing: I decided to move my blog to [Octopress](http://octopress.org). Of course, that's not exactly less work, but certainly a lot more interesting than just screwing around with database dumps, weird encoding issues and other assorted Wordpress shenanigans. And let's face it: Interesting beats the crap out of slightly easier, but boring every single time. It's hard to resist playing with a new tool.
+
+Octopress is everything Wordpress is not. While Wordpress runs on your server, dynamically rendering pages as users come along and request them, Octopress runs locally and just generates every single page of your blog exactly once and then saves them as static HTML files. It even automatically uploads these files to a web server, and once they get there, you have a ridiculously fast web site that is almost impossible to break. The first one appeals to my inner nerd, the latter to the little paranoid guy sitting on my shoulder... Perfect.
+
+As a result, obviously, Octopress is incredibly nerdy. It doesn't try to hide the technology behind it the way Wordpress does, it (rightfully) calls itself a "blogging framework for hackers". There is no graphical user interface, just a bunch of cunningly arranged Ruby scripts, config files and assorted command line tools. Obviously, this fact makes it utterly unusable for about 90% of the blogging population<sup id='fnref:1'><a href='#fn:1' class='ftnl' rel='footnote'>1</a></sup>, but amazing for the people that (at least kind of, in my case) know what they're doing. 
+
+Where was I? Ah. I had just decided to switch to Octopress. At that point, I was aware that there was a way to transfer posts, but none to migrate the template. So I ended up deciding to also write a new theme. In a few minutes of arguing with myself, the simple decision to change my hosting company had cascaded into a complete overhaul of the front- and back end of this blog. I sometimes suspect that this is not a very practical way to handle minor changes in infrastructure, but at least it's incredibly fun.
+
+### Migration
+
+Octopress processes blog posts as individual, markdown-formatted text files. This is, of course, terribly cool. To edit a post, you just open a plain-text file on your computer in your favourite text editor, save and run one single script. No more logging into weird, slow web interfaces, just some sweet plain-text editing.
+
+Before enjoying that, however, you need to somehow get the posts out of the Wordpress database and into neatly separated text files. Fortunately, Wordpress has a built-in export function that generates a single XML file with all blog posts, and Octopress comes with a migration script that is able to parse that single file into correctly formatted, separated files. It even correctly assigns the posts their original tags and categories. The only thing it (obviously) couldn't deal with was my quite hacky, custom way of doing link posts. Luckily, with the help of a friend, [pfleidi](https://twitter.com/pfleidi), I finally managed to get that working as well. There were a few weird cases where I had to manually intervene, especially with the posts that used the Wordpress way of dealing with images, but overall, the process was pretty straightforward. Nothing to be afraid of.
+
+### Theme
+
+In the last fews months, I have seen more and more blogs being redesigned with very pared-down, minimalist layouts that greatly rely on beautiful web typography provided by [Typekit](http://typekit.com) and similar services. Maybe that's a bit of a backlash against the widget-crazy "Web 2.0" times where every blog post absolutely *needed* about a dozen different sharing buttons. It's also an aesthetic I can absolutely agree with. (Additionally, I'm lazy, and building a minimal layout is just *easier* than implementing every possible feature under the sun.) I decided to run with that, and after a bit of pondering and discussing and staring at [Kottke](http://kottke.org), [Es Bueno](http://esbueno.noahstokes.com/) and [Pat Dryburgh's blog](http://patdryburgh.com/), I decided that I didn't need a sidebar. "Go, go, single column!" I thought, quickly sketched a first draft and started to look for a nice, minimal template to build on. Just customising the default Octopress theme was not really an option; I like to actually (at least mostly) understand how the design works. I finally settled on forking [Ethan Turkeltaub's](http://ethan.heroku.com/) theme. It's a very basic one, but that's what made it a perfect starting point for learning the templating language Octopress uses. And boy, it's a step up from Wordpress, where you practically insert straight PHP into your template to make it work. 
+
+Actually developing the theme was pretty straightforward. Once I got a basic layout working, I could just iterate and add features as I went along. Octopress seems to be built for this kind of development. It supports SCSS out of the box, which makes writing CSS about 20% less annoying and also has a built-in preview mode. You just type "rake preview" into the command line to start a local web server that even auto-compiles SCSS files when they are saved.<sup id='fnref:2'><a href='#fn:2' class='ftnl' rel='footnote'>2</a></sup>
+
+When I finally added the fonts from Typekit, it was a revelation. I'm completely in love with Museo Slab and Museo Sans, especially with the way they look on Retina screens. Just stunning. Every single site on the web should have nice fonts like this. It's not even that much work, the hardest part is choosing the right ones.
+
+Because this blog now has a single-column layout, it was ridiculously easy to make it responsive. At the moment, it basically just stays fixed for screen sizes (or browser window widths) above 800 pixels and simply scales to 90% of the width below. I am amazed by the fact that this works so well and so easily. There are only very minor changes in the design I had to make for smaller screens: The font size decreases slightly below 640px to save everyone a bit of scrolling on iPhones and the two columns in the footer stack on top of each other. That's about it. I don't really know what to do with the article heading on the iPhone, though. They don't look particularly broken right now, but it's not perfect either. We'll see.
+
+If you're still reading at this point, you deserve a web geek medal and should probably just head over to Github to peek at the source code first-hand. It's not that much. :) Feel free to fork it and make it your own. Just change the colours and fonts a bit, I'm not terribly comfortable with two blogs looking exactly alike. It's creepy.
+
+Well, that's pretty much all I have to say. And that, my friends, is how you don't finish an article.
+
+
+<div class="footnotes">
+		<p id='fn:1'>1. Which is perfectly legitimate. Nobody should need to fool around on the command line just to put content on the web. That's something many nerds tend to forget: The web no longer belongs only to people who know how to code, and it's better off that way. I don't want a brilliant writer to waste his time reading documentation when he could be writing his next story instead. <a href='#fnref:1' rev='footnote'>↩</a></p><p id='fn:2'>2. Here's a little pro tip: When you start developing, move the category_generator.rb plugin out of the plugin directory. If you're just testing the layout, you don't really need to render new categories every few minutes. Don't forget to actually build a category archive template and re-enable the plugin, though. ;) <a href='#fnref:2' rev='footnote'>↩</a></p>
+</div>
+
+]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Fish: A Tap Essay]]></title>
+		
+			<link href="http://www.robinsloan.com/fish/"/>
+		
+
+		<updated>2012-03-24T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/fish-a-tap-essay</id>
+		<content type="html">
+			<![CDATA[Everything about this essay by Robin Sloan is brilliant: The writing, the presentation, and the marketing.
+
+**Writing**: "Fish" is a short, but thought-provoking essay on the relationship between liking and loving content on the web. Robin makes some great points on how to deal with the onslaught of interesting *stuff* the web keeps throwing at us. Definitely worth your time, and probably very suitable to being re-read from time to time.
+
+**Presentation**: This is the fun part. This essay was not published on a blog, but in form of a little iPhone app. Even though I think that this shouldn't become a standard, I'll let this one pass. Because it's so damn beautiful and fun. It feels more like watching the slides of a talk than reading an essay. There are a few lines of text at most on every screen, sometimes just a word. And at some point, oddly enough, the picture of a fish. 
+
+**Marketing**: The idea is slightly evil, but still brilliant: The most memorable lines of this essay have a Twitter button built right in. A few taps and you can tweet it, including a link to the essay, of course. Instant marketing, done in style. (You should totally found a company with that motto.)
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/fish-a-tap-essay/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[one tiny hand]]></title>
+		
+			<link href="http://onetinyhand.com/"/>
+		
+
+		<updated>2012-03-20T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/one-tiny-hand</id>
+		<content type="html">
+			<![CDATA[Best. Tumblr. Ever. I honestly laughed out loud when I saw the first picture, and just kept on laughing until I reached the end.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/one-tiny-hand/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Higgs for Non-Nerds]]></title>
+		
+			<link href="http://www.quantumdiaries.org/2012/03/02/all-on-the-higgs-for-nearly-everyone/"/>
+		
+
+		<updated>2012-03-03T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/higgs-for-non-nerds</id>
+		<content type="html">
+			<![CDATA[Eine sehr verständliche, aber trotzdem detaillierte und (soweit ich das beurteilen kann, also gar nicht) korrekte Erklärung des Higgs-Bosons. Ihr wisst schon, das Elementarteilchen, dass in den nächsten Monaten endlich am LHC gefunden werden sollte.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/higgs-for-non-nerds/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Steve]]></title>
+		
+			<link href="http://www.appleoutsider.com/2011/10/06/sj/"/>
+		
+
+		<updated>2011-10-06T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/steve</id>
+		<content type="html">
+			<![CDATA[Steve
+
+> An era has ended, and we now sit to reflect on our good fortune for having lived in a time when a true giant walked the Earth.
+
+so eloquently says what I have been trying to put into words. We live in a truly amazing time, and some of its awesomeness is Steve's work. He has truly, undeniably changed the world we live in. He also was, and is, an inspiration. I am deeply grateful to have shared a planet with him.
+
+[Jason Kottke](http://kottke.org/11/10/remembering-steve-jobs) has collected some great stories, thoughts and videos on Steve. Do yourself a favor and read some, or at least watch [this video](http://www.youtube.com/watch?v=8rwsuXHA7RA).
+
+Thank you, Steve. 
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/steve/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

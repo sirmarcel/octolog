@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Geeks | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/geeks/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[What to Get for That Nerdy, Design-Savvy, Coffee-Loving, Snowboarding, Person in Your Life]]></title>
+		
+			<link href="http://shawnblanc.net/2009/12/nerd-gift-guide/"/>
+		
+
+		<updated>2009-12-07T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/what-to-get-for-that-nerdy-design-savvy-coffee-loving-snowboarding-person-in-your-life</id>
+		<content type="html">
+			<![CDATA[Ich würde mich über alles auf dieser Liste freuen.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/what-to-get-for-that-nerdy-design-savvy-coffee-loving-snowboarding-person-in-your-life/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rant | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/rant/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Oh Fuck: Facebook acquires Push Pop Press]]></title>
+		
+			<link href="http://pushpoppress.com/about/"/>
+		
+
+		<updated>2011-08-02T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/oh-fuck-facebook-acquires-push-pop-press</id>
+		<content type="html">
+			<![CDATA[Money quote:
+> There are no plans to continue publishing new titles or building out our publishing platform that was in private beta.
+
+I don't usually blog about any current tech news, but this one's different. I'm pissed. Seriously, these guys had a shot at changing the way e-books work, they were among to first to make one that doesn't suck and then they sell out to fucking Facebook? The company with the utterly unusable website, an incredibly shitty iPhone app and a level of sheer creepiness that makes me shiver every time I use it? Are you fucking kidding me? I just can't believe this shit.
+
+(Sorry for ranting, but damn, that needed to be said. Imma listen to some quiet music now.)
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/oh-fuck-facebook-acquires-push-pop-press/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

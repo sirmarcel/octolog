@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Berlin | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/berlin/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Tanith zeigt uns “seine” Stadt: Der alternative Reiseführer für Berlin]]></title>
+		
+			<link href="http://www.tanith.org/?p=2344#more-2344"/>
+		
+
+		<updated>2011-04-27T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/tanith-zeigt-uns-%e2%80%9cseine%e2%80%9d-stadt-der-alternative-reisefuhrer-fur-berlin</id>
+		<content type="html">
+			<![CDATA[<p>Was der Titel sagt.</p>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/tanith-zeigt-uns-%25e2%2580%259cseine%25e2%2580%259d-stadt-der-alternative-reisefuhrer-fur-berlin/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

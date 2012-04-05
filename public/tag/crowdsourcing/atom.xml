@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Crowdsourcing | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/crowdsourcing/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[The Trivialities and Transcendence of Kickstarter]]></title>
+		
+			<link href="http://www.nytimes.com/2011/08/07/magazine/the-trivialities-and-transcendence-of-kickstarter.html"/>
+		
+
+		<updated>2011-08-19T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/the-trivialities-and-transcendence-of-kickstarter</id>
+		<content type="html">
+			<![CDATA[A great article on the inception of Kickstarter.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/the-trivialities-and-transcendence-of-kickstarter/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

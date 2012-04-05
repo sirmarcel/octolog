@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Stephen Fry | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/stephen-fry/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Stephen Fry on Star Trek, Douglas Adams, and More]]></title>
+		
+			<link href="http://www.wired.com/geekdad/2011/07/stephen-fry-on-star-trek-douglas-adams-and-more/"/>
+		
+
+		<updated>2011-08-07T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/stephen-fry-on-star-trek-douglas-adams-and-more</id>
+		<content type="html">
+			<![CDATA[I could listen to Stephen talk for hours on end. Well, I actually did and so should you. First watch this interview, then buy his (audio)book [Moab Is My Washpot](http://www.amazon.de/Moab-My-Washpot-Stephen-Fry/dp/1846572746?tag=lumenlog-21). You're welcome.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/stephen-fry-on-star-trek-douglas-adams-and-more/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

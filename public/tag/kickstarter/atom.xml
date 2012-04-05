@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Kickstarter | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/kickstarter/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[A Show with Ze Frank]]></title>
+		
+			<link href="http://www.kickstarter.com/projects/zefrank/a-show-with-ze-frank"/>
+		
+
+		<updated>2012-03-01T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/a-show-with-ze-frank</id>
+		<content type="html">
+			<![CDATA[Mal wieder Crowdfunding: Ich hatte in meinem [Artikel über Podcasts](http://lumenlog.com/articles/transzendieren-beim-staubsaugen) die "The Show with Ze Frank" empfohlen und bedauert, dass es sie nicht mehr gibt. In Zukunft aber wieder, denn im Moment sammelt Ze Geld, um eine Neuauflage der Show zu produzieren. Ich habe ihm ohne großes Nachdenken einen Fünfer zugesteckt, das gleiche solltet ihr auch tun. Eine kleine Motivation: Seine Unterstützer werden schon jetzt an der Planung der Show beteiligt…
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/a-show-with-ze-frank/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[The Trivialities and Transcendence of Kickstarter]]></title>
+		
+			<link href="http://www.nytimes.com/2011/08/07/magazine/the-trivialities-and-transcendence-of-kickstarter.html"/>
+		
+
+		<updated>2011-08-19T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/the-trivialities-and-transcendence-of-kickstarter</id>
+		<content type="html">
+			<![CDATA[A great article on the inception of Kickstarter.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/the-trivialities-and-transcendence-of-kickstarter/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

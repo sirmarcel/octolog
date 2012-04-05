@@ -12,14 +12,11 @@ status: publish
 type: post
 published: true
 meta:
-  aktt_notify_twitter: 'yes'
   _edit_last: '1'
   sub: Ein Erfahrungsbericht (Teil 1)
   img: nehrim_1
 
 ---
-<a href="http://lumenlog.com/images/articles/nehrim_03.jpg" class="img-link"><img src="http://lumenlog.com/images/articles/nehrim_03_s.jpg"></a>
-
 *Warnung: Obwohl ich keine Storydetails verrate, könnte euch dieser Artikel einige Überraschungen vorwegnehmen. Wollt ihr Nehrim also ohne jegliches Vorwissen beginnen, solltet ihr nicht weiterlesen.*
 
 Seit einigen Jahren verfolge ich schon die Entwicklung von "<a href="http://nehrim.de">Nehrim</a> - Am Rande des Schicksals", des bestimmt ambitioniertesten Mod-Projekts für Oblivion. Schon von Anfang an war klar, dass das Team von Freiwilligen (<a href="http://www.sureai.de/">SureAI</a>), das sich für dieses Projekt zusammengefunden hatte, gute Chancen hatte, das beste Rollenspiel der letzten Jahre zu erschaffen. Vier Jahre lang haben sie geschuftet, und endlich nähert sich Nehrim der Vollendung. Man kann sich vorstellen, wir groß meine Freude war, als mich Arandor vor einigen Wochen gefragt hat, ob ich nicht am Nehrim-Betatest teilnehmen wollte. Letzten Samstag konnte ich dann mit dem Spielen beginnen. Endlich hatte das Warten ein Ende! 

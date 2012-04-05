@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Asides | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/asides/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Current Status]]></title>
+		
+			<link href="http://lumenlog.com/post/current-status/"/>
+		
+
+		<updated>2011-10-05T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/current-status</id>
+		<content type="html">
+			<![CDATA[Was ich gerade mache:
+
+Nur, um meine Abwesenheit hier etwas zu entschuldigen: Ich bin gerade dabei, nach Karlsruhe umzuziehen und dort mein Physikstudium anzufangen. Wünscht mir Glück! ;) Sobald meine Tage wieder einen Anschein von Ordnung haben, geht's hier wieder los.
+]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Kleine Servicedurchsage]]></title>
+		
+			<link href="http://lumenlog.com/post/kleine-servicedurchsage/"/>
+		
+
+		<updated>2011-08-07T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/kleine-servicedurchsage</id>
+		<content type="html">
+			<![CDATA[Kleine Servicedurchsage:
+
+Das Lumenlog hat ein moderates Redesign erfahren, ich habe sowohl vor als auch hinter den Kulissen ein wenig aufgeräumt. Ihr findet euch schon zurecht. Bitte sagt, wenn euch etwas komisch vorkommt.
+]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Urlaub]]></title>
+		
+			<link href="http://lumenlog.com/post/urlaub/"/>
+		
+
+		<updated>2011-06-12T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/urlaub</id>
+		<content type="html">
+			<![CDATA[Nachdem sämtliche Abiturfeiern nun erledigt sind, mache ich erst einmal etwas Urlaub. Ein wenig Pause, bevor ein neuer Lebensabschnitt beginnt.
+
+Bis in drei Wochen!
+
+Wer sich dafür interessiert, was ich in der Zeit treibe, sollte [mir auf Twitter](http://twitter.com/xartas) folgen. ;-)
+]]>
+			
+		</content>
+	</entry>
+  
+</feed>

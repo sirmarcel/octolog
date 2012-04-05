@@ -3,7 +3,6 @@ layout: post
 title: iPhone Tracker
 categories:
 - Apple
-- Articles
 - Links
 status: publish
 type: post

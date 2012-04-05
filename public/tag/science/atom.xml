@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Science | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/science/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Richard Feynman: No Ordinary Genius]]></title>
+		
+			<link href="http://www.youtube.com/watch?v=Fzg1CU8t9nw"/>
+		
+
+		<updated>2012-04-03T23:28:00+02:00</updated>
+		<id>http://lumenlog.com//post/richard-feynman-no-ordinary-genius</id>
+		<content type="html">
+			<![CDATA[What a coincidence, I just started reading "Sureley You're Joking, Mr. Feynman!", and then this great 90-minute documentary about him pops up on Kottke. I guess I will come back to this every time I doubt that I picked the right subject to study.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/richard-feynman-no-ordinary-genius/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

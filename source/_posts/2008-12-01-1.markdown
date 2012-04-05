@@ -9,8 +9,8 @@ type: post
 published: true
 meta: {}
 ---
-<img class="alignleft size-full wp-image-106" title="Adventskalender-Icon" src="http://lumenpage.com/blog/wp-content/uploads/2008/12/mail-32.png" alt="" width="32" height="32" />Weihnachten naht, erste Schneeflocken fallen. Man wird sentimental... und beginnt, seinen Adventskalender anzugreifen. Und damit auch hier diese Tradition gewahrt bleibt, bekommt das Lumenlog auch einen. Jeden Tag einen kleinen Link, irgendetwas, das Freude bereitet.<!--more-->
+<img class="alignleft size-full wp-image-106" title="Adventskalender-Icon" src="/images/2008/12/mail-32.png" alt="" width="32" height="32" />Weihnachten naht, erste Schneeflocken fallen. Man wird sentimental... und beginnt, seinen Adventskalender anzugreifen. Und damit auch hier diese Tradition gewahrt bleibt, bekommt das Lumenlog auch einen. Jeden Tag einen kleinen Link, irgendetwas, das Freude bereitet.<!--more-->
 
 Heute von meinem Lieblingswebcomic ein Beitrag. <a title="Für Faule... ;)" href="http://xkcd.com">xkcd.com</a>, so heißt er. Ein etwas eigentümlicher Humor, auf Englisch, aber meistens ziemlich lustig.
 
-[caption id="attachment_104" align="aligncenter" width="500" caption="Bitte klicken, um das Bild in Originalgröße zu sehen. "]<a href="http://xkcd.com/361/"><img class="size-medium wp-image-104" title="Christmas back home." src="http://lumenpage.com/blog/wp-content/uploads/2008/12/christmas_back_home-500x147.png" alt="" width="500" height="147" /></a>[/caption] 
+<a class="img-link-left" href="http://xkcd.com/361/"><img class="" title="Christmas back home." src="/images/2008/12/christmas_back_home-500x147.png" alt="" width="500" height="147" /></a>

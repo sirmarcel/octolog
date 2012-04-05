@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Food | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/food/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Unhappy Meals]]></title>
+		
+			<link href="http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html?_r=3&pagewanted=print"/>
+		
+
+		<updated>2010-03-28T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/unhappy-meals</id>
+		<content type="html">
+			<![CDATA[<blockquote>Eat food. Not too much. Mostly plants.</blockquote>
+
+Ein ausuferndes Essay über Essen, und wie es zu dem geworden ist, was wir heute als Essen kennen.
+<span class="en">An essay on the history of food and how our perception of it has changed in the last decades.</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/unhappy-meals/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Lifehack | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/lifehack/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[How to do things faster]]></title>
+		
+			<link href="http://www.youtube.com/watch?v=9eEUHPSei70"/>
+		
+
+		<updated>2011-05-16T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/how-to-do-things-faster</id>
+		<content type="html">
+			<![CDATA[Amazing.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/how-to-do-things-faster/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

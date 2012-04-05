@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: New York | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/new-york/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[THIS MUST BE THE PLACE]]></title>
+		
+			<link href="http://thismustbetheplace.tv/"/>
+		
+
+		<updated>2012-02-04T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/this-must-be-the-place</id>
+		<content type="html">
+			<![CDATA[> THIS MUST BE THE PLACE is a series of short films that explore the idea of home; what makes them, how they represent us, why we need them.
+
+I just watched the most recent one about "The Prime Burger", a burger place in Manhattan that has been around for 74 years. The amazing camera work really captures the place. Eight minutes well spent.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/this-must-be-the-place/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

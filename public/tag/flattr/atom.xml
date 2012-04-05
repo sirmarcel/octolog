@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flattr | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/flattr/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Flattr und die Ökonomie des Kontrollverlusts]]></title>
+		
+			<link href="http://faz-community.faz.net/blogs/crtl-verlust/archive/2010/05/21/flattr-und-die-oekonomie-des-kontrollverlusts.aspx"/>
+		
+
+		<updated>2010-06-16T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/flattr-und-die-okonomie-des-kontrollverlusts</id>
+		<content type="html">
+			<![CDATA[<blockquote>Flattr gibt den Lesern von Blogs ein einfach zu bedienendes, schnell einsetzbares Tool in die Hand, mit der sie das Geschenk eines Blogartikels erwidern können, ohne das Geschenk als Geschenk zu neutralisieren.</blockquote>
+
+Fundierter, gut recherchierter und tiefgründiger Artikel. Jetzt ist aber auch erstmal Schluss mit dem Thema Flattr...
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/flattr-und-die-okonomie-des-kontrollverlusts/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Gedanken zu Flattr]]></title>
+		
+			<link href="http://tim.geekheim.de/2010/06/03/i-am-flattered/"/>
+		
+
+		<updated>2010-06-03T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/gedanken-zu-flattr</id>
+		<content type="html">
+			<![CDATA[<blockquote>Nichts würde mich mehr freuen, als wenn durch Flattr eine Zahlungskulturbewegung losgetreten wird, die Leute ermutigt, Dinge zu tun, die sie lieben [...].</blockquote>
+<blockquote>Es liegt mir fern, hier in Euphorie auszubrechen, aber ich habe das Gefühl, dass hier was wächst, was durchaus nachhaltig sein könnte</blockquote>
+
+Ich kann Tims Faszination an <a href="http://flattr.com/">Flattr</a> gut nachvollziehen. Auch für Modder könnte das eine interessante Spenden-Möglichkeit sein...
+
+Wollt ihr Flattr mal ausprobieren? Ich habe noch drei Beta-Codes übrig: 
+<del>4793e2c0e39936c3b</del>
+<del>663eccf5c68559db7</del>
+90831c5eef3714a5f
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/gedanken-zu-flattr/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

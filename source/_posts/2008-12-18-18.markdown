@@ -14,7 +14,10 @@ published: true
 meta: {}
 ---
 Zur Abwechslung beschäftigen wir uns mal wieder etwas mehr mit den Elder-Scrolls-Spielen. Diesmal die sehr humorigen Rezensionen von <a href="http://olnigg.de">olnigg.de</a>. Sowohl zu Morrowind als auch zu Oblivion. Mein Lieblingszitat:
-[caption id="attachment_258" align="aligncenter" width="250" caption="Sind ferne Wolken klar und nahe Häuser im Dunst, dann hat der Grafiker ganz schön was verhunzt."]<img src="http://lumenpage.com/blog/wp-content/uploads/2008/12/olg7417jpg.jpeg" alt="Sind ferne Wolken klar und nahe Häuser im Dunst, dann hat der Grafiker ganz schön was verhunzt." title="Vivec" width="250" height="195" class="size-full wp-image-258" />[/caption]
+
+<img src="/images/articles/2008/12/olg7417jpg.jpeg" alt="Sind ferne Wolken klar und nahe Häuser im Dunst, dann hat der Grafiker ganz schön was verhunzt." title="Vivec" width="250" height="195" class="size-full wp-image-258" />
+
+"Sind ferne Wolken klar und nahe Häuser im Dunst, dann hat der Grafiker ganz schön was verhunzt."
 
 
 Hier die Links zu den Artikeln über <a href="http://olnigg.de/jahr2006/olg127.htm">Oblivion</a> und <a href="http://olnigg.de/jahr2002/olg74.htm">Morrowind</a>.

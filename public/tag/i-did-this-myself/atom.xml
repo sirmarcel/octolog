@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: I Did This Myself | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/i-did-this-myself/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Retinacast: Game of Thrones]]></title>
+		
+			<link href="http://retinacast.de/game-of-thrones/"/>
+		
+
+		<updated>2011-08-18T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/retinacast-game-of-thrones</id>
+		<content type="html">
+			<![CDATA[Ein neuer Podcast, der alle drei Wochen eine andere Serie vorstellt. Das Thema der ersten Folge ist "Game of Thrones", die Serien-Adaption des Fantasy-Epos "A Song of Ice and Fire". Ich bin auch zu hören, wenn auch ein wenig konfus. In der zweiten Folge wird es besser, versprochen!
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/retinacast-game-of-thrones/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[simplett - a simple html/css timetable]]></title>
+		
+			<link href="http://simplett.com/"/>
+		
+
+		<updated>2010-09-15T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/simplett-a-simple-htmlcss-timetable</id>
+		<content type="html">
+			<![CDATA[Die Stundenpläne meiner Schule waren mir nicht schön genug, deshalb habe ich mir einen eigenen in HTML und CSS gebaut. Damit sind dann auch die letzten drei Tage gefüllt gewesen...
+<span class="en">Our school's timetables are pretty terrible, so I built a better one in HTML and CSS.</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/simplett-a-simple-htmlcss-timetable/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Publishing | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/publishing/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Our Choice]]></title>
+		
+			<link href="http://pushpoppress.com/ourchoice/"/>
+		
+
+		<updated>2011-05-01T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/our-choice</id>
+		<content type="html">
+			<![CDATA[Das erste "Multimedia-Buch" das mir wirklich gut gefällt. Ich bin gerade erst mit dem zweiten Kapitel fertig, aber beeindruckt von der Qualität des Interaktionsdesigns, der Typographie, den Bildern und dem Konzept. Inhalt? Interessant, bis jetzt wenig wirklich neues, aber gut und eindringlich formuliert.
+<span class="en">The first interactive, multi-media book that I like. The interaction design is stunningly well done, the typography is more than bearable, the combination of text, pictures, videos and infographics works and above all, it's actually fun to read. The content? Good so far, nothing particularly new. The subject is as important as ever.</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/our-choice/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

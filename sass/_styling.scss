@@ -57,12 +57,13 @@ a {
 	text-decoration: none;
 	color: $accent;
 	border-bottom: 1px solid $link-border;
-	width: 100%;
 	}
 
 a:hover {
 	color: $accent2;
 	-webkit-transition: color 0.5s ease, border-color 0.5s ease;
+	-moz-transition: color 0.5s ease, border-color 0.5s ease;
+	transition: color 0.5s ease, border-color 0.5s ease;
 	border-bottom: 1px solid $accent2-dim;
 	}
 	
@@ -137,6 +138,9 @@ article {
 		text-indent: 1em;
 		font-weight: 300;
 		}
+	p:last-of-type {
+		margin-bottom: 0;
+		}
 	}
 	
 article:last-of-type {
@@ -145,7 +149,6 @@ article:last-of-type {
 	
 article footer {
 	padding: 0.5*$line 0 0.5*$line 0;
-	margin-top: -$line;
 	color: $text-light;
 	font-size: 0.7em;
 	line-height: $line;
@@ -178,19 +181,49 @@ h1#page-title {
 	font-weight: 500;
 	}	
 	
-/* Secondary Content */
+/* Secondary Content / Navigation */
 
-form#search input {
-	padding: 0.1em 0.2em;
-	font-size: 0.8em;
-	background-color: transparent;
-	border: none;
+form#search {
+	float: right;
+	width: 40%;
+	input {
+		padding: 0.1em 0.2em;
+		font-size: 1em;
+		background-color: transparent;
+		border: none;
+		height: $line;
+		color: $text;
+		margin-left: -0.2em;
+	}
+	fieldset {
+		padding: 0;
+		margin: 0.5*$line 0;
+	}
+	input.search {
+		width: 100%;
+	}
+	input.search:focus {
+		background-color: $sub;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		outline: none;
+		margin: 0;
+		-webkit-transition: background-color 0.5s ease, margin 0.3s ease;
+		-moz-transition: background-color 0.5s ease, margin 0.3s ease;
+		transition: background-color 0.5s ease, margin 0.3s ease;
+		}
 	}
 	
 fieldset {
 	border: none;
 	}
-
+	
+a.nav-link {
+	float: left;
+	margin-right: 2em;
+	border: none !important;
+	}
 
 div#secondary {
 	border-top: 1px solid $sub;	
@@ -208,12 +241,12 @@ footer {
 	
 /* Goddamn Fucking Archives */
 
-	.category-archive h2.year {
+	.archive h2.year {
 		font-size: 1.2em;
 		line-height: $line;
 		font-weight: 500;
 	}
 	
-	.category-archive .article footer {
-		margin-top: $line;
+	.archive .article footer {
+
 	}

@@ -17,11 +17,21 @@ layout: nil
 
   {% for post in site.categories[page.category] limit: 5 %}
   <entry>
-    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-    <link href="{{ site.url }}{{ post.url }}"/>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | markdownify | cdata_escape }}]]></content>
-  </entry>
+		<title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+		{% if post.external-url %}
+			<link href="{{ post.external-url }}"/>
+		{% else %}
+			<link href="{{ site.url }}{{ post.url }}"/>
+		{% endif %}
+
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<id>{{ site.url }}/{{ post.id }}</id>
+		<content type="html">
+			<![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]>
+			{% if post.external-url %}
+				<![CDATA[<a class="permalink" href="{{ site.url }}{{ post.url }}">Permalink</a>]]>
+			{% endif %}
+		</content>
+	</entry>
   {% endfor %}
 </feed>

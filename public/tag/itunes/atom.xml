@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iTunes | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/itunes/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[iTunes & OCD]]></title>
+		
+			<link href="http://hessi.tumblr.com/post/1073937480/using-itunes-part-1-introduction-to-stars"/>
+		
+
+		<updated>2010-09-08T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/itunes-ocd</id>
+		<content type="html">
+			<![CDATA[Hessi von Bits und so erklärt, wie man mit iTunes komplexere Systeme zur Verwaltung von Musik erstellt. Eines der Ziele ist es, immer automatisch Musik vorgespielt zu bekommen, die man mag und länger nicht gehört hat. Und nach Sternen aufgeschlüsselte Playlists zu erstellen. Und Playlisten eine bestimme Größe für die Synchronisierung zuzuweisen. Und... Bis jetzt sind zwei Teile verfügbar, aber es werden wohl noch einige folgen. (Teil: <a href="http://hessi.tumblr.com/post/1073937480/using-itunes-part-1-introduction-to-stars">1</a>, <a href="http://hessi.tumblr.com/post/1081964615/using-itunes-part-2-quarantine-periods">2</a>)
+<span class="en">A power-user's guide to iTunes on how to create an <strike>OCD</strike> <strike>anal</strike> complex system for dealing with music. Worth a read. There are two parts already available, but I believe there will be many more... (Part: <a href="http://hessi.tumblr.com/post/1073937480/using-itunes-part-1-introduction-to-stars">1</a>,<a href="http://hessi.tumblr.com/post/1081964615/using-itunes-part-2-quarantine-periods">2</a>)</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/itunes-ocd/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

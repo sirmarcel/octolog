@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Game | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/game/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[The Last Rocket]]></title>
+		
+			<link href="http://shauninman.com/lastrocket/"/>
+		
+
+		<updated>2011-08-11T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/the-last-rocket</id>
+		<content type="html">
+			<![CDATA[Shaun Inman's brilliant new game, an old-school 8-bit platform puzzler. It looks great, it sounds great and it's quite fun.
+
+It's interesting how there seems to be a market for lo-fi games on iOS. Maybe it's because pixel art looks utterly gorgeous on a high-res display.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/the-last-rocket/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Mimeo in the Tumbleverse]]></title>
+		
+			<link href="http://blog.mimeoverse.com/"/>
+		
+
+		<updated>2010-03-07T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/mimeo-in-the-tumbleverse</id>
+		<content type="html">
+			<![CDATA[Shaun Inman berichtet über seine Fortschritte bei der Entwicklung von "Mimeo and the Kleptonus King".
+<span class="en">Shaun Inman reporting on the progress of "Mimeo and the Kleptonus King".</span>
+
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/mimeo-in-the-tumbleverse/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Shaun Inman's Mimeo and the Kleptopus King, a 16-bit game]]></title>
+		
+			<link href="http://shauninman.com/archive/2010/02/23/mimeo_and_the_kleptopus_king"/>
+		
+
+		<updated>2010-02-23T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/mimeo-and-the-kleptopus-king</id>
+		<content type="html">
+			<![CDATA[Ein 16-bit Retrospiel von Shaun Inman, das sich momentan in der Entwicklung befindet.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/mimeo-and-the-kleptopus-king/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

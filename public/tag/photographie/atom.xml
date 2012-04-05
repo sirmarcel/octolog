@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Photographie | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/photographie/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Panasonic Lumix GF1 Field Test — 16 Days in the Himalayas]]></title>
+		
+			<link href="http://craigmod.com/journal/gf1-fieldtest/"/>
+		
+
+		<updated>2009-12-20T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/panasonic-lumix-gf1-field-test-%e2%80%94-16-days-in-the-himalayas</id>
+		<content type="html">
+			<![CDATA[Ein Reisebericht und ein Review in einem. Die Photos sind schön, und die Kamera hätte ich auch gerne.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/panasonic-lumix-gf1-field-test-%25e2%2580%2594-16-days-in-the-himalayas/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Pictory]]></title>
+		
+			<link href="http://www.pictorymag.com"/>
+		
+
+		<updated>2009-12-03T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/pictory</id>
+		<content type="html">
+			<![CDATA[Photo-Stories, perfekt präsentiert und, natürlich, gut photographiert. Und die Seite ist noch nicht einmal drei Tage alt.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/pictory/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

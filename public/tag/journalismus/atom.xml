@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Journalismus | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/journalismus/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Journalism Warning Labels]]></title>
+		
+			<link href="http://www.tomscott.com/warnings/"/>
+		
+
+		<updated>2010-08-18T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/journalism-warning-labels</id>
+		<content type="html">
+			<![CDATA[Für den kritischen Zeitungsleser von heute. Schade, dass man so etwas braucht...
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/journalism-warning-labels/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

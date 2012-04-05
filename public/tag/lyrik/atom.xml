@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Lyrik | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/lyrik/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Fön]]></title>
+		
+			<link href="http://euerfoen.de/"/>
+		
+
+		<updated>2011-04-27T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/fon</id>
+		<content type="html">
+			<![CDATA[Musik, die Worten das Tanzen beibringt. Irgendwo zwischen Lyrik und Musik spielt Fön, jedes Lied eine neue Überraschung, eine neue Gedankenwelt. Mir gefallen besonders die Stücke, in denen sie einem Alltagsphrasen um die Ohren hauen, mit diesem ironischen Ton. Begeisterung.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/fon/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

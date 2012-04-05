@@ -1,0 +1,693 @@
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="Das Blog von Marcel. Anscheinend schreibt er dort über interessante Dinge." name="description">
+		<meta content="Marcel Langer" name="author">
+		
+		<title>Lumenlog</title>
+		
+		<link href="humans.txt" rel="author" type="text/plain">
+		<link href="/favicon.png" rel="icon">
+		<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+		<link href="/stylesheets/style.css" rel="stylesheet">
+		<link href="http://feeds.feedburner.com/lumenlog" rel="alternate" title="Lumenlog" type="application/rss+xml" />
+		<script type="text/javascript" src="http://use.typekit.com/daj0gkz.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		    (function() {
+        	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	        s.type = 'text/javascript';
+    	    s.async = true;
+        	s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+	        t.parentNode.insertBefore(s, t);
+    		})();
+		/* ]]> */
+		</script>
+		<script src="/mint/?js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<header class="row instapaper_ignore">
+				<h1 id="site-title"><a class="site-link" href="/">Lumenlog.</a></h1>
+			</header>
+			<div id="main">
+				
+
+
+	<article class="article">
+	<header>
+		
+			
+				<img class="article-img" src="/images/title-images/v2.png"> 
+			
+			<h1 class="article-title"><a href="/post/lumenlog-v2/">Lumenlog v.2</a></h1>
+			<h2 class="sub-title">Redesign, hurra!</h2>
+		
+	</header>
+	<section class="content">
+		<p>Oh, das Lumenlog. Irgendwie mag ich es ja doch schon sehr, mein kleines Häuschen in den Weiten des Cyberspace. Es hat mir eine willkommene Ausrede verschafft um einen Server anzumieten, mit der Linux-Kommandozeile Freundschaft zu schließen und meine Webdesign-Fähigkeiten zu verbessern. Und es ist, natürlich,  eine großartige Plattform um ein paar Gedanken mit euch, meinen geschätzten Lesern, zu teilen. Alles in allem, eine tolle Sache.</p>
+
+<p>Mit der Einführung der Links hat sich der Charakter des Blogs etwas gewandelt, die Artikel wurden von den Links förmlich überrannt. Das hat mir überhaupt nicht gefallen. Da ich keine Möglichkeit sah, das bestehende Design des Blogs, das auf dem großartigen, aber extrem komplexen <a href="http://getk2.com">K2</a> aufbaut war, an die Links anzupassen, habe ich die Gelegenheit beim Schopf ergriffen, mal etwas ganz neues zu machen. Einfach mal selbst hinsetzen, ein bisschen im Wordpress-Wiki lesen und ein eigenes Design coden, so sah der Plan aus. Er hat auch funktioniert, aber eine Menge Zeit gekostet.</p>
+
+<p>Doch hier ist es, das Lumenlog v.2, die neueste Versionen dieses kleinen Blogs. Nun sind Artikel wieder von den Links getrennt. Jetzt ist der Quellcode aufgeräumt und sinnvoll, nicht mehr so vollgepackt mit komplizierten Verschachtelungen. Lasst mich mal ein bisschen ausholen und das neue Design erklären. Wir machen einen kleinen Rundgang, sozusagen.</p>
+
+<h3>Artikel & Links</h3>
+
+
+<p>Diese Änderung ist wohl die offensichtlichste: Artikel werden jetzt vollkommen anders behandelt als Links. Während Artikel am besten in ihrer vollen Länge auf einer eigenen Seite gelesen werden und sonst nur mit ihren Überschriften angezeigt werden, sind Links kurze Textschnipsel in der rechten Spalte. Sie sind kleiner und unauffälliger geworden, damit sie dem Hauptinhalt der Seite nicht mehr die Aufmerksamkeit stehlen.</p>
+
+<p>Die technische Umsetzung dieser Idee hat sich jedoch als nicht gerade einfach erwiesen, da Wordpress es einem schwer macht, Artikel an zwei verschiedenen Stellen im Design auszugeben. Letztlich sieht es so aus, dass die Links die &#8220;offizielle&#8221; Funktion für die Artikelausgabe benutzen, während die Artikel mit einer eigenen Funktion angezeigt werden. <a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a> Ihr kennt doch bestimmt diese &#8220;Ältere Artikel&#8221;-Links aus anderen Blogs? Die gibt&#8217;s bei Wordpress nur für die &#8220;offizielle&#8221; Artikel-Loop (die Funktion, die Artikel ausgibt). Deshalb werden in den Archiven immer alle <em>Artikel</em> auf einmal ausgegeben, während die <em>Links </em> auf mehrere Seiten verteilt werden. Links brauchen nämlich mehr Platz.</p>
+
+<p>Artikel sind jetzt, wie schon gesagt, überall nur noch mit ihren Titeln vertreten. Das spart Platz auf der Startseite und in den Archiven, so dass es für Leser einfacher wird, interessante Inhalte zu finden. Diese farbige Linie auf der linken Seite aller Artikel-Titel zeigt auf einen Blick an, welcher Kategorie der Artikel angehört. Orange ist <a class="link-modding" href="http://lumenlog.com/modding">Modding</a>, grün steht für <a class="link-tech" href="http://lumenlog.com/tech">Tech</a> und Türkis ist der <a class="link-adventskalender" href="http://lumenlog.com/adventskalender">Adventskalender</a>.
+Die Bilder in jedem Artikel-Titel geben einen kleinen Einblick in das Thema des Artikels und lockern das textbasierte Design ein wenig auf. Manchen älteren Artikeln habe ich noch keines zugewiesen, aber das wird in der nächsten Zeit nachgereicht.</p>
+
+<h3>Erkunden</h3>
+
+
+<p>Euch ist bestimmt schon der neue Footer aufgefallen, der neben einem kleinen Einführungstext auch mit dem &#8220;Erkunden&#8221;-Teil glänzt. Dort sind all die Tags und Kategorien versammelt, mit denen ich die Artikel des Lumenlogs organisiere. Anstatt zu verlangen, dass Besucher auf der Archiv-Seite ihr Glück versuchen, ist jetzt jede Seite mit dieser Navigation ausgestattet. Beim Gestalten dieses Abschnitts habe ich auch gleich mal die endlose Vielfalt an Tags aussortiert und mich auf ein paar wenige begrenzt. Es ist jetzt viel wahrscheinlicher, mal mehr als einen Artikel pro Tag zu vorzufinden.  Außerdem habe die verschiedenen Arten von Artikeln wie Essays, Reviews oder Interviews eingeführt. Einen Kalender gibt es auch. Jetzt gibt es wohl keine Ausrede mehr, Artikel <em>nicht</em> zu finden.</p>
+
+<h3>Design</h3>
+
+
+<p>Offensichtlich hat sich auch das Aussehen des Lumenlogs nicht wenig gewandelt. Ich bin immer noch ein wenig traurig darüber, dass der Holzhintergrund wegfallen musste. Auf <a href="http://lumenlog.com/tech/der-erste-tag-als-switcher">meinem MacBook</a> sieht er unglaublich schön aus, dunkel und mystisch, einfach nur <em>holzig</em>. Leider musste ich feststellen, dass er auf Firefox oder gar einem PC ganz anders aussieht, das Holz macht einen vergilbten und bleichen Eindruck, überhaupt nicht mehr schön. Außerdem bin ich mir nicht so ganz über die Herkunft dieses Holzmusters klar, da gehe ich lieber auf Nummer sicher. Das Letzte, was ich brauche, ist ein Copyright-Prozess&#8230; daher gibt es nun ein angenehmes Grau als Hintergrund, neutral und dunkel. Ich mag dieses Grau. Es bringt die Farben der Seite so richtig zum Leuchten, das Orange der Titel, das Blau der Links, die Farben der Kategorien und natürlich die einzelnen Artikel-Bilder.</p>
+
+<p>Zudem habe ich dem Design ein Raster verpasst, ein 20x20 Raster, um genau zu sein. Das sorgt für einen Rhythmus in der Seite und bietet einen klaren Aufbau, der dem Auge gut tut.</p>
+
+<p>Die Schriftart für das Lumenlog ist und bleibt <a href="http://de.wikipedia.org/wiki/Palatino">Palatino Linotype</a>, 13px groß, grau und wunderschön. Viele Blogs setzen auf <a href="http://de.wikipedia.org/wiki/Sans-Serif">Sans-Serif</a>-Schriftarten, aber ich mag den ein wenig altmodischen Look einer guten <a href="http://de.wikipedia.org/wiki/Serif">Serif</a>-Schrift. Meiner Meinung nach sind Serif-Schriften auch besser zu lesen, aber darüber wird gerne und ausführlich gestritten, soweit ich weiß.</p>
+
+<h3>Favicon</h3>
+
+
+<p>Wenn ihr mal einen Blick nach oben in die Adresszeile eures Browsers werft, ganz links ist ein kleines Bildchen, das &#8221;<a href="http://de.wikipedia.org/wiki/Favicon">Favicon</a>&#8221;. Früher war dort eine kleine Version des Lumenlog-Logos zu sehen, das in dieser Größe allerdings ein wenig unscharf und hässlich aussah. Jetzt finden sich dort zwei Kreise mit den wichtigsten Farben des Lumenlogs, die einen bedeutend weniger pixeligigen Eindruck machen. Eine kleinere Änderung, aber in den Lesezeichen oder dem Feedreader ist das doch noch ein bisschen angenehmer als vorher.</p>
+
+<h3>Schluss</h3>
+
+
+<p>So, das war ein kleiner Rundgang durch das neue Design, bei dem natürlich nicht alles angesprochen wurde. Ich hoffe, es gefällt euch. Im Moment geht es der letzten Woche meines <a href="http://lumenlog.com/tech/goin-west">Kanada-Aufenthalts</a> entgegen und deshalb werde ich in der nächsten Zeit unglaublich beschäftigt sein. Alle möglichen Sachen wollen noch besichtigt und erlebt werden, ich muss packen und allen &#8220;Adieu&#8221; sagen. Deshalb solltet ihr in der nächsten Zeit nicht allzu viele Artikel erwarten. Wenn ich mich in Deutschland wieder eingelebt habe, geht es wieder richtig los hier! Mit dem neuen Design sind wir auf jeden Fall für alles gerüstet.</p>
+
+<div class="footnotes">
+<a name="1"></a><sup>1</sup></a> <a href="#1-up">&#8617;</a> Die technische Umsetzung sieht so aus:
+Die Link-Spalte hat die Wordpress-Standardloop, mit ungefähr diesem Code:
+<code>
+&lt;?php  if ( have_posts() ) : while ( have_posts() ) : the_post(); //Start the Loop ?&gt;<br />
+<br />
+&lt;?php  if (in_category('4')) continue; // &Uuml;berspringt alle Posts in der Kategorie Tech, Modding und Adventskalender ?&gt;<br />
+&lt;?php  if (in_category('3')) continue; ?&gt;<br />
+&lt;?php  if (in_category('6')) continue; ?&gt;<br />
+<br />
+    &lt;div class=&quot;link&quot;&gt;<br />
+        &lt;?php the_content(); // Hier wird der Link ausgegeben ?&gt;<br />
+        &lt;span class=&quot;date&quot;&gt;&lt;?php the_time('j. F Y'); ?&gt;&lt;/span&gt; &lt;a class=&quot;permalink&quot; href=&quot;&lt;?php the_permalink(); ?&gt;&quot; title=&quot;Permalink zu &lt;?php the_title(); ?&gt;&quot;&gt;Permalink&lt;/a&gt;<br />
+    &lt;/div&gt;<br />
+<br />
+&lt;?php endwhile; else: // Falls das Archiv leer ist... ?&gt;<br />
+&lt;p&gt;Keine Links vorhanden... uh-oh. Sorry. &lt;/p&gt;<br />
+&lt;?php  endif; ?&gt;
+</code>
+Die Artikel dagegen werden mit einem eigenen WP-Query ausgeben. Die Standard-Loop bekommt vom System automatisch die richtigen Informationen zugespielt, welcher Tag gerade angezeigt wird, oder ob es sich um ein Datum handelt&#8230; bei dem eigenen Query muss man dagegen vorher die Argumente sammeln, deshalb gibt es diese längliche Sektion im Archiv-Template:
+<code>
+&lt;?php /* If this is a tag archive */ if( is_tag() ) { ?&gt;<br />
+        &lt;?php $current_tag = single_tag_title(&quot;&quot;, false); ?&gt;    <br />
+        &lt;?php $query= 'tag=' . $current_tag . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+<br />
+&lt;?php /* If this is a daily archive */ } elseif (is_day()) { ?&gt;<br />
+            &lt;?php $current_day = get_the_time('j');<br />
+            $current_month =  get_the_time('n'); <br />
+            $current_year = get_the_time('Y'); ?&gt;    <br />
+        &lt;?php $query= 'day=' . $current_day . '&amp;monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts          that are not links ?&gt;<br />
+        <br />
+&lt;?php /* If this is a monthly archive */ } elseif (is_month()) { ?&gt;<br />
+            &lt;?php $current_month =  get_the_time('n'); <br />
+            $current_year = get_the_time('Y'); ?&gt;    <br />
+        &lt;?php $query= 'monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+<br />
+&lt;?php /* If this is a yearly archive */ } elseif (is_year()) { ?&gt;<br />
+        &lt;?php $current_month =  get_the_time('n'); <br />
+            $current_year = get_the_time('Y'); ?&gt;    <br />
+        &lt;?php $query= 'monthnum=' . $current_month . '&amp;year='. $current_year . '&amp;cat=-5&amp;showposts=-1';  // query ALL posts that are not links ?&gt;<br />
+        <br />
+      &lt;?php } ?&gt;
+</code>
+
+Und schließlich wird ein neuer Query generiert&#8230; wenn es da eine bessere Lösung gibt, sagt mir das bitte. Diese hier ist ein wenig&#8230; unelegant.
+
+<code>
+&lt;?php  $my_query = new WP_Query($query); if ( $my_query-&gt;have_posts() ) : while ($my_query-&gt;have_posts()) : $my_query-&gt;the_post(); // Erzeugt einen neuen Query mit den Argumenten, die weiter oben definiert wurden ?&gt;<br />
+&lt;?php include (TEMPLATEPATH . '/article_head.php'); // Artikel-Titel-Styling ist ausgelagert ?&gt;<br />
+    &lt;?php endwhile; else: ?&gt;<br />
+        &lt;p&gt;Keine Artikel vorhanden. Sorry. &lt;/p&gt;<br />
+    &lt;?php endif; ?&gt;
+</code>
+
+So, das war jetzt mal ein wenig nerdiger, aber ich wollte mal die Fußnoten testen. Wieder zurück? Gerne doch: <a href="#1-up">&#8617;</a>
+</div>
+
+
+<p><strong>So, und nun zu euch. Ich möchte nicht umsonst Stunden mit den Kommentarfeldern da unten verbracht haben. Wie gefällt euch das neue Outfit? Gibt es noch irgendwo noch (unvermeidliche) Seltsamkeiten? Na los, da unten sind die Felder. Und sie sind wunderschön!</strong></p>
+
+	</section>
+	<footer>
+		<span class="date">19.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/design/'>Design</a>, <a class='category' href='/tag/essay/'>Essay</a>, <a class='category' href='/tag/featured/'>Featured</a>, <a class='category' href='/tag/meta/'>Meta</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://feedafever.com/">Launch: Fever</a>
+				<a class="permalink" href="/post/launch-fever/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Ein Web-basierter, unverschämt eleganter <a href="http://de.wikipedia.org/wiki/Feedreader" title="Was ist denn das?">Feedreader</a>, der Artikel nach Wichtigkeit sortiert. Die Webseite an sich ist so schön, dass man eigentlich aus Prinzip die 30$ (20€) bezahlen möchte.</p>
+
+	</section>
+	<footer>
+		<span class="date">18.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/design/'>Design</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://nowdothis.com/">Now Do This</a>
+				<a class="permalink" href="/post/now-do-this/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Mit dem Ende meines Aufenthalts hier in Kanada kommen auch die Abschlussprüfungen bedenklich nahe, zudem müssen alle möglichen Schulprojekte noch fertig gestellt werden. Da ich in manchen Dingen eher auf der faulen Seite stehe, kann ich einen kleinen Motivationstritt immer gut gebrauchen. Im Moment funktioniert &#8220;Now Do This&#8221; dafür ausgesprochen gut. Man gibt auf dieser Seite seine Liste an Aufgaben ein und bekommt dann immer jeweils eine angezeigt, in einer angenehm großen Schrift. Klickt man auf &#8220;Done&#8221;, kommt die nächste Aufgabe, bis die ganze Liste abgearbeitet ist. So weiß man immer, was gerade zu tun ist. Eine sehr schöne Seite, minimalistisch und unkompliziert. &#8220;Now Do This&#8221; ist auch auf Deutsch verfügbar.</p>
+
+	</section>
+	<footer>
+		<span class="date">10.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.youtube.com/homeprojectDE">HOME - Ein Film für die Erde</a>
+				<a class="permalink" href="/post/home-ein-film-fur-die-erde/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Home ist ein Film, der in wunderschönen Bildern die Würde unseres Heimatplanetens und die Folgen so manchen menschlichen Einflusses anschaulich macht. Er soll, so die Macher, dazu aufrufen, die Initiative zu ergreifen. Der ganze Film wird in höchster Qualität und in voller Länge auf YouTube HD verfügbar gemacht, eine sehr nette Geste die bestimmt zu seiner Verbreitung beitragen wird. Ich vermute mal, dass es bald auch Download-Mirrors geben wird, bei mir ruckelt YouTube ein ganz kleines Bisschen. Deutsche Untertitel sind auch verfügbar, der gesprochene Text ist aber weiterhin auf Englisch. Einen Trailer gibt es <a href="http://www.youtube.com/v/b38GerDI-jE">hier</a>.</p>
+
+	</section>
+	<footer>
+		<span class="date">05.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/umwelt/'>Umwelt</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://twitter.com/NginE_Nath">Gezwitscher in Dagart Anor</a>
+				<a class="permalink" href="/post/gezwitscher-in-dagart-anor/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Die Twitterei hat jetzt auch Dagart Anor erreicht&#8230;ich finds toll =)</blockquote>
+
+
+<p>Da kann ich mich nur anschließen. Sogar einen hübschen Hintergrund haben sie.</p>
+
+	</section>
+	<footer>
+		<span class="date">02.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/twitter/'>Twitter</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.spiegel.de/netzwelt/web/0,1518,628017,00.html">Der Spiegel über die Zensur-Debatte</a>
+				<a class="permalink" href="/post/der-spiegel-uber-die-zensur-debatte/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Dass die Unterzeichner der Petition gegen das Filtergesetz es wagen, Vernunft und Bürgerrechte sogar unter dem Risiko, als Päderastenfreunde gebrandmarkt zu werden, zu verteidigen, ist eine Entwicklung, die es eigentlich zu feiern gälte. Hier setzen sich Menschen für sinnvolle Gesetze und demokratische Grundprinzipien ein, teils schamloser öffentlicher Diffamierung zum Trotz. Das passt besser zum 60. Geburtstag des Grundgesetzes als jede Sonntagsrede.</blockquote>
+
+
+<p>Genau.</p>
+
+	</section>
+	<footer>
+		<span class="date">02.06.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://vimeo.com/4697849">Hi - Human Multitouch Interface</a>
+				<a class="permalink" href="/post/hi-human-multitouch-interface/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Dieses Interface hätte ich gerne für meinen Computer. So interaktiv, und so intuitiv zu bedienen!</p>
+
+	</section>
+	<footer>
+		<span class="date">31.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/humor/'>Humor</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://en.wikipedia.org/wiki/Towel_Day">Towel Day 2009</a>
+				<a class="permalink" href="/post/towel-day-2009/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Towel Day is celebrated every <strong>May 25</strong> as a tribute by fans of the late author Douglas Adams. On this day, fans carry a towel with them to demonstrate their love for the books and the author. The commemoration was first held in 2001, two weeks after Adams&#8217; death on May 11, 2001. The towel is a reference to Adams&#8217;s popular science fiction comedy series The Hitchhiker&#8217;s Guide to the Galaxy.</blockquote>
+
+
+<p>Wer von euch Douglas Adams kennt, wird den Sinn dieses Tages verstehen. Hier nochmals als Erinnerung das Zitat aus dem Hitchhiker&#8217;s Guide to the Galaxy:<!--more--></p>
+
+<blockquote>A towel, it says, is about the most massively useful thing an interstellar hitchhiker can have. Partly it has great practical value. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble-sanded beaches of Santraginus V, inhaling the heady sea vapors; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; use it to sail a miniraft down the slow heavy River Moth; wet it for use in hand-to-hand-combat; wrap it round your head to ward off noxious fumes or avoid the gaze of the Ravenous Bugblatter Beast of Traal (such a mind-boggingly stupid animal, it assumes that if you can&#8217;t see it, it can&#8217;t see you); you can wave your towel in emergencies as a distress signal, and of course dry yourself off with it if it still seems to be clean enough.</blockquote>
+
+
+<p>Ich gehe dann mal ein Handtuch suchen.</p>
+
+	</section>
+	<footer>
+		<span class="date">25.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://mashable.com/2009/05/17/wolfram-easter-eggs/">W|A Easter-Eggs</a>
+				<a class="permalink" href="/post/wa-easter-eggs/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>But Stephen Wolfram and his team didn’t stop there, and they certainly didn’t lack a sense of humor when they built their Mathematica-based engine. Slowly but surely, people have been finding some interesting quirks within Wolfram Alpha, triggered by specific questions or events. These interesting easter eggs will make you smile or raise an eyebrow in bewilderment.</blockquote>
+
+
+<p>Am Besten ist immer noch: &#8220;What is the meaning of life?&#8221;</p>
+
+	</section>
+	<footer>
+		<span class="date">20.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://lumenlog.com/images//2009/05/google-solve.png">Das Wissen der Welt</a>
+				<a class="permalink" href="/post/launch-wolfram-alpha/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Das Internet macht uns allen eine Fülle von Informationen zugänglich, die wir nie zuvor hatten. Doch dieses Wissen ist unstrukturiert und chaotisch, wir müssen Suchmaschinen wie Google verwenden, um Antworten auf einfachste Probleme zu finden. Sagen wir mal, ich möchte den Abstand zwischen dem Mond und Saturn herausfinden. Wenn ich Google verwende, muss ich darauf vertrauen, dass irgendjemand vor mir diese Rechnung durchgeführt hat. Google zieht keine Schlüsse, obwohl es das Ergebnis recht einfach berechnen könnte. Obwohl wir das Wissen der Welt im Internet zusammengetragen haben, hilft es uns nichts. Wir müssen immer noch selbst rechnen und darauf vertrauen, dass ein anderer Mensch die Arbeit schon erledigt hat. Doch mit dem heutigen Launch von <a href="http://wolframalpha.com">Wolfram|Alpha</a>, einer neuartigen – ich zögere, dieses Wort zu benutzen – Suchmaschine ändert sich das. Nicht umsonst nenn sich W|A &#8220;computational knowledge engine&#8221;. Anstatt einfach nur bekanntes Wissen wiederzukäuen, kann W|A intelligent Anfragen bearbeiten und berechnen. Anstatt Seiten zu suchen, auf denen irgendjemand die Anzahl den Abstand zwischen Mond und Saturn berechnet hat, nimmt sich W|A selbst die Orbit-Daten beider Himmelskörper her und rechnet den Abstand aus. Wenn das keine Verbesserung gegenüber Google ist, weiß ich auch nicht. Doch dieser intelligente Ansatz hört nicht bei Astronomie auf, nein, er erstreckt sich über alle möglichen Wissensgebiete.</p>
+
+<h3>Anwendungen</h3>
+
+
+<p>Mit einem Anwendungsgebiet von Wolfram|Alpha, der Mathematik, lässt sich sehr schön der Unterschied zwischen Google und W|A aufzeigen. Obwohl Google einen eingebauten Taschenrechner hat, arbeitet dieser doch nur auf einem sehr eingeschränkten Niveau. Geben wir beiden Diensten mal zwei zufällige Gleichungen und die Aufgabe, sie nach &#8220;x&#8221; aufzulösen:</p>
+
+<p><code>"solve y=x<sup>4</sup>+3x<sup>2</sup>+2 and y=x<sup>4</sup>+2x<sup>2</sup> for x".</code></p>
+
+<p>Google antwortet, wie gewohnt, mit einer Liste von Webseiten:
+</a></p>
+
+<p>Während sich Wolfram|Alpha ein großes Stück intelligenter anstellt und die Aufgabe wirklich löst:
+<a class="img-link" href="http://lumenlog.com/images//2009/05/wolfram-solve.png"><img src="http://lumenlog.com/images//2009/05/wolfram-solve-small.jpg" alt="wolfram_solve_small.jpg" border="0" width="800" height="500" /></a></p>
+
+<p>W|A könnte der beste Freund eines jeden Mathematikers – und Mathe-gequälten Schülers – werden. Nicht nur, dass W|A Gleichungen löst, nein, sie werden auch als Graph dargestellt. Anfragen auf einem richtigen Computer in ein Suchfeld einzugeben ist ein großes Stück besser als einen teuren grafikfähigen Taschenrechner mit einem rudimentären Display zu bemühen.</p>
+
+<p>Auch im Bereich der Statistik glänzt Wolfram|Alpha. Angenommen, man möchte die Anzahl der Aids-Toten in Afrika wissen. Einfach mal eingeben, W|A weiß es. Und macht sogar einen Graph daraus.</p>
+
+<p>Die Anwendungsmöglichkeiten für Wolfram|Alpha sind beinahe endlos. Unglaubliche Mengen an Informationen liegen nicht nur zum Abruf bereit – wie es zum Beispiel bei Wikipedia wäre – sondern werden kombiniert, in Relation gebracht und intelligent angewendet. Wenn man eine Tabelle mit Daten will, muss man nicht mehr hoffen, dass es sie in der Wikipedia gibt. Wolfram|Alpha wird mit größter Wahrscheinlichkeit genau die gesuchte Tabelle ausspucken. Recherche wird so ein großes Stück einfacher. Wenn ich an die vielen Stunden denke, dich ich damit verbracht habe, für Erdkunde Informationen über den durchschnittlichen Niederschlag aller U.S. Staaten zu recherchieren, wird mir ganz anders. Wäre Wolfram|Alpha ein wenig früher öffentlich zugänglich geworden, hätte ich mir einige Stunden des Kopierens und Abschreibens erspart.</p>
+
+<h3>Aktueller Stand</h3>
+
+
+<p>Ein derart komplexes System baut sich natürlich nicht von selbst. Jahrelang hat das Team von Wolfram|Alpha vor sich hin gearbeitet, und jetzt geht es richtig los. Nach einer längeren, privaten Testphase ist W|A jetzt bereit, im Ansturm der Internetöffentlichkeit getestet zu werden. Über das kommende Wochenende wird das Team die heute (Freitag) gesammelten Leistungsdaten und Anfragen auswerten und Anpassungen vornehmen.  Dazu wird Wolfram|Alpha wieder abgeschaltet, aber es wird laut des <a href="http://blog.wolframalpha.com/">Projektblogs</a> zwischendurch immer mal wieder angeschaltet werden. Aber bald, sehr bald, wird Wolfram|Alpha wirklich gestartet sein. Und die Welt verändern.</p>
+
+<p>Trotz allem ist Wolfram|Alpha noch ein gutes Stück von der Perfektion entfernt. Manche fragen werden einfach nicht verstanden. Als ich angefangen habe, diesen Artikel zu schreiben, war mein Beispiel &#8220;Anzahl der Atome in einem Wasserglas&#8221; anstatt der Frage nach der Entfernung vom Mond zum Saturn (75.16 Lichtminuten). Unglücklicherweise konnte mir W|A darauf noch keine Antwort liefern. Aber im Laufe der nächsten Wochen und Monate werden solche Kleinigkeiten bestimmt ausgebessert werden.</p>
+
+<h3>Schlusswort</h3>
+
+
+<p>Der heutige Tag könne – man verzeihe mit den pathetischen Ton – in die Geschichte eingehen. Wir sehen  zu, wie der ursprüngliche Zweck des World Wide Web – die Bereitstellung von Wissen – seiner Erfüllung ein Stück näher gekommen ist. Die Geburt einer neuen Art von Anwendung, eine Suchmaschine mit einem Grad von Intelligenz, der bis jetzt unerreichbar schien. Wolfram|Alpha ist, was ich mir immer als &#8220;die Zukunft&#8221; vorgestellt habe. Ein Computer, dem man eine Frage stellt und eine exakte Antwort bekommt. Ein Traum ist wahr geworden.</p>
+
+<p><strong>Und was denkt ihr darüber? Übertreibe ich? Überwiegen die im Moment noch nicht beantwortbaren Fragen die Gewinne? Werdet ihr W|A nutzen?</strong></p>
+
+	</section>
+	<footer>
+		<span class="date">16.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/essay/'>Essay</a>, <a class='category' href='/tag/review/'>Review</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.lk-portal.de/thread.php?postid=3768#post3768">Adash – Das Triumvirat der Danqua</a>
+				<a class="permalink" href="/post/adash-das-triumvirat-der-danqua/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Adash III ist online!</blockquote>
+
+
+<p>Das ist schon genug gesagt. Eine großartige Mod, bei der ich die Ehre hatte, sie schon im Voraus zu Gesicht zu bekommen. Die Story ist spannend, das Leveldesign perfekt und die Vertonung ausgesprochen professionell. Es gibt wirklich keinen Grund, Adash nicht zu spielen.</p>
+
+	</section>
+	<footer>
+		<span class="date">14.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/adash/'>Adash</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/lordkain/'>LordKain</a>, <a class='category' href='/tag/modding/'>Modding</a>, <a class='category' href='/tag/oblivion/'>Oblivion</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.youtube.com/watch?v=LibZFh-zf_4">Launch Trailer von Adash</a>
+				<a class="permalink" href="/post/launch-trailer-von-adash/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Der Release kommt näher. Ausgesprochen gute Mod, soviel konnte man im Beta-Test schon feststellen. Und, ja, ich bin etwas spät dran&#8230;</p>
+
+	</section>
+	<footer>
+		<span class="date">11.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/adash/'>Adash</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/lordkain/'>LordKain</a>, <a class='category' href='/tag/modding/'>Modding</a>, <a class='category' href='/tag/oblivion/'>Oblivion</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.youtube.com/watch?v=FIBSqaUP5PM">Sprecher-Teaser vom Orden</a>
+				<a class="permalink" href="/post/sprecher-teaser-vom-orden/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Ein kurzer Teaser, der 5 bereits fertig vertonte Figuren aus dem ersten Akt unserer Mod zeigt. Insgesamt gibt es über 20 NPCs mit umfangreicher Vertonung alleine im ersten Akt.</blockquote>
+
+
+<p>Erstaunlich, wie Oblivions Abhängigkeit von eingesprochenen Texten so gute Sprecher hervorgebracht hat. Und da hier mehr als ein Sprecher pro Rasse und Geschlecht am Start ist, hört sich das noch besser an als Oblivion.</p>
+
+	</section>
+	<footer>
+		<span class="date">09.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/der-orden/'>Der Orden</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/modding/'>Modding</a>, <a class='category' href='/tag/oblivion/'>Oblivion</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://www.youtube.com/watch?gl=DE&hl=de&v=JxyOclNtkZc">X-Box Morrowind taken to the Extreme</a>
+				<a class="permalink" href="/post/x-box-morrowind-taken-to-the-extreme/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<p>Die gute alte Zeit. Erstaunlich, wie flüssig dieses Haus auf einer X-Box läuft. Ich wusste nichtmal, dass es so viele Special Items in Morrowind gibt.</p>
+
+	</section>
+	<footer>
+		<span class="date">05.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/modding/'>Modding</a>, <a class='category' href='/tag/morrowind/'>Morrowind</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+
+	<article class="link">
+	<header>
+		
+			<h1 class="link-title">
+				<a href="http://twitter.com/adashWIP">Gezwitscher in Adash</a>
+				<a class="permalink" href="/post/twitter-adash/">∞</a>
+			</h1>
+		
+	</header>
+	<section class="content">
+		<blockquote>Nun twittert man auch schon in der Stadt der Magie, offenbar geht man auch dort mit dem Trend der Zeit&#8230; ;)</blockquote>
+
+
+<p>Yes. Das ist großartig. Folgen, ihr alle, so bald wie möglich. Willkommen, LordKain. Endlich Adash-Statusupdates auf Twitter!</p>
+
+	</section>
+	<footer>
+		<span class="date">02.05.2009</span>
+		
+		
+
+<span class="categories"> —  
+  
+    <a class='category' href='/tag/articles/'>Articles</a>, <a class='category' href='/tag/links/'>Links</a>, <a class='category' href='/tag/modding/'>Modding</a>, <a class='category' href='/tag/twitter/'>Twitter</a>, <a class='category' href='/tag/web/'>Web</a>
+  
+</span>
+
+	</footer>
+</article>
+
+
+<footer class="row" id="pagination">
+	<nav>
+		
+			<span id="older"><a href="/page/15/">&larr; Older</a></span>
+		
+		
+			<span id="number">14 <em>of</em> 19</span>
+		
+		
+			<span id="newer"><a href="/page/13/">Newer &rarr;</a></span>
+		
+	</nav>
+</footer>
+
+
+			</div>
+<div id="secondary" class="instapaper_ignore">
+				<nav class="bottom">
+				
+				<form id="search" action="http://www.duckduckgo.com" method="get">
+				  <fieldset>
+					    <input type="hidden" name="sites" value="lumenlog.com" />
+					    <input class="search" type="text" name="q" placeholder="Search&hellip;"/>
+				  </fieldset>
+				</form>
+				
+				<div id="nav-links">
+					<a href="/about" class="nav-link">About & Colophon</a>
+					<a href="/archive" class="nav-link">Archive</a>
+				</div>
+				</nav>
+				<section id="about-english">
+				<p>Oh. You made it all the way down here. Congratulations, you seem to be liking this so far. :) Time to get acquainted. I'm Marcel, this is where I put stuff on the internet. You can follow me on <a href="https://twitter.com/xartas">Twitter</a>, read the <a href="/about">about page</a> (if you're into that sort of thing) or just explore this blog. Have fun & thanks for stopping by!</p>
+				</section>
+				<section id="about-german">
+				<p>
+				Du hast es bis hier unten geschafft. Bravo, irgendwas mache ich wohl richtig. ;) Ich bin übrigens Marcel, hier schreibe ich über Sachen, die ich interessant finde. Du kannst mir auch auf <a href="https://twitter.com/xartas">Twitter</a> folgen, oder mir beim <a href="http://retinacast.de">Retinacast</a> dabei zuhören, wie ich mich mit anderen über Serien unterhalte. Oder dich einfach weiter umschauen. Viel Spaß!
+				</section>
+				<p class="flattr-button"><a class="FlattrButton" style="display:none;" href="http://lumenlog.com/"></a>
+				<noscript><a href="http://flattr.com/thing/3276/Lumenlog" target="_blank">
+				<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript></p>
+				<p class="about-flattr"><a href="http://quietube.com/v.php/http://www.youtube.com/watch?v=4Hcs7KDvDBo">Was ist Flattr?</a></p>
+			</div> 
+			
+			
+			
+			<footer class="instapaper_ignore">
+				<span class="copyright_link">This blog is released under a <a class="link-license" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/de/">CC-BY-NC</a> license.</span>
+				<span class="impressum_link"><a href="/impressum">Impressum</a></span>
+			<span class="feed_link"></span>–
+<span class="powered_link">Powered by <a href="http://octopress.org/">Octopress</a>, hosted by <a href="http://webfaction.com/">Webfaction</a> and <a href="http://haveamint.com/">Minted</a>, of course.
+</span>
+			</footer>
+		</div>
+		
+		<!--[if lt IE 7 ]>
+			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+	</body>
+</html>

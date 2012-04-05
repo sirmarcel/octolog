@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Featured | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/featured/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[An Experiment in Reading]]></title>
+		
+			<link href="http://lumenlog.com/images/articles/fry_3.png"/>
+		
+
+		<updated>2010-10-10T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/an-experiment-in-reading</id>
+		<content type="html">
+			<![CDATA[I don't really like e-books. So, when Stephen Fry announced that his autobiography "The Fry Chronicles" was to be released as an iPhone app, I couldn't have been less enthusiastic. Of course, me being the novelty-seeking geek I am, I still couldn't help tapping on the link. I was intrigued enough by the flowery wheel and the prospect of non-linear reading to, after a few days of putting it off, buy the app.
+
+myFry.app is an experiment in reading: The book is split up in 162 shortish "chunks" rather than chapters which are tagged with names of people, themes or places. Those chunks can be accessed by turning the dial on the wheel, tapping and then holding on the screen. The app encourages the reader to follow tags rather than time, to read the book not sequentially, but randomly.
+
+So there I was, playing around with the wheel, finding its behaviour profoundly confusing. I finally managed to start reading the first chunk. Soon, rather than exploring the book through tags, I found myself  reading it in the most boring, unexciting, least modern fashion possible: from beginning to end. Somewhere, a clever visionary weeps as I ignore the endless possibilities of tags, touch and technology. 
+<br />
+<div class="gallery margin-top">
+<a href="http://lumenlog.com/images/articles/fry_1.png" class="img-link"><img src="http://lumenlog.com/images/articles/fry_1_small2.png" /></a><a href="http://lumenlog.com/images/articles/fry_2.png" class="img-link"><img src="http://lumenlog.com/images/articles/fry_2_small2.png" /></a><a href="http://lumenlog.com/images/articles/fry_3.png" class="img-link"><img src="http://lumenlog.com/images/articles/fry_3_small2.png" /></a><a href="http://lumenlog.com/images/articles/fry_4.png" class="img-link"><img src="http://lumenlog.com/images/articles/fry_4_small2.png" /></a>
+</div>
+
+<h3>The Book</h3>
+
+It is an enjoyable book, full of wit, wisdom and if I write one more of those terrible three-part alliterations I'm gonna throw this computer out of the window. Where was I? Ah, the book. It's good, go read it. Stephen has an interesting life that I enjoy reading about. British universities, the comedy and drama scene, and most of all his insightful, self-deprecating honesty make it a great read. 
+
+<h3>The App</h3>
+
+What I don't particularly care for, though, is the app itself. I have no terribly big complaints, don't get me wrong. The text is laid out nicely, the tags might come in useful if I re-read the book at a later time and it hasn't crashed yet. It works. What it doesn't do, however, is change the way I read. Call me old-fashioned and boring, but I enjoy watching a narrative unfold as I read from first to last page. How am I supposed to understand a chapter on Stephen's work at the BBC if I don't know how he got there? And who, on Earth, is this Kim?
+
+It is reading the book in a linear way that the app makes harder than it should. There is no easy way to just jump to the next chunk, I always need to fiddle around with the wheel. Distracting. Fixing that would be easy, I simply need some navigation at the bottom of the chunks. One button labelled "next part" would be enough. Trying out new ways of reading is great, but it shouldn't degrade the "usual" reading experience for no reason.
+
+Other than that, reading in the app is quite pleasant. It looks great, a lot like <a href="http://itunes.apple.com/de/app/plaintext-dropbox-text-editing/id391254385?mt=8">Plain Text</a>, the app I use for writing these words in a terribly crowded train on a Saturday morning. The chunks are small enough for very short reading sessions. Instead of checking Twitter at the bus stop, I simply read a part of the book, often receiving strange looks as I chuckled at one of Stephen's jokes. Watching the wheel navigation slowly fill up with chunks marked as read is gratifying in the same way as seeing a bookmark slowly wander from top to bottom is. It's a great visualisation of reading progress.
+
+<h3>So...</h3>
+
+In the end, the decision whether to buy Stephen's book in <a href="http://www.amazon.de/Fry-Chronicles-Stephen/dp/0718157621/ref=sr_1_1?ie=UTF8&s=books-intl-de&qid=1286719668&sr=1-1&tag=lumenlog-21">paper</a> or <a href="http://itunes.apple.com/de/app/myfry/id390442062?mt=8">app</a> form is a matter of taste, not of technology. It certainly is a great book and deserves being consumed in any form. Wow. That kind of made me want to buy the audio book as well.
+
+<span class="en">Wundert euch nicht über das Englisch hier. Ich hatte einfach mal Lust, wieder einen Artikel in dieser Sprache zu schreiben. ;-)</span>
+
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/an-experiment-in-reading/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[simplett - a simple html/css timetable]]></title>
+		
+			<link href="http://simplett.com/"/>
+		
+
+		<updated>2010-09-15T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/simplett-a-simple-htmlcss-timetable</id>
+		<content type="html">
+			<![CDATA[Die Stundenpläne meiner Schule waren mir nicht schön genug, deshalb habe ich mir einen eigenen in HTML und CSS gebaut. Damit sind dann auch die letzten drei Tage gefüllt gewesen...
+<span class="en">Our school's timetables are pretty terrible, so I built a better one in HTML and CSS.</span>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/simplett-a-simple-htmlcss-timetable/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Fremde Welten]]></title>
+		
+			<link href="http://lumenlog.com/post/review-avatar/"/>
+		
+
+		<updated>2010-01-06T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/review-avatar</id>
+		<content type="html">
+			<![CDATA[Man weiß, dass ein Film funktioniert hat, wenn man auch Tage später noch das Bedürfnis hat, ihn nochmals zu sehen. Genau das ist mir mit <strong>Avatar</strong> passiert, und deswegen schreibe ich auch diesen Artikel. Aber warum hat der Film einen derartigen Eindruck hinterlassen?
+
+An der vorhersehbaren, etablierten Mustern des Genres folgenden Geschichte liegt es sicher nicht. Sie ist schnell erzählt: Jake Sully, der Protagonist, schlüpft im Rahmen eines wissenschaftlichen Programms auf dem Planeten (eigentlich: Mond) Pandora in den Körper eines Na'vi, eines einheimischen Aliens. Er verliebt sich in die Häuptlingstochter der Na'vi und wechselt die Seiten. Damit stellt er sich gegen die Menschen, die auf Pandora das Mineral ["Unobtanium"](http://tvtropes.org/pmwiki/pmwiki.php/Main/Unobtainium)<a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a> abbauen wollen, das alle Energieprobleme der Erde lösen soll. Eine Liebesgeschichte, gepaart mit Indianer-Symbolik und einer politisch-moralischen Botschaft, das ist nichts, was man nicht schon einmal gesehen hat. Aber welcher Film kann schon von sich behaupten, eine vollkommen neue Geschichte zu erzählen? <strong>Avatar</strong> erzählt seine Geschichte zumindest angenehm ruhig, der Film lässt uns in der Mitte genügend Zeit, um eine Beziehung zu den Figuren aufzubauen, so dass das Finale auch eine Bedeutung hat. James Cameron (<strong>Aliens</strong>, <strong>Terminator</strong>, <strong>Titanic</strong>) hat es, im Gegensatz zu den Regisseuren vieler anderer moderner "Blockbuster" erfolgreich vermieden, gegen Ende des Films jeden Versuch des Geschichtenerzählens in einem Action-Feuerwerk verglühen zu lassen.
+
+Doch es ist nicht die Geschichte an sich, die <strong>Avatar</strong> seine Faszination verleiht, es ist ihre Umsetzung, es ist Pandora, dieser mit modernster Technik erschaffene Dschungelplanet, es sind die Na'vi, es ist das dichte, andersartige Universum, in dem <strong>Avatar</strong> spielt. Der Regenwald, mit dem Pandora fast vollständig bedeckt ist, wimmelt von fremdartigen Wesen aller Art, er ist erfüllt von Leben.  In jedem Bild stecken unzählige Ideen. Es ist dieser unendliche Detailreichtum, der uns das Filmuniversum als real akzeptieren lässt. Doch der Dschungel ist nicht nur detailreich, er ist auch schlicht und einfach schön, bis an die Grenze zum Kitsch. Wenn nachts jedes einzelne Lebewesen seine Biolumineszens-Eigenschaften vorführt und der Urwald leuchtet, kommt man sich vor wie in einem Gemälde. Die Story tritt in den Hintergrund, der Film wird pure Atmosphäre, pure Illusion, pure Immersion. Und das ist der Grund, warum ich ihn gerne auch ein zweites Mal anschauen werde, um das ein weiteres Mal zu erleben, und mehr Details zu bewundern, mehr zu sehen. Eine gewisse Ähnlichkeit zu <strong>Star Wars</strong> ist unverkennbar, auch dort ist die Geschichte eher einfach gestrickt ("Unerfahrener Held rettet Prinzessin") und erst das detaillierte, interessante Universum macht den Film, oder eher die Filme, unvergesslich.<a name="2-up"></a><a class="ftnl" href="#2" ><sup>2</sup></a>
+
+Einen Großteil des Films bestreiten nicht die menschlichen Darsteller, sondern die außerirdischen Na'vi, die erstaunlich sympathisch sind. Was eine Leistung an sich ist, wenn man bedenkt, dass sie drei Meter groß, blau und am Computer erschaffen sind. Wo vorher computergenerierte Figuren entweder gar nicht den Anspruch hatten, echt zu wirken (z.B. in <strong>Oben</strong> oder anderen Animationsfilmen) oder in Nebenrollen verbannt wurden (z.B. Yoda bei <strong>Star Wars</strong>), sind sie jetzt Sympathieträger. Sie wirken real, sie zeigen Gefühle und sind als Darsteller gleichgestellt mit den Menschen. In <strong>Avatar</strong> lernen wir ihre Lebensweise, ihre Umwelt, ihre Traditionen, ihr Universum kennen. Der Film ist eine Reise in eine andere Welt jenseits des Bekannten, und das macht ihn für mich so faszinierend. 
+
+Dazu trägt sicher auch die Tatsache bei, dass ich <strong>Avatar</strong> in 3-D gesehen habe. Ähnlich wie bei <strong>Oben</strong> wird die Technik nicht um ihrer selbst willen, sondern nur dazu eingesetzt, dem Bild Tiefe zu verleihen. Man bekommt nicht wie in den Anfangstagen des 3-D Kinos (ich erinnere mich da an eine grausige Vorstellung im "4-D Kino" irgendeines Vergnügungsparks) ständig Gegenstände ins Gesicht geworfen, es springen keine Gestalten den Zuschauer an, die "vierte Wand" bleibt, bis auf wenige Ausnahmen, unverletzt. 
+
+Alles in allem war <strong>Avatar</strong> eine beeindruckende Erfahrung. Die einfache Geschichte funktioniert gut genug, um nicht negativ aufzufallen, die Hauptfiguren sind sympathisch, und vor allem die Dichte, die Echtheit, des von Cameron erfundenen Universums ist erstaunlich.
+
+
+<div class="footnotes">
+<a name="1"></a>1</a> <a href="#1-up">&#8617;</a>  Es zeugt von Camerons Sinn für Humor, das Mineral auch wirklich so zu nennen. <br>
+<a name="2"></a>2</a> <a href="#2-up">&#8617;</a> Natürlich besitzt auch Avatar eine <a href="http://www.pandorapedia.com/">Enzyklopädie</a>. Und wieder ein paar Stunden Lebenszeit verloren... ;)
+</div>
+]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Der Geist von Morrowind]]></title>
+		
+			<link href="http://lumenlog.com/post/review-infernal-city/"/>
+		
+
+		<updated>2009-12-18T00:00:00+01:00</updated>
+		<id>http://lumenlog.com//post/review-infernal-city</id>
+		<content type="html">
+			<![CDATA[Als ich erfuhr, dass es einen Elder-Scrolls-Roman geben würde, war meine erste Reaktion nicht Freude, sondern Ablehnung. Bücher aus einem Computerspiel-Universum? So viel konnte dabei schiefgehen. Ich erwartete einen mittelmäßigen Fantasy-Roman, nur mit einer dünnen, oberflächlichen Elder-Scrolls-Lackierung versehen. Ein Buch, so wie Oblivion ein Spiel war. Hübsch, spannend, aber im Kern gewöhnliche Fantasy und nicht eine Reise in eine fremde, mystische Welt, wie es Morrowind gewesen war. Erst, als erste Informationen und schließlich ein Interview mit Greg Keyes (dem Autor) ins Internet tröpfelten, wurde ich hellhörig. Keyes hatte sich anscheinend doch ausführlich mit der Hintergrundgeschichte der Elder-Scrolls-Reihe, der Lore, auseinandergesetzt. Als das Buch dann erschien, war ich interessiert genug, um meine Finger über Amazons "One Click Buy"-Knopf ausrutschen zu lassen. Zwei Tage später kam Post.
+
+Erwartet hatte ich Fantasy mit einem Hauch Elder Scrolls, was ich bekam, war wie eine Rückkehr in die fremdartigen Weiten Morrowinds. Das Buch beginnt in Schwarzmarsch, dem Sumpf Tamriels, Jahrhunderte nach den Ereignissen von Oblivion. Vieles hat sich verändert, das Imperium ist zerbrochen und wieder erstanden, Morrowind zerstört und von Argoniern überrannt. Ganz klar ist "The Infernal City" ein Buch für Fans, schon ab der ersten Seite wird man erschlagen mit Bezeichnungen, beiläufigen Anmerkungen und Hintergrundinformationen, die ganz deutlich eine gewisse Grundkenntnis der Lore voraussetzen. Doch zurück zum Buch, zurück nach Lilmoth, eine kleine Stadt an der Küste von Schwarzmarsch. Es ist eine gute Entscheidung, die Geschichte hier beginnen zu lassen, abseits von den bekannten Pfaden, die Spieler schon beschritten haben. Auch wenn die Atmosphäre dieses heißen, feuchten Landes, das an einen Regenwald denken lässt, ganz anders ist als die heißen Steppen Morrowinds, so ist das Erlebnis doch ein ähnliches. Von allen Seiten prasseln unbekannte Wörter und Informationsfetzen auf den Leser ein, fordern die Neugier heraus, zwingen zur genauen Beobachtungen, die einen verstehen lassen, was genau vor sich geht. Der Autor verzichtet größtenteils darauf, dem Leser Informationen direkt zu präsentieren, so wie Morrowind den Spieler auch alleine in die unbekannten Weiten Vvardenfells schickte.
+
+Erstaunt konnte ich beobachten, wie mühelos Keyes die Grenze zwischen Spiel und Buch, zwei vollkommen unterschiedlichen Medien, überspringt. Auch ohne Grafik und Spielmechanik ist das Universum der Elder-Scrolls-Reihe in der Lage, seine Einzigartigkeit zu erhalten. Von der ersten Seite an fehlt die sonst so fantasytypische Schwarz-Weiß-Moral, es wird in Grautönen unterschieden, nicht in Absoluten. Keine der zahlreichen im Buch agierenden Organisationen kann die absolute moralische Überlegenheit für sich beanspruchen, kein Charakter ist ein flaches Abziehbild. Die genau ausgearbeitete, vielschichtige Hintergrundgeschichte der Elder-Scrolls-Reihe wird respektiert und weitergeführt, und scheint an allen Ecken und Enden durch. So verschlägt es die Hauptfiguren, für einen Sekundenbruchteil nur, auf die Shivering Isles, oder wir begegnen Hircine, dem Daedra der Jagd. So schafft es das Buch, die Atmosphäre, den Geist Morrowinds, auf ein anderes Medium zu übertragen, und den Leser genauso wie den Spieler in ein fremdartiges, vielschichtiges Universum eintauchen zu lassen, das auf bekannte Fantasy-Klischees größtenteils verzichtet. 
+
+Ein plakatives Beispiel dafür ist der Kronprinz Attrebus, eine der weiteren Hauptfiguren des Buches. Bei der ersten Begegnung mit dem Sohn des herrschenden Kaisers ertrinkt man förmlich in Klischees. Ein im Kampf bewanderter, gut aussehender, freundlicher Prinz, der mit seiner ganzen Garde persönlich befreundet ist und trotz seiner zarten Alters seine Heldenhaftigkeit schon oft unter Beweis gestellt hat? Zu schön, um glaubhaft zu sein, und ein Ur-Klischee der Fantasy. Lange müssen wir das glücklicherweise nicht ertragen. Der Prinz wird verraten und entführt, seine Garde lässt vollständig ihr Leben.
+
+Was dann folgt, ist eine genüssliche Dekonstruktion des Prinzen-Klischees. Die Verräterin führt dem Prinzen – und uns – vor Augen, dass seine Heldentaten von langer Hand vorbereitet wurden, dass seine Erfolge auf Einflussnahme seines Vaters zurückgehen und nicht auf sein Kampfgeschick. Dies wird wunderbar illustriert von einer Kampfszene, bei der er, der angeblich unbesiegbare Schwertmeister, von der verräterischen Gardistin ohne Anstrengung mehrmals besiegt wird. Zurück lässt diese Szene einen gebrochenen Helden, der den Rest des Buches mit seiner Identitätsfindung beschäftigt ist, begleitet vom zynischen, übermächtigen Dunkelelfen Sul, der ihn aus den Händen seiner Entführer befreit hat. Diese Konstellation ist bei weitem interessanter als der perfekt-heldenhafte Kronprinz uns seine treu ergebene Garde. 
+
+Ein Großteil des Buches spielt jedoch in Umbriel, der titelgebenden "Infernal City", in deren Schatten eine Armee von Toten immer weiter wächst. Hinter dieser auch recht klischeebehafteten Fassade verbirgt sich eine herrlich verdrehte, kleine Welt, die von den Seelen Unschuldiger in der Luft gehalten wird. Böse sind ihre Bewohner trotzdem nicht, oder zumindest nicht ausschließlich. Die Oberwelt der Herrscher Umbriels, der Lords und Ladies, kommt im Buch nicht vor, wir lernen stattdessen die unterirdischen Versorgungstrakte, und die Küchen kennen, in denen aus gewöhnlichen Zutaten und Seelen raffinierte Gerichte für die Lords zubereitet werden müssen. Die soziale Struktur dort basiert vollkommen auf der Kunst des Kochens, ein Szenario, das gleichzeitig an Walter Moers ["Der Schrecksenmeister"](http://www.amazon.de/Schrecksenmeister-Ein-kulinarisches-Letterkerl-Hildegunst-Mythenmetz/dp/3492049370/ref=sr_1_2?ie=UTF8&s=books&qid=1261168046&sr=1-2)<a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a> und die Shivering Isles erinnert, und durch seine komplexe, phantasiereiche Ausgestaltung beeindruckt. Angesichts des Klappentextes, dessen Beschreibung Umbriels an einen schlechten Groschenroman denken lässt <a name="2-up"></a><a class="ftnl" href="#2" ><sup>2</sup></a>, hätte ich so etwas nie erwartet. Abermals, schlechte Erwartungen sind nicht immer richtig.
+
+Nur das Ende, das sehr stark nach einer Fortsetzung schreit und die begonnenen Storylines nicht zu einem Abschluss bringt, ließ mich ein wenig irritiert und enttäuscht zurück, doch das Buch davor ist ein Fest für Elder-Scrolls-Fans und auch Fantasy-Leser, die kein Problem damit haben, nicht auf Anhieb alles zu verstehen und sich einiges selbst zu denken. Für mich war es wie eine Rückkehr nach Morrowind, in die einzigartige, mystische Atmosphäre Tamriels. Eine Heimkehr, sozusagen.
+
+<em>The Infernal City kann man für <a href="http://www.amazon.de/Infernal-City-Elder-Scrolls-Novel/dp/0345508017/ref=sr_1_1?ie=UTF8&s=books-intl-de&qid=1261167678&sr=8-1">um die zehn Euro bei Amazon kaufen</a>.</em>
+
+<em>Edit am 23. 12. : Das Fazit ein wenig geändert.</em>
+
+<div class="footnotes">
+<a name="1"></a><sup>1</sup></a> <a href="#1-up">&#8617;</a>  Ein Buch, das wie alle Zamonien-Romane von Walter Moers, großartig und unbedingt zu lesen ist. <br>
+<a name="2"></a><sup>2</sup></a> <a href="#2-up">&#8617;</a> "[...] Umbriel, a floating city that casts a terrifying shadow–for wherever it falls, people die and rise again."
+</div>
+]]>
+			
+		</content>
+	</entry>
+  
+  <entry>
+		<title type="html"><![CDATA[Die Klassifizierung von Ideen]]></title>
+		
+			<link href="http://tvtropes.org/pmwiki/pmwiki.php/Main/XanatosGambit"/>
+		
+
+		<updated>2009-08-02T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/die-klassifizierung-von-ideen</id>
+		<content type="html">
+			<![CDATA[Wenn man für eine längere Zeit dem endlosen Medien– und Geschichtenstrom unserer Zeit ausgesetzt ist, beginnt man unweigerlich, Muster zu erkennen. Manche Plots kommen einem geradezu absurd voraussagbar vor, manche Charaktere hat man irgendwie schon einmal gesehen. Ein vages Gefühl des Wiedererkennens greift um sich.
+
+.
+
+Vor ein oder zwei Jahren bin ich schon einmal über diese Seite gestolpert. Damals habe ich weder den Namen, noch den Inhalt des Gelesenen behalten, aber an ein Gefühl erinnere ich mich noch: Grauen. All meine so neu erscheinenden Ideen derart offensichtlich einer Kategorie zuzuordnen? All die Konzepte in irgendeiner Weise schonmal dagewesen? Waren die Filme, die ich liebte, die Bücher, mit denen ich so viele Stunden zugebracht hatte, einfach nur endlose Wiederholungen der immer gleichen Muster? Und würde <a href="http://eleyon.de">Eleyon</a> genauso sein, langweilig, klischeehaft, ohne eigene Identität?
+
+Vielleicht nicht vollständig, aber das Wiederkehren gewisser Elemente und Muster ist kaum zu vermeiden. Doch die Tatsache, dass eine Idee einem Muster zugeordnet werden kann, muss noch nicht heißen, dass sie schlecht oder unoriginell ist. Es ist einfach, Geschichten so zu verallgemeinern, dass sie unter einen gemeinsamen Oberbegriff passen. Dabei werden nur die Gemeinsamkeiten mit anderen Geschichten beachtet, die Individualität, die Details, die Dekoration einer Geschichte werden zugunsten einer Klassifizierung nicht beachtet.
+
+Supercomputer, die dem Wahnsinn verfallen, Abenteuerarchäologen, die in Tempeln längst verlorener Zivilisationen nach Schätzen jagen, verrückte Wissenschaftler, die nach der Weltherrschaft streben, all diese Elemente, oder Tropes, kennen und schätzen wir. Sie sind die Quintessenz aus tausenden Charakteren, ihr gemeinsamer Kern, dem jede Individualität abgeht. Wird dieser Kern ohne Ironie, ohne Änderung einfach übernommen, ist dies einfaches, langweiliges Klischee. Ohne Hintergrund, ohne Motivation, ohne Identität bleibt ein Charakter auf ein Klischee reduziert, er wird zum leblosen, austauschbaren Abziehbild. Was zählt, sind die Details, die Eigenheiten, die Ausgestaltung eines Charakters, die Dinge, die ihn von seinem Grundtyp abheben. Das gilt natürlich nicht nur für Charaktere, auch andere Teile eines Werkes lassen sich verallgemeinern, auch bei ihnen kommt es auf die Details an. 
+
+Die Elder Scrolls Reihe und der Witcher sind im Kern beide in einem <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalEuropeanFantasy">Mitteleuropäischen Fantasy-Mittelalter</a> angesiedelt, doch niemand würde sie als gleich bezeichnen. Sie unterscheiden sich in vielen kleinen Dingen, doch auf unterster Ebene spielen sie in einer ähnlichen, größtenteils technikfreien, feudalen Welt.<a name="5-up"></a><a class="ftnl" href="#5" ><sup>5</sup></a>
+
+Niemanden stört das, so funktioniert Fantasy nun mal. LordKain hatte durchaus recht mit seiner Aussage, es sei "kaum möglich heute noch etwas vollkommen Neues aus Story-Sicht zu erstellen" (<a href="http://www.scharesoft.de/newsletter/archiv/2009-04/#interview">Quelle</a>). Was wirklich zählt ist, mit den verschiedensten Einflüssen umzugehen, sie zu vermengen, eigene Ideen hinzuzufügen und daraus ein zusammenhängendes, inspirierendes Ganzes zu machen. Egal, wenn irgendetwas schonmal da gewesen ist, wenn sich etwas unter einem "Trope" einsortieren lässt. Nur das Ergebnis zählt. Es hat keinen Sinn, sich krampfhaft zu bemühen, keinem bekannten Muster zu entsprechen. Sich vor der Katalogisierung seiner Idee zu fürchten ist reine Zeitverschwendung, die zudem noch ganz schön demoralisiert. Alten Ideen ein neues Gesicht geben, sie mit anderen Ideen zu verbinden, eigene Denkweisen und Ansichten in das Geflecht einzuweben, das ist der wahre Verdienst eines jeden Story-Schreibers. Keine Angst, wenn es schonmal da war. Ihr steht auf den Schultern von Giganten.
+ 
+ 
+ 
+ 
+<div class="footnotes">
+<a name="1"></a><sup>1</sup></a> <a href="#1-up">&#8617;</a> Die schlichte Dichte an Popkultur und interessanten Wissensfetzen auf der Seite macht sie zu einem grauenhaften Zeitmagneten. Das ist auch der Hauptgrund, warum es so lange gedauert hat, diesen Artikel zu schreiben... jede Recherche endet in einer stundenlangen Lese-Orgie.
+<a name="2"></a><sup>2</sup></a> <a href="#2-up">&#8617;</a> Männlich? Weiblich? Der Trope? Die Trope? Das Trope? Mir gefiel "der" besser, daher habe ich es mal gelassen.
+<a name="3"></a><sup>3</sup></a> <a href="#3-up">&#8617;</a> Hat seinen eigenen Trope: <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDumbledore">The Dumbledore</a>
+<a name="4"></a><sup>4</sup></a> <a href="#4-up">&#8617;</a> Ebenfalls: <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheObiWan">The Obi Wan</a>
+<a name="5"></a><sup>5</sup></a> <a href="#5-up">&#8617;</a> Wobei Oblivion viel stärker Standard-Fantasy ist als Morrowind mit den Dwemern, dem Mangel an Pferden und der einzigartigen Architektur. Oblivion dagegen... Schlösser? Ritter? Kathedralen? Alles da!
+</div>
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/die-klassifizierung-von-ideen/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

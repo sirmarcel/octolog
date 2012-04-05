@@ -28,6 +28,16 @@ article footer {
 	
 div#secondary {
 	margin-top: 2*$line;
+	nav.bottom {
+	float: right;
+	width: 100%;
+	clear: both;
+	}
+	div#nav-links {
+	float: left;
+	width: 40%;
+	margin: 0.5*$line 0;
+	}
 	section#about-english {
 		float: left;
 		width: 40%;

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: H2G2 | Lumenlog]]></title>
+  <link href="http://lumenlog.com/tag/h2g2/atom.xml" rel="self"/>
+  <link href="http://lumenlog.com/"/>
+  <updated>2012-04-05T17:24:27+02:00</updated>
+  <id>http://lumenlog.com/</id>
+  <author>
+    <name><![CDATA[Marcel Langer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+		<title type="html"><![CDATA[Happy Towel Day]]></title>
+		
+			<link href="http://towelday.org/"/>
+		
+
+		<updated>2011-05-25T00:00:00+02:00</updated>
+		<id>http://lumenlog.com//post/happy-towel-day</id>
+		<content type="html">
+			<![CDATA[> A towel, it says, is about the most massively useful thing an interstellar hitchhiker can have. Partly it has great practical value. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble-sanded beaches of Santraginus V, inhaling the heady sea vapors; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; [...]
+
+You haven't read The Hitchhiker's Guide to the Galaxy? Go do it now.
+]]>
+			
+				<![CDATA[<a class="permalink" href="http://lumenlog.com/post/happy-towel-day/">Permalink</a>]]>
+			
+		</content>
+	</entry>
+  
+</feed>

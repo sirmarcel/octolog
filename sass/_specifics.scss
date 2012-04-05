@@ -1,0 +1,83 @@
+/* Custom Layouts for certain posts etc */
+
+.q, .ans {
+	margin-bottom: $line;
+	}
+	
+.q {
+	font-style: italic;
+	}
+	
+.img-link, .img-link-left, .img-link-right, a.img-link-block {
+	border: none;
+	}
+	
+a.img-link:hover, a.img-link:visited, a.img-link-left:hover, a.img-link-left:visited, a.img-link-right:hover, a.img-link-right:visited, a.img-link-block:hover, a.img-link-block:visited {
+	border: none;
+	}
+	
+.img-link-left {
+	float: left;
+	margin-right: 1em;
+	}
+	
+.img-link-right {
+	float: right;
+	margin-left: 1em;
+	}
+	
+a.img-link-block {
+	margin: $line 0;
+	clear: both;
+	}
+	
+span.caption {
+	font-size: 0.9em;
+	font-style: italic;
+	width: 25%;
+	}
+	
+div.footnotes {
+	size: 0.9em;
+	margin: $line 0;
+	a {
+		border: none;
+		}
+	}
+	
+.pullquote-right:before,
+.pullquote-left:before {
+  /* Reset metrics. */
+  padding: 0;
+  border: none;
+
+  /* Content */
+  content: attr(data-pullquote);
+
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 45%;
+  margin: .5em 0 1em 1.5em;
+
+  /* Baseline correction */
+  position: relative;
+  top: 7px;
+  font-size: 1.3em;
+  line-height: $line;
+}
+
+.pullquote-left:before {
+  /* Make left pullquotes align properly. */
+  float: left;
+  margin: .5em 1.5em 1em 0;
+}
+
+div.footnotes {
+	padding-left: 1em;
+	font-size: 0.9em;
+	}
+	
+.ftnl {
+	border: none;
+	margin-right: -0.1em;
+	}
