@@ -1,3 +1,6 @@
+This is the Octopress install that powers lumenlog.com. It's mostly just straight out-of-the box, with one plugin (footnotes.rb) thrown in for good measure. And a custom theme.
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
