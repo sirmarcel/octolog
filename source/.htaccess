@@ -6,4 +6,3 @@ ErrorDocument 500 /404/index.html
 
 Redirect /articles /post
 Redirect /links /post
-Redirect www.lumenlog.com lumenlog.com

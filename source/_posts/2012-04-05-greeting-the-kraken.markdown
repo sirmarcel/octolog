@@ -43,7 +43,7 @@ When I finally added the fonts from Typekit, it was a revelation. I'm completely
 
 Because this blog now has a single-column layout, it was ridiculously easy to make it responsive. At the moment, it basically just stays fixed for screen sizes (or browser window widths) above 800 pixels and simply scales to 90% of the width below. I am amazed by the fact that this works so well and so easily. There are only very minor changes in the design I had to make for smaller screens: The font size decreases slightly below 640px to save everyone a bit of scrolling on iPhones and the two columns in the footer stack on top of each other. That's about it. I don't really know what to do with the article heading on the iPhone, though. They don't look particularly broken right now, but it's not perfect either. We'll see.
 
-If you're still reading at this point, you deserve a web geek medal and should probably just head over to Github to peek at the source code first-hand. It's not that much. :) Feel free to fork it and make it your own. Just change the colours and fonts a bit, I'm not terribly comfortable with two blogs looking exactly alike. It's creepy.
+If you're still reading at this point, you deserve a web geek medal and should probably just head over to [Github](https://github.com/sirmarcel/octolog) to peek at the source code first-hand. It's not that much. :) Feel free to fork it and make it your own. Just change the colours and fonts a bit, I'm not terribly comfortable with two blogs looking exactly alike. It's creepy.
 
 Well, that's pretty much all I have to say. And that, my friends, is how you don't finish an article.
 

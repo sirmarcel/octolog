@@ -45,6 +45,13 @@ div.footnotes {
 		}
 	}
 	
+	
+.ftnl {
+	border: none;
+	margin-right: -0.1em;
+	}
+
+	
 .pullquote-right:before,
 .pullquote-left:before {
   /* Reset metrics. */
@@ -72,12 +79,3 @@ div.footnotes {
   margin: .5em 1.5em 1em 0;
 }
 
-div.footnotes {
-	padding-left: 1em;
-	font-size: 0.9em;
-	}
-	
-.ftnl {
-	border: none;
-	margin-right: -0.1em;
-	}
