@@ -201,6 +201,9 @@ form#search {
 	}
 	input.search {
 		width: 100%;
+		-webkit-transition: margin 0.3s ease;
+		-moz-transition: margin 0.3s ease;
+		transition: margin 0.3s ease;
 	}
 	input.search:focus {
 		background-color: $sub;
