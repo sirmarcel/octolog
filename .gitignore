@@ -11,4 +11,5 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
-
+.preview_mode
+source/.DS_Store

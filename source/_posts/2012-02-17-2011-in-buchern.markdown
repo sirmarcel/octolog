@@ -5,6 +5,7 @@ categories:
 - Articles
 - Bücher
 - Lesen
+- Books
 status: publish
 type: post
 published: true
