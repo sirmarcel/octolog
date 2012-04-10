@@ -1,4 +1,4 @@
-This is the Octopress install that powers lumenlog.com. It's mostly just straight out-of-the box, with one plugin (footnotes.rb) thrown in for good measure. And a custom theme.
+This is the Octopress install that powers lumenlog.com. It's mostly just straight out-of-the box, with one plugin (footnotes.rb) thrown in for good measure. And a custom theme. And a very trivial new task in the rakefile.
 
 
 ## What is Octopress?
