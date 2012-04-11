@@ -4,5 +4,11 @@ ErrorDocument 403 /404/index.html
 ErrorDocument 404 /404/index.html
 ErrorDocument 500 /404/index.html
 
+# Fixing the permalinks
 Redirect /articles /post
 Redirect /links /post
+
+
+# Specific redirects
+Redirect /images/2008/11/trackpad.jpg /images/articles/2008/11/trackpad.jpg
+Redirect /wp-content/uploads/2008/11/trackpad.jpg /images/articles/2008/11/trackpad.jpg
