@@ -19,7 +19,7 @@ meta:
 ---
 
 
-<a href="http://lumenlog.com/images/2009/09/cutout03.jpg" class="img-link img-link-right"><img src="http://lumenlog.com/images/2009/09/cutout03_small.jpg"></a> Vorstellen muss ich ihn wohl nicht, den Schöpfer von <a href="http://www.adash-web.de/">Adash</a>, Betreiber eines <a href="http://www.lk-portal.de/modding_index.php">Modding-Portals</a> und Entwickler eines noch nicht fertigen <a href="http://www.final-frontiers.de/">Browsergames</a>. Natürlich, es ist LordKain, der sich freundlicherweise für ein ICQ-Interview zu Verfügung gestellt hat. Aufschlussreich ist es geworden, mit Einblicken in seine Arbeitsweise und seine Pläne für Adash. Aber genug der Vorrede...
+<a href="http://lumenlog.com/images/articles/2009/09/cutout03.jpg" class="img-link img-link-right"><img src="http://lumenlog.com/images/articles/2009/09/cutout03_small.jpg"></a> Vorstellen muss ich ihn wohl nicht, den Schöpfer von <a href="http://www.adash-web.de/">Adash</a>, Betreiber eines <a href="http://www.lk-portal.de/modding_index.php">Modding-Portals</a> und Entwickler eines noch nicht fertigen <a href="http://www.final-frontiers.de/">Browsergames</a>. Natürlich, es ist LordKain, der sich freundlicherweise für ein ICQ-Interview zu Verfügung gestellt hat. Aufschlussreich ist es geworden, mit Einblicken in seine Arbeitsweise und seine Pläne für Adash. Aber genug der Vorrede...
 
 <div class="q first"><strong>Marcel</strong> Könntest du kurz in einem Satz das Konzept, oder das Ziel, das du mit Adash verfolgst, beschreiben?</div>
 
@@ -51,7 +51,7 @@ meta:
 
 <div class="ans"><strong>LordKain</strong> Eigentlich kam die Karte sogar vor der Landschaft in vielen Fällen. Die Karte wurde mit Photoshop gezeichnet und dann ein Raster mit mit 32 x 32 Pixeln darüber gelegt. Jedes Kästchen des Gitters macht eine Zelle im Editor bzw. Spiel aus. Damit lässt sich dann sehr einfach die Landschaft nach der Karte modellieren bzw. Straßen und dergleichen vom Spiel passend in die Karte einzeichnen. Nur hier und da braucht man hin und wieder ein paar Korrekturen, aber die sind eher kosmetischer Natur.</div>
 
-<a href="http://lumenlog.com/images/2009/09/map_ps_working.jpg" class="img-link"><img src="http://lumenlog.com/images/2009/09/map_ps_working_small.jpg" alt="map_ps_working_small.jpg" border="0" width="400" height="300" /></a>
+<a href="http://lumenlog.com/images/articles/2009/09/map_ps_working.jpg" class="img-link"><img src="http://lumenlog.com/images/articles/2009/09/map_ps_working_small.jpg" alt="map_ps_working_small.jpg" border="0" width="400" height="300" /></a>
 
 <div class="q"><strong>Marcel</strong> Und um die Karte so aussehen zu lassen wir die von Oblivion, hast du da einfach Teile herausgenommen, oder alles selbst gezeichnet?</div>
 
@@ -124,7 +124,7 @@ Angenommen, TES V wird für Anfang 2010 angekündigt–wirst du schnell die Stor
 <div class="ans"><strong>LordKain</strong> Gerne doch. </div>
 
 <div class="gallery">
-<a href="http://lumenlog.com/images/2009/09/screen01.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen01_small.jpg" alt="screen01_small.jpg" border="0" width="160" height="120" /></a><a href="http://lumenlog.com/images/2009/09/screen02.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen02_small.jpg" alt="screen02_small.jpg" border="0" width="160" height="120" /></a><a href="http://lumenlog.com/images/2009/09/screen03.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen03_small.jpg" alt="screen03_small.jpg" border="0" width="160" height="120" /></a><p class="caption">Zusätzlich hat uns LordKain noch mit drei exklusiven Bildern aus "Von Feuer und Asche" beglückt, die wie immer sehr gut aussehen. Die Danqua werden wohl wieder eine Rolle spielen...<a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a></p>
+<a href="http://lumenlog.com/images/articles/2009/09/screen01.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen01_small.jpg" alt="screen01_small.jpg" border="0" width="160" height="120" /></a><a href="http://lumenlog.com/images/articles/2009/09/screen02.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen02_small.jpg" alt="screen02_small.jpg" border="0" width="160" height="120" /></a><a href="http://lumenlog.com/images/articles/2009/09/screen03.jpg" class="img-link"><img src="http://lumenlog.com/images//2009/09/screen03_small.jpg" alt="screen03_small.jpg" border="0" width="160" height="120" /></a><p class="caption">Zusätzlich hat uns LordKain noch mit drei exklusiven Bildern aus "Von Feuer und Asche" beglückt, die wie immer sehr gut aussehen. Die Danqua werden wohl wieder eine Rolle spielen...<a name="1-up"></a><a class="ftnl" href="#1" ><sup>1</sup></a></p>
 </div>
 
 <div class="footnotes">

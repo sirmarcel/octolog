@@ -8,7 +8,11 @@ ErrorDocument 500 /404/index.html
 Redirect /articles /post
 Redirect /links /post
 
+# Fixing images thingie
+
+Redirect /images/2008 /images/articles/2008
+Redirect /images/2009 /images/articles/2009
+
 
 # Specific redirects
-Redirect /images/2008/11/trackpad.jpg /images/articles/2008/11/trackpad.jpg
 Redirect /wp-content/uploads/2008/11/trackpad.jpg /images/articles/2008/11/trackpad.jpg
