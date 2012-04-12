@@ -132,6 +132,7 @@ task :new_link, [:title, :link_url] do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "- Links"
+    post.puts "- English"
     post.puts "external-url: #{link_url}"
     post.puts "meta:"
     post.puts "  via:"

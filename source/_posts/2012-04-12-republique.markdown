@@ -7,6 +7,7 @@ categories:
 - Links
 - Kickstarter
 - Crowdfunding
+- English
 external-url: http://www.kickstarter.com/projects/486250632/republique-by-camouflaj-logan
 meta:
   via:
