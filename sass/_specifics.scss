@@ -26,16 +26,28 @@ a.img-link:hover, a.img-link:visited, a.img-link-left:hover, a.img-link-left:vis
 	margin-left: 1em;
 	}
 	
-a.img-link-block {
+.img-link-block {
 	margin: $line 0;
 	clear: both;
+	img {
+		clear: both;
+		}
+	span {
+		float: left;
+		}
 	}
 	
-span.caption {
+.caption {
 	font-size: 0.9em;
 	font-style: italic;
-	width: 25%;
+	width: 100%;
+	display: block;
+	a {
+		color: $text-light;
+		border: none;
+		}
 	}
+	
 	
 div.footnotes {
 	margin: $line 0;

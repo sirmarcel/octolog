@@ -14,7 +14,7 @@ status: publish
 type: post
 published: true
 meta: {}
-external-url: http://lumenpage.com/blog/wp-content/uploads/2008/12/eleyon08.jpg
+
 ---
 Sowohl Oblivion als auch Morrowind ignorieren die Veränderung der Tageszeit, es gehen keine Lichter an oder aus wenn es Nacht wird. Dabei ist das doch recht einfach umzusetzen und bringt einen großen Zuwachs an Lebenendigkeit, an Atmosphäre mit sich. Außerdem ermöglicht ein Tag-Nacht-Wechsel viel abwechslungsreichere Interiors. Diese können nämlich je nach Tageszeit von bläulichem Tageslicht oder von orangenem Feuerschein beleuchtet sein. Ein nächtliche Siedlung mit orangenen Fenstern ist gleich viel lebendiger als eine scheinbare Totenstadt mit nachts unbeleuchteten Fenstern. Eine Variable Beleuchtung beschränkt sich allerdings nicht auf einen Wechsel von Tag und Nacht - nein, auch das Wetter kann berücksichtigt werden. Auch bei Nebel oder Sturm wirken beleuchtete Fenster sehr dramatisch.
 
@@ -58,7 +58,8 @@ Somit ist der große Vorteil dieser Methode der Performancegewinn durch das einz
 Praktischerweise kann man mit dieser Methode jedes beliebige Objekt einfach tageszeitabhängig machen. Man muss keine neuen Objekte erstellen, eine kleine Einstellung bei "Enable Parent" genügt. So kann man auch schnell mal einen Schmetterling nur tagsüber fliegen lassen und ihn nachts durch Glühwürmchen ersetzen.
 Der Nachteil ist jedoch eine gewisse Mehrarbeit beim Platzieren von Objekten, da jeder einzelnen Referenz der passende Parent zugewiesen werden muss. Die Abhängigkeit von Parents macht diese Methode auch unflexibler - alles wird zur gleichen Zeit verändert. Das möchte man allerdings meistens auch genau so haben. Eine Pause zwischen dem Disablen der Tagesfenster und dem Enablen der nächtlichen Fenster wäre recht unschön.
 <h4>Methode 3: Emissive Color</h4>
-[caption id="attachment_309" align="alignleft" width="400" caption="Die Fenster in Chorrol, mit Texians Methode beleuchtet."]<a href="http://lumenpage.com/blog/wp-content/uploads/2008/12/texians.png"><img class="size-thumbnail wp-image-309" title="texians" src="http://lumenpage.com/blog/wp-content/uploads/2008/12/texians-400x250.png" alt="Die Fenster in Chorrol, mit Texians Methode beleuchtet." width="400" height="250" /></a>[/caption]
+
+<a href="/images/articles/2008/12/texians.png" class="img-link-block"><img class="size-thumbnail wp-image-309" title="texians" src="/images/articles/2008/12/texians-400x250.png" alt="Die Fenster in Chorrol, mit Texians Methode beleuchtet." width="400" height="250" /></a>
 
 Diese interessante, in <a href="http://www.oblivionmodwiki.com/index.php?title=Texian's_Window_Lighting_System">Texian's Window Lighting System</a> eingesetzte Methode kommt ganz ohne Scripts aus. Sie basiert auf dem Zusammenspiel der Emissive Color einer NiTriStrip und der Glowmap. Die <a href="http://cs.elderscrolls.com/constwiki/index.php/Working_With_Nifs_301_:_Properties_Breakdown">Emissive Color</a> bestimmt das Schimmern, das zunimmt, je weniger Licht auf ein Objekt fällt. Bei dieser Methode wird diese nun auf Orange gesetzt, so dass die Fenster im Dunkeln orange schimmern. Eine Glow-Map legt nun fest, welche Teile des Fensters von diesem Effekt betroffen sind - leuchtende Fensterrahmen sind nicht unbedingt erwünscht.
 

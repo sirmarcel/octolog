@@ -16,7 +16,7 @@ meta:
   sub: Tutorial
   img: beleuchtung
 ---
-<a class="img-link-right"><img src="/images/articles/2009/01/eleyon08.jpg"></a>
+<a class="img-link-block"><img src="/images/articles/2009/01/eleyon08.jpg" width="100%" ></a>
 
 Nachdem wir ja schon zu dem Schluss gekommen sind, das tageszeitabhängige Beleuchtung nicht nur ein langes Wort, sondern auch eine gute Sache ist, beenden wir dieses Thema mit einem Tutorial. Das hier ist die Methode, die ich für Eleyon verwende. Viel Spaß beim Einbauen!
 
@@ -25,26 +25,27 @@ Bevor wir im CS anfangen können, brauchen wir zuerst die passenden Modelle. Fü
 
 Gut, die in Eleyon benutzten Fenstertexturen stammen aus den Fenstern der Dementia-Hütten von Shivering Isles und sehen so aus:
 
-<a clas="img-link-block" href="/images/articles/2008/12/fenster.png"><img class="size-medium wp-image-310" title="fenster" src="/images/articles/2008/12/fenster-500x312.png" alt="Die Fenster von Eleyon. Links die Version für den Tag, rechts die beleuchtete für die Nacht." width="500" height="312" /><span class="caption">Die Fenster von Eleyon. Links die Version für den Tag, rechts die beleuchtete für die Nacht."</span></a>
+<a class="img-link-block" href="/images/articles/2008/12/fenster.png"><img class="size-medium wp-image-310" title="fenster" src="/images/articles/2008/12/fenster-500x312.png" alt="Die Fenster von Eleyon. Links die Version für den Tag, rechts die beleuchtete für die Nacht." width="500" height="312" /><span class="caption">Die Fenster von Eleyon. Links die Version für den Tag, rechts die beleuchtete für die Nacht."</span></a>
 
 Nun kommen wir zu den benötigten Meshes - man muss die Fenster ja unabhängig von dem Rest des Hauses enablen und disablen können. Der Dank für diese Methode geht an Haldor und Trebron vom Orden-Team.
 Also, zuerst suchen wir uns das NiTriStrip, in dem die Fenster liegen. Dieses NiTriStrip klicken wir nun rechts an und wählen "Copy Branch".
 
-<a href="/images/articles/2008/12/copybranch.png"><img class="size-thumbnail wp-image-312" title="copybranch" src="/images/articles/2008/12/copybranch-400x250.png" alt="Und &quot;Copy Branch&quot;..." width="400" height="250" /></a>
+<a href="/images/articles/2008/12/copybranch.png" class="img-link-block"><img class="size-thumbnail wp-image-312" title="copybranch" src="/images/articles/2008/12/copybranch-400x250.png" alt="Und &quot;Copy Branch&quot;..." width="400" height="250" /></a>
 
 Dann löschen wir es und speichern das Mesh als Grundmesh des Hauses ab.
 
-<a href="/images/articles/2008/12/rembranch.png"><img class="size-thumbnail wp-image-319" title="rembranch" src="/images/articles/2008/12/rembranch-400x250.png" alt="Und weg mit den Fenstern!" width="400" height="250" /></a>
+<a href="/images/articles/2008/12/rembranch.png"  class="img-link-block"><img class="size-thumbnail wp-image-319" title="rembranch" src="/images/articles/2008/12/rembranch-400x250.png" alt="Und weg mit den Fenstern!" width="400" height="250" /></a>
 
 <a class="img-link-block" href="/images/articles/2008/12/saveasnowindow.png"><img class="size-thumbnail wp-image-313" title="saveasnowindow" src="/images/articles/2008/12/saveasnowindow-400x250.png" alt="Speichern als Variante ohne Fenster..." width="400" height="250" /><span class="caption">Speichern als Variante ohne Fenster...</span></a>
 
+
 Danach einen Rechtsklick auf das mit einer Null markierten NiNode und "Paste Branch".
 
-<a href="/images/articles/2008/12/paste.png"><img class="size-thumbnail wp-image-318" title="paste" src="/images/articles/2008/12/paste-400x250.png" alt="Paste Branch..." width="400" height="250" /></a>
+<a href="/images/articles/2008/12/paste.png"  class="img-link-block"><img class="size-thumbnail wp-image-318" title="paste" src="/images/articles/2008/12/paste-400x250.png" alt="Paste Branch..." width="400" height="250" /></a>
 
 Damit fügen wir die Fenster wieder ein. Nun löschen wir alle anderen NiTriStrips außer dem Fenster. Und dazu noch das bhkCollisionObject.
 
-<a class="img-link-block" href="/images/articles/2008/12/nocobject.png"><img class="size-thumbnail wp-image-321" title="nocobject" src="/images/articles/2008/12/nocobject-400x250.png" alt="Und auch kein Colission Object mehr..." width="400" height="250" /></a>
+<a class="img-link-block" href="/images/articles/2008/12/nocobject.png"  class="img-link-block"><img class="size-thumbnail wp-image-321" title="nocobject" src="/images/articles/2008/12/nocobject-400x250.png" alt="Und auch kein Colission Object mehr..." width="400" height="250" /></a>
 
 Damit sind wir beinahe fertig - wir müssen nur noch die Kollisionsberechnung ausschalten, was wir tun, indem wir erst unter "View" die Block Details sichtbar machen, die BSXFlags anklicken und auf das kleine Fähnchen nach uint klicken. Dann schalten wir "Enable Collision" aus und fertig.
 
@@ -59,9 +60,13 @@ Damit haben wir die Fenster für den Tag fertig, jetzt weisen wir ihnen noch die
 Jetzt sollten wir drei verschiedene Meshes erzeugt haben: eines ohne Fenster, eines nur mit den unbeleuchteten und eines mit den beleuchteten Fenstern. Bevor wir nun ins Construction Set springen und dort weitermachen, gönnen wir uns eine kleine Pause. Trinken einen Schluck, holen einmal tief Luft.
 
 Okay, zuerst binden wir die Meshes ein. Das sollte ja nicht allzu schwierig sein. Der Typ ist mehr oder weniger egal, das Haus auf jeden Fall als Static, die Fenster kann man auch als Activator einbinden. Macht aber für unsere Methode keinen Unterschied.
+
 <a class="img-link-block" href="/images/articles/2009/01/eingebunden.png"><img src="/images/articles/2009/01/eingebunden-400x250.png" alt="Alle drei Meshes sind eingebunden" title="eingebunden" width="400" height="250" class="size-thumbnail wp-image-429" /></a>
+
 Nun brauchen wir noch die "Meister-Referenzen", die als Parent für die Fenster fungieren. Dazu suchen wir uns irgendein Objekt, ich habe mal einen Activator genommen und machen eine neue Version von ihm, die wir passend bennen. Nun erstellen wir uns eine neue Interior-Zelle, in der wir später schnell die Referenzen wiederfinden können. Am Besten ist es, wenn diese Zelle einen Namen bekommt, der sie ganz an den Anfang des Alphabets befördert. So wie "000LightingCell" oder ähnliches. Nun ziehen wir unseren Activator zweimal in diese Zelle. Und klicken beide Referenzen an und geben ihnen einzigartige, leicht erkennbare IDs, zum Beispiel "XRefDay" und "XRefNight". Diese müssen allerdings, soweit ich weiß, mit einem Buchstaben beginnen. Auf keinen Fall dürfen wir vergessen, das Kreuz bei "Persistent Reference" zu machen.
-<a href="/images/articles/2009/01/referenzen.png"><img src="/images/articles/2009/01/referenzen-400x250.png" alt="Wir haben eine neue Zelle und eine neue Version des Straßenschildes von Anvil erstellt. In die Zelle haben wir zweimal das Schild gezogen und den beiden Referenzen jeweils eindeutige IDs gegeben. Auf keinen Fall &quot;Persistens References&quot; vergessen!" title="referenzen" width="400" height="250" class="size-thumbnail wp-image-430" /></a>
+
+<a href="/images/articles/2009/01/referenzen.png" class="img-link-block"><img src="/images/articles/2009/01/referenzen-400x250.png" alt="Wir haben eine neue Zelle und eine neue Version des Straßenschildes von Anvil erstellt. In die Zelle haben wir zweimal das Schild gezogen und den beiden Referenzen jeweils eindeutige IDs gegeben. Auf keinen Fall &quot;Persistens References&quot; vergessen!" title="referenzen" width="400" height="250" class="size-thumbnail wp-image-430" /></a>
+
 In dem Bild habe ich eine neue Zelle und eine neue Version des Straßenschildes von Anvil erstellt. In die Zelle wurde zweimal das Schild gezogen und den beiden Referenzen jeweils eindeutige IDs verpasst.
 
 Bevor wir nun die Fenster und Häuser platzieren, müssen wir uns noch um das Scripting kümmern. Zuerst das Script, das ja recht simpel aufgebaut ist:
@@ -100,20 +105,33 @@ end
 <strong>Die Wetterabfrage hat anscheinend, wie Trebron in einem Kommentar zum letzten Post mitteilte, im Zusammenspiel mit Wettermods Abstürze zur Folge. Kann das jemand bestätigen?</strong>
 
 Dieses Script speichern wir nun als QuestScript und bauen uns einen passenden Quest dazu, den wir beliebig nennen und ihm das Script verpassen. Wollen wir die tageszeitabhängige Beleuchtung nun anschalten, müssen wir nur in der Konsole "StartQuest MeinQuestName" eingeben.
+
 <a class="img-link-block" href="/images/articles/2009/01/questscript.png"><img src="/images/articles/2009/01/questscript-400x250.png" alt="Das Questscript wird eingebunden" title="questscript" width="400" height="250" class="size-thumbnail wp-image-431" /></a>
+
 Gut, jetzt binden wir unsere Beleuchtung endlich ein. Zuerst stellen wir ein Haus in die Landschaft, das noch keine Fenster hat. Dann klicken wir es doppelt an und schieben das aufgehende Fenster nach oben, so dass es über das Renderfenster herausragt.
+
 <a class="img-link-block" href="/images/articles/2009/01/hauseingebaut.png"><img src="/images/articles/2009/01/hauseingebaut-400x250.png" alt="Das Haus steht!" title="hauseingebaut" width="400" height="250" class="size-thumbnail wp-image-432" /></a>
+
 Nun ziehen wir unsere beiden Fenster in das Renderfenster und klicken das erste doppelt an und bewegen das Fenster nach oben. Das gleiche tun wir auch mit dem zweiten Fenster. Jetzt kann man auch den Grund sehen, warum wir die Fenster nach oben geschoben haben: wären sie weiter unten, würden sie vom wieder vom in den Vordergrund springenden Renderfenster verdeckt werden.
+
 <a class="img-link-block" href="/images/articles/2009/01/fensteranordnung.png"><img src="/images/articles/2009/01/fensteranordnung-400x250.png" alt="So sind unsere Fenster dann angeordnet" title="fensteranordnung" width="400" height="250" class="size-thumbnail wp-image-433" /></a>
+
 Gut, nun haben wir unsere drei Fenster nebeneinander offen. Als erstes geben wir den Fenstern ihre passenden Parents, indem wir auf "Enable Parent" gehen, unsere Zelle auswählen und die passende Referenz auswählen. Nun fehlt nur noch die Positionierung. Dazu übertragen wir die Positionsdaten des Hausmeshes auf die jeweiligen Fenstermeshes. Dazu haben wir die Fenster alle nebeneinander geöffnet, das erspart viel Klickerei. Ein Hinweis noch an dieser Stelle: nach dem Einfügen (mit Strg + V) der letzten Zahl muss man noch einmal in ein anderes Feld klicken, damit auch dieser Wert übernommen wird. Danach schließen wir die drei Fenster und haben unser Haus erfolgreich mit nachts leuchtenden Fenstern ausgestattet!
+
 <a class="img-link-block" href="/images/articles/2009/01/parents1.png"><img src="/images/articles/2009/01/parents1-400x250.png" alt="Die Parents werden gesetzt. Die leuchtenden Fenster müssen nachts angehen..." title="parents1" width="400" height="250" class="size-thumbnail wp-image-440" /></a>
 <a class="img-link-block" href="/images/articles/2009/01/allegleich.png"><img src="/images/articles/2009/01/allegleich-400x250.png" alt="Alle haben die gleichen Positionsdaten..." title="allegleich" width="400" height="250" class="size-thumbnail wp-image-435" /></a>
 <a class="img-link-block" href="/images/articles/2009/01/hausmitfenstern.png"><img src="/images/articles/2009/01/hausmitfenstern-400x250.png" alt="Unser Haus hat Fenster!" title="hausmitfenstern" width="400" height="250" class="size-thumbnail wp-image-436" /></a>
+
 Bravo. Geschafft. Jetzt fehlt nur noch, dass unsere Fenster auch nachts Licht ausstrahlen, das die Umgebung beleuchtet. Dazu machen wir uns einfach eine neue Lichtquelle unter "Lights", die aussieht wie eine große Glühbirne und orange leuchtet. Von diesen Glühbirnen positionieren wir jeweils eine vor jedem Fenster und geben allen die Nacht-Referenz als Parent.
+
 <a class="img-link-block" href="/images/articles/2009/01/lichtvorfenstern.png"><img src="/images/articles/2009/01/lichtvorfenstern-400x250.png" alt="In der Nacht gibt es auch Licht!" title="lichtvorfenstern" width="400" height="250" class="size-thumbnail wp-image-437" /></a>
+
 Alle anderen Objekte, die von der Tageszeit abhängig sein müssen, können wir auch mit den Referenzen disablen und enablen. Nachts Schmetterlinge durch Glühwürmchen ersetzen, Kerzen ausgehen lassen... alles ganz einfach! Bei den Kerzen muss man einfach eine angeschaltete Version (unter Lights) und eine ausgeschaltete Version (unter Static/Lights) mit der oben erklärten Methode ineinander stellen und die passenden Referenzen verpassen. Schon haben wir ein bisschen mehr Realismus.
+
 <a class="img-link-block" href="/images/articles/2009/01/tag.png"><img src="/images/articles/2009/01/tag-400x250.png" alt="tag" title="tag" width="400" height="250" class="alignnone size-thumbnail wp-image-442" /></a>
-<a href="/images/articles/2009/01/nacht.png"><img src="/images/articles/2009/01/nacht-400x250.png" alt="nacht" title="nacht" width="400" height="250" class="alignnone size-thumbnail wp-image-443" /></a>
+
+<a href="/images/articles/2009/01/nacht.png"  class="img-link-block"><img src="/images/articles/2009/01/nacht-400x250.png" alt="nacht" title="nacht" width="400" height="250" class="alignnone size-thumbnail wp-image-443" /></a>
+
 Jetzt sind wir aber wirklich fertig. Juhu!
 
 <strong>Und, baut ihr das jetzt ein? Habt ihr eine bessere Methode? Habe ich gar einen Fehler gemacht? Kommentarfunktion nutzen, danke. ;-)</strong>

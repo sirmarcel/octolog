@@ -6,7 +6,7 @@ comments: true
 categories: 
 - Links
 - Deutsch
-- Music
+- Musik
 external-url: http://detektor.fm
 meta:
   via: <a href="https://twitter.com/holgi">@holgi</a>
