@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dear Daughter"
-date: 2012-04-22 00:26
+date: 2012-04-21 23:26
 comments: true
 categories: 
 - Links
