@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Touché"
+date: 2012-05-07 20:16
+comments: true
+categories: 
+- Links
+- English
+- Tech
+- Science
+external-url: https://www.youtube.com/watch?v=E4tYpXVTjxA
+meta:
+  via:
+---
+> Touché proposes a novel Swept Frequency Capacitive Sensing technique that can not only detect a touch event, but also recognize complex configurations of the human hands and body. Such contextual information significantly enhances touch interaction in a broad range of applications, from conventional touchscreens to unique contexts and materials
+
+This is so ridiculously cool, it shouldn't even work. Just imagine the possibilities. We live in the future, and I love it.
