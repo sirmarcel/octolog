@@ -1,7 +1,7 @@
 /* 
 
 The octolog theme
-by: Marcel Langer
+by: Marcel Langer (http://lumenlog.com)
 very, very loosely based on Ethan Turkeltaub's theme (http://ethan.heroku.com/)
 
 */
@@ -24,7 +24,7 @@ $link-border: #555;
 /* Type */
 
 
-$body-font: Palatino, Georgia, serif;
+$body-font: "Adobe Garamond Pro",Palatino, Georgia, serif;
 $header-font: "Helvetica Neue", Helvetica, sans-serif;
 $base-size: 16px;
 $base-line: 24px;
@@ -32,6 +32,7 @@ $line: 1.5em;
 
 /* Responsive stuff and stuff */
 
+/* SCSS doesn't seem to support variables in media queries right now, so these are just notes */
 $wide: 800px;
 $wide-max: 799px;
 

@@ -6,11 +6,16 @@
 				<a class="permalink" href="{{ page.url }}">∞</a>
 			</h1>
 		{% else %}
+			{% if page.title-img %}
+				<img class="article-img" src="/images/title-images/{{ page.title-img }}.png"> 
+			{% endif %}
 			{% if page.meta:img %}
 				<img class="article-img" src="/images/title-images/{{ page.meta:img }}.png"> 
 			{% endif %}
 			<h1 class="article-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
 			{% if page.meta:sub %}<h2 class="sub-title">{{ page.meta:sub }}</h2>{% endif %}
+			{% if page.sub-title %}<h2 class="sub-title">{{ page.sub-title }}</h2>{% endif %}
+			
 		{% endif %}
 	</header>
 	<section class="content">
@@ -20,6 +25,9 @@
 		<span class="date">{{ page.date | date:"%d.%m.%Y" }}</span>
 		{% if page.meta:via %}
 			<span class="via">via {{ page.meta:via }}</span>
+		{% endif %}
+		{% if page.via %}
+			<span class="via">via {{ page.via }}</span>
 		{% endif %}
 		{% include post/categories.html %}
 	</footer>

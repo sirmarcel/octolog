@@ -4,8 +4,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta content="width=device-width,initial-scale=1" name="viewport">
-		<meta content="Das Blog von Marcel. Anscheinend schreibt er dort über interessante Dinge." name="description">
-		<meta content="Marcel Langer" name="author">
+		<meta content="My blog. I write about stuff here." name="description">
+		<meta content="Jane Doe" name="author">
 		
 		<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Lumenlog</title>
 		
@@ -13,12 +13,13 @@
 		<link href="/favicon.png" rel="icon">
 		<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
 		<link href="/stylesheets/style.css" rel="stylesheet">
-		<!-- Remove this include for testing, then put your own tracking scripts etc. in this file -->
+		<link href="" rel="alternate" title="My blog, yo" type="application/rss+xml" />
+		<!-- Put your tracking scripts etc. pp. in this file -->
 		{% include custom/header-custom.html %}
 
 	</head>
 	<body>
 		<div id="wrapper">
 			<header class="row instapaper_ignore">
-				<h1 id="site-title"><a class="site-link" href="/">Lumenlog.</a></h1>
+				<h1 id="site-title"><a class="site-link" href="/">{{ site.title }}</a></h1>
 			</header>

@@ -1,0 +1,14 @@
+<header>
+		{% if page.external-url %}
+			<h1 class="link-title">
+				<a href="{{ page.external-url }}">{{ page.title }}</a>
+				<a class="permalink" href="{{ page.url }}">∞</a>
+			</h1>
+		{% else %}
+			{% if page.title-img %}
+				<img class="article-img" src="/images/title-images/{{ page.title-img }}.png"> 
+			{% endif %}
+			<h1 class="article-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+			{% if page.sub-title %}<h2 class="sub-title">{{ page.sub-title }}</h2>{% endif %}
+		{% endif %}
+</header>

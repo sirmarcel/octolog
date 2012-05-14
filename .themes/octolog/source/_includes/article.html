@@ -1,0 +1,13 @@
+<article class="{% if page.external-url %}link{% else %}article{% endif %}">
+	{% include post/post-header.html %}
+	<section class="content">
+		{{ content }}
+	</section>
+	<footer>
+		<span class="date">{{ page.date | date:"%d.%m.%Y" }}</span>
+		{% if page.via %}
+			<span class="via">via {{ page.via }}</span>
+		{% endif %}
+		{% include post/categories.html %}
+	</footer>
+</article>

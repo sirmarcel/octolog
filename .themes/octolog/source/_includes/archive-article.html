@@ -1,0 +1,16 @@
+<article class="{% if post.external-url %}link{% else %}article{% endif %} archive-article">
+	{% include archive-article-titles.html %}
+	{% if post.external-url %}
+	<section class="content">
+		{{ post.content | markdownify }}
+	</section>
+	{% else %}
+	{% endif %}
+	<footer>
+		<span class="date">{{ post.date | date:"%d.%m.%Y" }}</span>
+		{% if post.meta:via %}
+			<span class="via">via {{ post.via }}</span>
+		{% endif %}
+		{% include post/categories.html %}
+	</footer>
+</article>

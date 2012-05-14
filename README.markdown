@@ -1,6 +1,31 @@
-Quick hint: If you decide to fork this installation or otherwise play around with it, please remove the tracking script from the header. It's a bit weird to get visits to localhost:4000. ;)
-
 This is the Octopress install that powers lumenlog.com. It's mostly just straight out-of-the box, with one plugin (footnotes.rb) thrown in for good measure. And a custom theme. And a very trivial new task in the rakefile.
+
+## Using the theme (some info dump)
+
+### Install
+- Clone or download [this folder](https://github.com/sirmarcel/octolog/tree/master/.themes/octolog) and place it in .themes/ of your Octopress instance
+- Run rake install[octolog], this copies the theme files and folders to /sass and /source
+
+### General usage *salutes*
+- The themes recognizes link posts by the external-url parameter in the header part of the post. You should also put them in a "Links" category... ;) If you also use my rakefile, you will be able to create new link posts with rake new_link['Title','URL'] My Rakefile uses Byword as the default editor; you can change that at the top of the rakefile under editor_path.
+- A via link can be included with the via parameter in the YAML front matter(1). My Rakefile does this for you as well. Via links need to be written in HTML, not Markdown.
+- If you want those cute small images next to articles, you need to place save them in /images/title-images in PNG. To specify which image should be used, you can use the title-img parameter in the YAML front matter for your post.
+- Sub titles for your articles (not the link posts) can be specified using the sub-title argument in the front matter.
+- My rakefile does most of the above for you, so don't sweat it. :)
+- I have left my Typekit code in _includes/custom/header-custom.html for purely aesthetic reasons. Please replace it with your own as soon as possible. To do that, you need to get a free [Typekit](http://typekit.com) account and place the code in _includes/custom/header-custom.html. Here are two screenshots of my Typekit config. [1](http://lumenlog.com/images/articles/typekit1.png) [2](http://lumenlog.com/images/articles/typekit2.png)
+- You probably want to customise the bottom.html, the about page and the impressum, if you're unlucky enough to need one.
+- The apple-touch-icon is also mine, you probably want to overwrite it.
+- Disqus comment code feels at home in _layouts/post.html
+
+Have fun blogging! If you have any questions, hit me up on [Twitter](https://twitter.com/xartas).
+
+(1) that's the part of your blog between the --- lines. 
+
+### Some things this theme doesn't do (yet)
+
+- Displaying code nicely
+- Make you rich and successful
+
 
 
 ## What is Octopress?

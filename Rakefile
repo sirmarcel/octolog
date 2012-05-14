@@ -105,9 +105,11 @@ task :new_post, :title do |t, args|
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "sub-title:"
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"
     post.puts "categories: "
+    post.puts "title-img:"
     post.puts "---"
   end
   system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
@@ -135,10 +137,8 @@ task :new_link, [:title, :link_url] do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "- Links"
-    post.puts "- English"
     post.puts "external-url: #{link_url}"
-    post.puts "meta:"
-    post.puts "  via:"
+    post.puts "via:"
     post.puts "---"
   end
   system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"

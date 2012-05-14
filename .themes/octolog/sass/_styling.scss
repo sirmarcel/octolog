@@ -1,0 +1,256 @@
+/* Global Styles */
+
+body {
+	font-family: $body-font;
+	font-size: $base-size;
+	line-height: $line;
+	text-shadow: $bg 0 0 1px;
+	font-weight: 100;
+	@media only screen and (max-width: 640px) 	{
+		font-size: 0.9*$base-size;
+	}
+	color: $text;
+	background-color: $bg;
+	}
+	
+#wrapper {
+	border-top: 6px solid $accent;
+	border-bottom: 6px solid $accent;
+	height: 100%;
+	padding-bottom: $line;
+	}
+	
+h1, h2, h3, h4, h4, h6 {
+	font-family: $header-font;
+	letter-spacing: 1px;
+	font-style: normal;
+	font-weight: normal;
+	}
+	
+p {	
+	margin-bottom: $line;
+	}
+	
+em {
+	font-style: italic;
+	font-weight: 100;
+	}
+	
+strong {
+	font-weight: 300;
+	}
+	
+blockquote {
+	padding-left: 17px;
+	border-left: 3px solid $text-light;
+	margin: $line 0 $line 0;
+	p {
+		margin: 0;
+		}
+		
+	p+p {
+		margin-top: $line;
+		}	
+	}
+	
+a {
+	text-decoration: none;
+	color: $accent;
+	border-bottom: 1px solid $link-border;
+	}
+
+a:hover {
+	color: $accent2;
+	-webkit-transition: color 0.5s ease, border-color 0.5s ease;
+	-moz-transition: color 0.5s ease, border-color 0.5s ease;
+	transition: color 0.5s ease, border-color 0.5s ease;
+	border-bottom: 1px solid $accent2-dim;
+	}
+	
+ul {
+	list-style: armenian;
+	}
+	
+
+	
+/* Header Area */
+
+h1#site-title {
+	margin: 0;
+	font-size: 3em;
+	line-height: 2*$line;
+	letter-spacing: -1px;
+	font-weight: 900;
+	a {
+		border: none;
+		}
+	}
+	
+	
+/* Styling Articles */
+	
+	
+article.link {
+	h1 {
+		font-size: 1em;
+		line-height: $line;
+		margin: 0;
+		width: 70%;
+		font-weight: 500;
+		a.permalink {
+			color: $text;
+			border: none;
+			padding: 5px;
+			}
+		a.permalink:hover {
+			color: $accent;
+			}
+		}
+	}
+
+article.article {
+	h1 {
+		font-size: 1.5em;
+		line-height: $line;
+		margin-bottom: 0;
+		font-weight: 500;
+		a {
+			border: none;
+		}
+		}
+	img.article-img {
+		width: 160px;
+		height: 60px;
+		float: left;
+		margin-right: 10px;
+		}	
+	}
+	
+article {
+	border-bottom: 1px solid $sub;
+	h2.sub-title {
+		margin: 0;
+		font-size: 1em;
+		font-weight: 300;
+		line-height: $line;
+		}
+	h3 {
+		text-indent: 1em;
+		font-weight: 300;
+		}
+	p:last-of-type {
+		margin-bottom: 0;
+		}
+	}
+	
+article:last-of-type {
+	border-bottom: none;
+	}	
+	
+article footer {
+	padding: 0.5*$line 0 0.5*$line 0;
+	color: $text-light;
+	font-size: 0.7em;
+	line-height: $line;
+	span.date {
+		font-style: italic;
+		}
+	a {
+		border: none;
+		}	
+	}
+	
+/* Pagination Yo */
+
+footer#pagination {
+	a {
+		border: none;
+		}
+	span#number {
+		padding: 0 1em;
+		}
+	}
+	
+	
+/* Styling Pages */
+
+h1#page-title {
+	font-size: 1.5em;
+	line-height: $line;
+	margin-bottom: 0;
+	font-weight: 500;
+	}	
+	
+/* Secondary Content / Navigation */
+
+form#search {
+	float: right;
+	width: 40%;
+	input {
+		padding: 0.1em 0.2em;
+		font-size: 1em;
+		background-color: transparent;
+		border: none;
+		height: $line;
+		color: $text;
+		margin-left: -0.2em;
+	}
+	fieldset {
+		padding: 0;
+		margin: 0.5*$line 0;
+	}
+	input.search {
+		width: 100%;
+		-webkit-transition: margin 0.3s ease;
+		-moz-transition: margin 0.3s ease;
+		transition: margin 0.3s ease;
+		font-family: $body-font;
+	}
+	input.search:focus {
+		background-color: $sub;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		outline: none;
+		margin: 0;
+		-webkit-transition: background-color 0.5s ease, margin 0.3s ease;
+		-moz-transition: background-color 0.5s ease, margin 0.3s ease;
+		transition: background-color 0.5s ease, margin 0.3s ease;
+		}
+	}
+	
+fieldset {
+	border: none;
+	}
+	
+a.nav-link {
+	float: left;
+	margin-right: 2em;
+	border: none !important;
+	}
+
+div#secondary {
+	border-top: 1px solid $sub;	
+	}
+	
+/* Footeur */
+
+footer {
+	color: $text-light;
+	font-size: 0.8em;
+	a {
+		color: $text-light;
+	}
+	}
+	
+/* Goddamn Fucking Archives */
+
+	.archive h2.year {
+		font-size: 1.2em;
+		line-height: $line;
+		font-weight: 500;
+	}
+	
+	.archive .article footer {
+
+	}
