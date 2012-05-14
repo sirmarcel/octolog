@@ -19,7 +19,7 @@ This is the Octopress install that powers lumenlog.com. It's mostly just straigh
 
 Have fun blogging! If you have any questions, hit me up on [Twitter](https://twitter.com/xartas).
 
-(1) that's the part of your blog between the --- lines. 
+(1) that's the part of your post between the --- lines. 
 
 ### Some things this theme doesn't do (yet)
 
