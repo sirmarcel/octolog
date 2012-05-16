@@ -9,6 +9,7 @@ categories:
 - Web
 - Design
 - Meta
+- Octopress
 
 meta:
  sub: So long, Wordpress.
