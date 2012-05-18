@@ -4,6 +4,7 @@ title: "octolog theme"
 date: 2012-05-17 00:30
 comments: true
 categories: 
+- English
 - Links
 - Octopress
 - Design
