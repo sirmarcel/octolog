@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Higgs Boson 101"
+date: 2012-07-09 12:02
+comments: true
+categories: 
+- Links
+- English
+- Science
+- Film
+external-url: http://www.youtube.com/watch?v=9Uh5mTxRQcg
+via: <a href="https://twitter.com/CERN">CERN</a>
+---
+A short video explanation of the Higgs boson that is bit more in-depth and accurate than "it gives stuff mass". I really wish I was that good at explaining science. ;)
+
+Somewhat related and awesome: [Welcome to Science]( http://zenpencils.com/comic/52-phil-plait-welcome-to-science/ )
