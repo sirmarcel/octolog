@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Sight"
+date: 2012-07-29 13:10
+comments: true
+categories: 
+- Links
+- Film
+- English
+- Tech Life
+external-url: http://vimeo.com/46304267
+via:
+---
+
+A beautiful (and slightly disturbing) short film that tries to imagine a future with ubiquitous augmented reality. The film seems to force itself to be a bit more dystopian than appropriate, though. I really can't see the fundamental difference between constantly fumbling with your phone and interacting through some kind of high-tech contact lens. (Well, one: They look *incredibly* creepy.)
+
+And now for a reality check: The [Valve blog has a good explanation](http://blogs.valvesoftware.com/abrash/why-you-wont-see-hard-ar-anytime-soon/) why this level of augmented reality won't be technically feasible anytime soon.
+
+
