@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enthralling Books: Do Androids Dream of Electric Sheep?"
-date: 2012-08-13 23:38
+date: 2012-08-13 13:38
 comments: true
 categories: 
 - Links
