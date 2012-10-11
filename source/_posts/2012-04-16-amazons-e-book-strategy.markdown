@@ -7,6 +7,7 @@ categories:
 - Links
 - English
 - Books
+- Amazon
 external-url: http://www.antipope.org/charlie/blog-static/2012/04/understanding-amazons-strategy.html
 meta:
   via: <a href="https://twitter.com/craigmod">Craig Mod</a>
