@@ -12,7 +12,14 @@
 			{% if page.meta:img %}
 				<img class="article-img" src="/images/title-images/{{ page.meta:img }}.png"> 
 			{% endif %}
-			<h1 class="article-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+			<h1 class="article-title">
+				<a href="{{ page.url }}">
+					{% if page.post-label %}
+						<span class="post-label">{{ page.post-label }}</span>
+					{% endif %}
+					{{ page.title }}
+				</a>
+			</h1>
 			{% if page.meta:sub %}<h2 class="sub-title">{{ page.meta:sub }}</h2>{% endif %}
 			{% if page.sub-title %}<h2 class="sub-title">{{ page.sub-title }}</h2>{% endif %}
 			

@@ -108,6 +108,14 @@ article.link {
 		}
 	}
 
+	.post-label {
+		color: $text;
+	}
+
+	.post-label:after {
+		content: (": ");
+	}
+
 article.article {
 	h1 {
 		font-size: 1.5em;
