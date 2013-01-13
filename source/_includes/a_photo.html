@@ -1,0 +1,33 @@
+<article class="photo">
+	<img class="photo-full" src="{{ page.photo-url }}">
+	<header>
+		<h1 class="photo-title">
+			<a href="{{ page.url }}">{{ page.title }}</a>
+		</h1>
+	</header>
+	<section class="content">
+		{{ content }}
+	</section>
+	<section class="photo-info">
+		{% if page.camera %}
+			<span>Kamera: {{ page.camera }}</span>
+		{% endif %}
+		{% if page.lens %}
+			<span>Objektiv: {{ page.lens }}</span>
+		{% endif %}
+		{% if page.photo-url-full %}
+			<span><a href="{{ page.photo-url-full }}">Bild in voller Auflösung</a></span>
+		{% endif %}
+		
+	</section>
+	<footer>
+		<span class="date">{{ page.date | date:"%d.%m.%Y" }}</span>
+		{% if page.meta:via %}
+			<span class="via">via {{ page.meta:via }}</span>
+		{% endif %}
+		{% if page.via %}
+			<span class="via">via {{ page.via }}</span>
+		{% endif %}
+		{% include post/categories.html %}
+	</footer>
+</article>
