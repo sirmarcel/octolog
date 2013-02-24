@@ -20,6 +20,8 @@ layout: nil
 		<title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
 		{% if post.external-url %}
 			<link href="{{ post.external-url }}"/>
+		{% elsif post.photo-name %}
+			<a class="img-link" href="{{ post.url }}"><img class="hisrc photo-full" src="{{ site.photo_root }}/{{ post.photo-name }}-2x.jpg"></a>
 		{% else %}
 			<link href="{{ site.url }}{{ post.url }}"/>
 		{% endif %}
