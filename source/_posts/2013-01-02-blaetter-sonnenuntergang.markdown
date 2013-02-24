@@ -6,8 +6,7 @@ comments: true
 categories: 
 - Photos
 - Deutsch
-photo-url: /images/photos/leaves_sunset.jpg
-photo-url-full: /images/photos/leaves_sunset-full.jpg
+photo-url: /images/photos/leaves_sunset
 lens: "Panasonic Lumix G 20mm F1.7 ASPH"
 camera: "Panasonic Lumix DMC-GX1"
 ---

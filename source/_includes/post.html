@@ -1,0 +1,7 @@
+{% if post.photo-url %}
+	{% include a_photo.html %}
+{% elsif post.external-url %}
+	{% include a_link.html %}
+{% else %}
+	{% include an_article.html %}
+{% endif %}

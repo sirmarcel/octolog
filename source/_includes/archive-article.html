@@ -5,6 +5,8 @@
 				<a href="{{ post.external-url }}">{{ post.title }}</a>
 				<a class="permalink" href="{{ post.url }}">∞</a>
 			</h1>
+		{% if post.photo-url %}
+			
 		{% else %}
 			{% if post.title-img %}
 				<img class="article-img" src="/images/title-images/{{ post.title-img }}.png" 

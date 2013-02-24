@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% assign index = true %}
-{% for page in paginator.posts %}
-{% assign content = page.content %}
-	{% include article.html %}
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+	{% include post.html %}
 {% endfor %}
 <footer class="row" id="pagination">
 	<nav>

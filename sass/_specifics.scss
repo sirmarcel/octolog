@@ -10,39 +10,7 @@
 	font-style: italic;
 	}
 
-/* Styles for photo posts */
 
-.photo-full {
-	width: 100%;
-}
-
-.photo-info {
-	margin-top: $line;
-}
-
-.photo-info span {
-	font-size: 0.8*$base-size;
-	margin-right: 1em;
-	a {
-		color: $text;
-	}
-	a:hover {
-		color: $accent2;
-	}
-}
-
-.photo {
-	h1 {
-		font-size: 1em;
-		line-height: $line;
-		margin: $line 0 0 0;
-		width: 72%;
-		font-weight: 500;
-		a.permalink:hover {
-			color: $accent2;
-			}
-		}
-}
 	
 /* Sligthly hacky styles for images in posts */
 

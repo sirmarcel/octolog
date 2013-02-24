@@ -90,13 +90,12 @@ h1#site-title {
 /* Styling Articles */
 	
 	
-article.link {
+article.link, article.photo {
 	h1 {
 		font-size: 1em;
 		line-height: $line;
 		margin: 0;
 		width: 72%;
-		font-weight: 500;
 		a.permalink {
 			color: $text;
 			border: none;
@@ -115,6 +114,18 @@ article.link {
 	.post-label:after {
 		content: (": ");
 	}
+
+article.link {
+	h1 {
+		font-weight: 300;
+	}
+}
+
+article.photo {
+	h1 {
+		font-weight: 300;
+	}
+}
 
 article.article {
 	h1 {
@@ -167,7 +178,30 @@ article footer {
 		border: none;
 		}	
 	}
-	
+
+/* Styles for photo posts */
+
+.photo-full {
+	width: 100%;
+}
+
+.photo-info {
+	margin-top: $line;
+}
+
+.photo-info span {
+	font-size: 0.8*$base-size;
+	margin-right: 1em;
+	a {
+		color: $text;
+	}
+	a:hover {
+		color: $accent2;
+	}
+}
+
+
+
 /* Pagination Yo */
 
 footer#pagination {

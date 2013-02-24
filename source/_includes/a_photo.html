@@ -1,33 +1,24 @@
 <article class="photo">
-	<img class="photo-full" src="{{ page.photo-url }}">
+	<img class="photo-full" src="{{ post.photo-url }}.jpg" data-1x="{{ post.photo-url }}-1x.jpg" data-2x="{{ post.photo-url }}-2x.jpg">
 	<header>
 		<h1 class="photo-title">
-			<a href="{{ page.url }}">{{ page.title }}</a>
+			<a href="{{ post.url }}">{{ post.title }}</a>
 		</h1>
 	</header>
 	<section class="content">
 		{{ content }}
 	</section>
 	<section class="photo-info">
-		{% if page.camera %}
-			<span>Kamera: {{ page.camera }}</span>
+		{% if post.camera %}
+			<span>Kamera: {{ post.camera }}</span>
 		{% endif %}
-		{% if page.lens %}
-			<span>Objektiv: {{ page.lens }}</span>
+		{% if post.lens %}
+			<span>Objektiv: {{ post.lens }}</span>
 		{% endif %}
-		{% if page.photo-url-full %}
-			<span><a href="{{ page.photo-url-full }}">Bild in voller Auflösung</a></span>
+		{% if post.photo-url-full %}
+			<span><a href="{{ post.photo-url }}-full.jpg">Bild in voller Auflösung</a></span>
 		{% endif %}
 		
 	</section>
-	<footer>
-		<span class="date">{{ page.date | date:"%d.%m.%Y" }}</span>
-		{% if page.meta:via %}
-			<span class="via">via {{ page.meta:via }}</span>
-		{% endif %}
-		{% if page.via %}
-			<span class="via">via {{ page.via }}</span>
-		{% endif %}
-		{% include post/categories.html %}
-	</footer>
+	{% include post/footer.html %}
 </article>

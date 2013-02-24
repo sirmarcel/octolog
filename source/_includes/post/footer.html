@@ -1,0 +1,10 @@
+<footer>
+	<span class="date">{{ post.date | date:"%d.%m.%Y" }}</span>
+	{% if post.meta:via %}
+		<span class="via">via {{ post.meta:via }}</span>
+	{% endif %}
+	{% if post.via %}
+		<span class="via">via {{ post.via }}</span>
+	{% endif %}
+	{% include post/categories.html %}
+</footer>
