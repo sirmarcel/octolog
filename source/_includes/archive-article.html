@@ -1,4 +1,4 @@
-<article class="{% if post.external-url %}link{% else %}article{% endif %} archive-article">
+<article class="{% if post.external-url %}link{% if post.photo-url %}photo{% else %}article{% endif %} archive-article">
 	<header>
 		{% if post.external-url %}
 			<h1 class="link-title">

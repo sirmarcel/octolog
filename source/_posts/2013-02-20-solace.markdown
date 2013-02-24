@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Solace"
+date: 2013-02-20 19:37
+comments: true
+categories: 
+- Links
+- English
+- Music
+external-url: http://boingboing.net/2013/02/19/solace-why-make-a-soundtrack.html
+via: <a href="http://boingboing.net">Boing Boing</a>
+---
+Great ambient music, glorious artwork and, above all, a beautiful idea: Solace, the soundtrack to a nonexistent game.
+
+*I'm listening to this while slogging through the basics of electrodynamics, an unexpected, but very pleasant match.*
