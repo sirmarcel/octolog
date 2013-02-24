@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photo
 title: "Blätter und Sonnenuntergang"
 date: 2013-01-02 23:00
 comments: true

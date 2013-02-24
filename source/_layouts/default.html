@@ -1,5 +1,9 @@
 {% include header.html %}
-			<div id="main">
-				{{ content | expand_urls: root_url }}
-			</div>
+<div id="wrapper" {% if page.single %}class="single"{% endif %}>
+	<header class="row instapaper_ignore">
+		<h1 id="site-title"><a class="site-link" href="/">Lumenlog.</a></h1>
+	</header>
+	<div id="main">
+		{{ content | expand_urls: root_url }}
+	</div>
 {% include bottom.html %}
