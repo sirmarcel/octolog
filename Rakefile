@@ -296,7 +296,7 @@ task :deploy do
     File.delete(".preview-mode")
     Rake::Task[:generate].execute
   end
-
+  Rake::Task[:integrate]
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
 end

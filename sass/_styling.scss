@@ -185,6 +185,11 @@ article footer {
 
 /* Styles for photo posts */
 
+.photo-link {
+	overflow: hidden;
+	border: 0;
+}
+
 .photo-full {
 	@media only screen and (max-width: 480px) 	{
 		width: 110%;
