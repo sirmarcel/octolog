@@ -197,12 +197,7 @@ article footer {
 
 .single .photo-full {
 	
-
-	@media only screen and (max-width: 480px) 	{
-		width: 115%;
-		margin-left: -5%;
-	}
-	@media only screen and (max-width: 900px) and (min-width: 480px)	{
+	@media only screen and (max-width: 900px) {
 		width: 100%;
 	}
 	@media only screen and (max-width: 1100px) and (min-width: 900px) 	{
