@@ -1,6 +1,8 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require "mini_magick"
+require "exifr"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -139,6 +141,53 @@ task :new_link, [:title, :link_url] do |t, args|
     post.puts "- Links"
     post.puts "external-url: #{link_url}"
     post.puts "via:"
+    post.puts "---"
+  end
+  system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"
+end
+
+# usage rake new_photo['title','name']
+desc "Create a new photo post in #{source_dir}/#{posts_dir}"
+task :new_photo, [:title, :name] do |t, args|
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  mkdir_p "#{source_dir}/#{posts_dir}"
+  args.with_defaults(:title => 'new-post')
+  title = args.title
+  name = args.name
+  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Dealing with images now."
+  if File.exist?("#{name}.jpg")
+    model = EXIFR::JPEG.new("#{name}.jpg").model
+    fnum = EXIFR::JPEG.new("#{name}.jpg").f_number.to_f
+    focal = EXIFR::JPEG.new("#{name}.jpg").focal_length.to_f
+    photo = MiniMagick::Image.open("#{ name }.jpg")
+    photo.resize "2400x100000"
+    photo.write "#{source_dir}/images/photos/#{ name }-2x.jpg"
+    photo.resize "1200x10000"
+    photo.write "#{source_dir}/images/photos/#{ name }-1x.jpg"
+    photo.resize "600x10000"
+    photo.write "#{source_dir}/images/photos/#{ name }-mobile.jpg"
+    system "mv #{name}.jpg #{source_dir}/images/photos/#{ name }.jpg"
+
+  else
+    abort("There's no image.")
+  end
+  puts "Creating new photo post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "comments: true"
+    post.puts "categories: "
+    post.puts "- Photos"
+    post.puts "photo-name: #{ name }"
+    post.puts "camera: Panasonic #{ model }"
+    post.puts "f_stop: #{ fnum }"
+    post.puts "focal: #{ focal }"
     post.puts "---"
   end
   system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"
