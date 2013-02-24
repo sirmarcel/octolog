@@ -8,6 +8,7 @@ subtitle: Just me, writing about stuff.
 author: Marcel Langer
 simple_search: https://google.com/search
 description:
+photo_root: /images/photos
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

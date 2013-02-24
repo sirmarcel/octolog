@@ -1,5 +1,5 @@
 <article class="photo">
-	<img class="photo-full" src="{{ post.photo-url }}.jpg" data-1x="{{ post.photo-url }}-1x.jpg" data-2x="{{ post.photo-url }}-2x.jpg">
+	<img class="hisrc photo-full" src="{{ site.photo_root }}/{{ post.photo-name }}-mobile.jpg" data-1x="{{ site.photo_root }}/{{ post.photo-name }}-1x.jpg" data-2x="{{ site.photo_root }}/{{ post.photo-name }}-2x.jpg">
 	<header>
 		<h1 class="photo-title">
 			<a href="{{ post.url }}">{{ post.title }}</a>
@@ -12,12 +12,13 @@
 		{% if post.camera %}
 			<span>Kamera: {{ post.camera }}</span>
 		{% endif %}
-		{% if post.lens %}
-			<span>Objektiv: {{ post.lens }}</span>
+		{% if post.f_stop %}
+			<span>F-Stop: {{ post.f_stop }}</span>
+		{% if post.focal %}
+			<span>Brennweite: {{ post.focal }}</span>
 		{% endif %}
-		{% if post.photo-url-full %}
-			<span><a href="{{ post.photo-url }}-full.jpg">Bild in voller Auflösung</a></span>
-		{% endif %}
+			<span><a href="{{ site.photo_root }}/{{ post.photo-name }}.jpg">Bild in voller Auflösung</a></span>
+
 		
 	</section>
 	{% include post/footer.html %}
