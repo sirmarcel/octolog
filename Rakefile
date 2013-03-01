@@ -144,6 +144,8 @@ task :new_link, [:title, :link_url] do |t, args|
     post.puts "---"
   end
   system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"
+  system "rake isolate['#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}']"
+  system "gen_prev"
 end
 
 # usage rake new_photo['title','name']
@@ -190,7 +192,9 @@ task :new_photo, [:title, :name] do |t, args|
     post.puts "focal: #{ focal }"
     post.puts "---"
   end
+  system "rake isolate['#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}']"
   system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"
+  system "gen_prev"
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
