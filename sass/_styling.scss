@@ -183,12 +183,7 @@ article footer {
 		}	
 	}
 
-/* Styles for photo posts */
-
-.photo-link {
-	overflow: hidden;
-	border: 0;
-}
+/* Styling for full-photos */
 
 .photo-full {
 	width: 100%;
@@ -208,7 +203,23 @@ article footer {
 	@media only screen and (min-width: 1250px) 	{
 			width: 1200px;
 		}
+}
 
+.photo-description {
+	width: 100%;
+	margin-top: 0;
+	padding-left: 2em;
+	padding-bottom: $line;
+	color: $text;
+	font-size: 0.9*$base-size;
+}
+
+
+/* Styles for photo posts */
+
+.photo-link {
+	overflow: hidden;
+	border: 0;
 }
 
 .photo-info {
@@ -225,7 +236,6 @@ article footer {
 		color: $accent2;
 	}
 }
-
 
 
 /* Pagination Yo */

@@ -197,6 +197,60 @@ task :new_photo, [:title, :name] do |t, args|
   system "gen_prev"
 end
 
+# usage rake new_gallery['title','name']
+desc "Create a new photo gallery post in #{source_dir}/#{posts_dir}"
+task :new_gallery, [:title, :name] do |t, args|
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  mkdir_p "#{source_dir}/#{posts_dir}"
+  args.with_defaults(:title => 'new-post')
+  title = args.title
+  name = args.name
+  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Dealing with images now."
+  images = []
+  if File.exist?("#{name}")
+    photo_dir = "#{source_dir}/images/photos/#{ name }"
+    FileUtils.mkdir(photo_dir) unless File.exist?(photo_dir)
+    Dir.glob("#{name}/*.jpg") do |file|
+      image = file.split(".")[0] # strip extension from filename
+      image = image.split("/")[1] # strip path prefix from filename (this is getting ridiculous)
+      puts "Opening #{image} with MiniMagick..."
+      photo = MiniMagick::Image.open("#{ name }/#{ image }.jpg")
+      photo.resize "2400x100000"
+      photo.write "#{ photo_dir }/#{ image }-2x.jpg"
+      photo.resize "1200x10000"
+      photo.write "#{ photo_dir }/#{ image }-1x.jpg"
+      photo.resize "600x10000"
+      photo.write "#{ photo_dir }/#{ image }-mobile.jpg"
+      system "mv #{name}/#{image}.jpg #{ photo_dir }/#{ image }.jpg"
+      images << "#{name}/#{image}" # add image to array for display in post
+    end
+    system "rmdir #{ name }"
+  else
+    abort("There is no folder with that name.")
+  end
+  puts "Creating new photo post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "comments: true"
+    post.puts "categories: "
+    post.puts "- Photos"
+    post.puts "---"
+    for image in images.sort do
+      post.puts "{% photo #{ image } %}"
+    end
+  end
+  system "rake isolate['#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}']"
+  system "#{editor_path} #{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext} &"
+  system "gen_prev"
+end
+
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|
