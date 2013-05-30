@@ -16,5 +16,5 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.3.2'
-gem 'mini_magick'
+gem 'mini_magick', '3.6.0'
 gem 'exifr'
