@@ -20,8 +20,6 @@ layout: nil
 		<title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
 		{% if post.external-url %}
 			<link href="{{ post.external-url }}"/>
-		{% elsif post.photo-name %}
-			<a class="img-link" href="{{ post.url }}"><img class="hisrc photo-full" src="{{ site.photo_root }}/{{ post.photo-name }}-2x.jpg"></a>
 		{% else %}
 			<link href="{{ site.url }}{{ post.url }}"/>
 		{% endif %}
@@ -29,10 +27,15 @@ layout: nil
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
 		<id>{{ site.url }}/{{ post.id }}</id>
 		<content type="html">
-			<![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]>
-			{% if post.external-url %}
-				<![CDATA[<a class="permalink" href="{{ site.url }}{{ post.url }}">Permalink</a>]]>
+			<![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}
+				{% if post.photo-name %}
+			<a class="img-link" href="{{ post.url }}"><img class="hisrc photo-full" src="{{ site.photo_root }}/{{ post.photo-name }}-2x.jpg" /></a>
 			{% endif %}
+			{% if post.external-url %}
+				<a class="permalink" href="{{ site.url }}{{ post.url }}">Permalink</a>
+			{% endif %}
+			]]>
+			
 		</content>
 	</entry>
 	{% endfor %}
