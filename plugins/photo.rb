@@ -23,16 +23,20 @@ module Jekyll
       photo_root = Jekyll.configuration({})['photo_root']
       if @arguments[1]
         name = @arguments[0].strip
-        description = @arguments[1]
-        html = "<a class='img-link' href='#{photo_root}/#{name}.jpg'>"
+        description = @arguments[1].strip
+        html = "<div class='photo'>"
+        html += "<a class='img-link' href='#{photo_root}/#{name}.jpg'>"
         html += "<img class='hisrc photo-full' src='#{photo_root}/#{name}-mobile.jpg' data-1x='#{photo_root}/#{name}-1x.jpg' data-2x='#{photo_root}/#{name}-2x.jpg'></img>"
-        html += "<div class='photo-description'>#{ description }</div>"
         html += "</a>"
+        html += "<p class='photo-description'>#{ description }</p>"
+        html += "</div>"
       elsif @arguments[0]
         name = @arguments[0].strip
-        html = "<a class='img-link' href='#{photo_root}/#{name}.jpg'>"
+        html = "<div class='photo'>"
+        html += "<a class='img-link' href='#{photo_root}/#{name}.jpg'>"
         html += "<img class='hisrc photo-full' src='#{photo_root}/#{name}-mobile.jpg' data-1x='#{photo_root}/#{name}-1x.jpg' data-2x='#{photo_root}/#{name}-2x.jpg'></img>"
         html += "</a>"
+        html += "</div>"
       else
         "Error parsing arguments. Sorry. Syntax: {% photo name[; description] %}"
       end

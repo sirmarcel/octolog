@@ -251,6 +251,28 @@ task :new_gallery, [:title, :name] do |t, args|
   system "gen_prev"
 end
 
+# usage rake gen_photo['name']
+desc "Take a jpeg, do some magic and then output the tag for liquid"
+task :gen_photo, :name do |t, args|
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  name = args.name
+  if File.exist?("#{name}.jpg")
+      puts "Opening #{name} with MiniMagick..."
+      photo = MiniMagick::Image.open("#{ name }.jpg")
+      photo.resize "2400x100000"
+      photo.write "#{source_dir}/images/photos/#{ name }-2x.jpg"
+      photo.resize "1200x10000"
+      photo.write "#{source_dir}/images/photos/#{ name }-1x.jpg"
+      photo.resize "600x10000"
+      photo.write "#{source_dir}/images/photos/#{ name }-mobile.jpg"
+      system "mv #{name}.jpg #{source_dir}/images/photos/#{ name }.jpg"
+  else
+    abort("Ain't no such file.")
+  end
+  puts "{% photo #{ name } %}"
+end
+
+
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|

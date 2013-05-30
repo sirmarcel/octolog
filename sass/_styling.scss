@@ -185,6 +185,14 @@ article footer {
 
 /* Styling for full-photos */
 
+div.photo {
+	margin: 0;
+}
+
+p + div.photo, div.photo:first-child {
+	margin-top: $line;
+}
+
 .photo-full {
 	width: 100%;
 }
@@ -208,9 +216,9 @@ article footer {
 .photo-description {
 	width: 100%;
 	margin-top: 0;
-	padding-left: 2em;
+	padding-left: 1em;
 	padding-bottom: $line;
-	color: $text;
+	color: $text-light;
 	font-size: 0.9*$base-size;
 }
 

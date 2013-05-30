@@ -59,15 +59,21 @@ a.img-link:hover, a.img-link:visited, a.img-link-left:hover, a.img-link-left:vis
 div.footnotes {
 	margin: $line 0;
 	padding: 0 $line;
+  font-size: 0.8*$base-size;
 	a {
 		border: none;
 		}
+  p {
+    margin: 0;
+  }
 	}
 	
 	
 .ftnl {
 	border: none;
 	margin-right: -0.1em;
+  color: $text;
+  font-weight: 300;
 	}
 
 /* Pullquotes */
