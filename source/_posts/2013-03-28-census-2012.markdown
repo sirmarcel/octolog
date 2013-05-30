@@ -1,0 +1,17 @@
+---
+layout: post
+title: "(Web) Census 2012"
+date: 2013-03-28 12:52
+comments: true
+categories: 
+- Links
+- English
+- Technology
+- Internet
+external-url: http://census2012.sourceforge.net/paper.html
+via: <a href="https://twitter.com/GreatDismal">William Gibson</a>
+---
+
+> While playing around with the Nmap Scripting Engine (NSE) we discovered an amazing number of open embedded devices on the Internet. Many of them are based on Linux and allow login to standard BusyBox with empty or default credentials. We used these devices to build a distributed port scanner to scan all IPv4 addresses. 
+
+This has to be one of the coolest hacks of all time.

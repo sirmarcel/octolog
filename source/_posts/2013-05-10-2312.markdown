@@ -1,0 +1,34 @@
+---
+layout: post
+title: "2312"
+sub-title: Review
+date: 2013-05-10 21:48
+comments: true
+categories: 
+- Science Fiction
+- Review
+- Deutsch
+title-img:
+---
+2312 von Kim Stanley Robinson ist einer dieser Science-Fiction-Romane, die an erster Stelle eine geführte Version durch die Gedankenwelt ihres Autors sind, und erst an zweiter Stelle eine Geschichte erzählen.{% fn_ref 1 %} Dieses Konzept kann furchtbar schief gehen, aber wenn es funktioniert, dann ist es spektakulär. Genau das ist Robinson mit 2312 gelungen.
+
+Die Zukunftsvision Robinsons fußt auf unserem gegenwärtigen Verständnis der technischen Möglichkeiten. Reisen mit Überlichtgeschwindigkeit oder Teleportation sucht man vergebens. Trotzdem–oder gerade deswegen–ist die Ideenwelt von 2312 eine der faszinierendsten, die mir je begegnet sind. Dies liegt vor allem an der schlichten Freude am *Nachdenken*, die man auf jeder Seite spüren kann. Robinson hat nicht nur gegenwärtige technische Konzepte–Weltraumaufzug, Terraforming, Quantencomputer–aufgegriffen, sondern sich auch Gedanken gemacht, was solche Technologien auslösen können. Er fragt sich, was es für Herausforderungen gibt, und was für gesellschaftliche Veränderungen es hat, wenn sich die Menschheit im ganzen Sonnensystem niederlässt. 
+
+Es bleibt aber nicht bei solchen weitreichenden Gedankenspielen. Besonders charmant sind auch die kleinen Details. Zum Beispiel der Einfall, dass im Jahr 2312 die meisten Kunstwerke auf Venus gelagert werden, weil dort eine bessere Umgebungskontrolle möglich ist als auf der dreckigen, halb ertränkten Erde.
+
+Robinson hat einen geschickten Weg gefunden, nicht alle Ideen in der Erzählung unterbringen zu müssen: Es gibt Zwischenkapitel, die sehr zutreffend mit "Fragments" betitelt sind. In diesen werden Ausschnitte aus Lehrbüchern, Artikeln und anderen schriftlichen Erzeugnissen seiner fiktionalen Zukunft dargeboten. Dabei wird ein zutiefst beeindruckendes Feuerwerk an Ideen abgebrannt.
+
+Es wäre leicht, zu behaupten, dass diese "Fragments" die Highlights des Romans sind, aber das ist nicht die ganze Wahrheit. Wichtiger noch sind die Bilder, die Momente der puren Schönheit, die Robinson seiner Zukunftsvision abringt. Das überschwemmte Manhattan, das als neues Venedig eine Renaissance erlebt, oder Terminator, die Stadt auf Merkur, die auf Schienen dem mörderischen Sonnenuntergang entflieht. In solchen Augenblicken sinkt die Lesegeschwindigkeit, während im Kopf die Landschaftsmalerei beginnt.
+
+Vor diesem Hintergrund spielt sich die Geschichte des Romans ab, die als Verschwörungsgeschichte beginnt und als Liebesgeschichte endet. Ihre große Stärke ist sicherlich nicht ihr wendungsreicher, actiongeladener Ablauf, sondern die Zeichnung der beiden Hauptcharaktere und die Dialoge, die sich zwischen ihnen ergeben. Besonders herausragend ist sie allerdings nicht, aber sie stört nicht beim Schlendern durch Robinsons Zukunftsvision.
+
+Alles in allem kann ich 2312 nur empfehlen, allein schon als Gegenpol zu dem ganzen Post-Singularitätskram, den ich sonst lese. Ich vermute, dass das Buch am meisten Spaß macht, wenn man schon vorher Kontakt mit Science Fiction hatte und ein wenig vertraut mit den verschiedenen Richtungen in diesem Genre ist. Als Einstieg in dieses faszinierende Feld sei an dieser Stelle [Accelerando]( http://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html ) empfohlen, als Singularitäts-Höllenritt-Gegenpol zum dann doch recht zahmen 2312.
+
+2312 kann [hier]( http://www.amazon.de/2312-Roman-ebook/dp/B00B6PGH7I?tag=lumenlog-21 ) bei Amazon{% fn_ref 2 %} bestellt werden, aber für eine Papierversion würde ich euch gerne ans Herz legen, mal den lokalen Buchladen eurer Wahl {% fn_ref 3 %} zu fragen. Die bestellen gerne auch obskure Bücher und haben eine Seele.
+
+{% footnotes %}
+{% fn 1 *hust* hust* Herr der Ringe *hust* *hust* *duck* %}
+{% fn 2 Achtung, Affiliate-Link. Ihr kennt das. %}
+{% fn 3 In meinem Fall wäre das die <a href="http://www.stephanusbuch.de">Stephanus-Buchhandlung</a>. %}
+
+{% endfootnotes %}

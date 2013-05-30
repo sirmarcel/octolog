@@ -1,0 +1,12 @@
+---
+layout: photo
+title: "Baum in Blau"
+date: 2013-04-01 23:48
+comments: true
+categories: 
+- Photos
+photo-name: baum
+camera: Panasonic DMC-GX1
+f_stop: 1.7
+focal: 20.0
+---

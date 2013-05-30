@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Paris"
+post-label: Photos
+date: 2013-04-24 23:56
+comments: true
+categories: 
+- Photos
+- Travel
+---
+{% photo paris/paris1; Eckhaus in der Nähe des Gare de l'Est %}
+
+Ich habe vor ein paar Tagen mit meinen Eltern einen Wochenendausflug nach Paris unternommen, was ja dank Airbnb und dem TGV fast schon bestürzend einfach ist. Dieses Mal hatte ich meine neue GX1 im Gepäck. Weil diese Kamera perfekt in meine Jackentasche passt, eignet sie sich besonders gut für Menschen wie mich, denen es beinahe körperliche Schmerzen bereitet, wie ein Tourist zu wirken. So kann ich mir zumindest einbilden, unauffällig zu sein. Natürlich nur bis zu dem Moment, in dem ich in die Tasche greife, in die Hocke gehe und wie wild auf den Knöpfen der GX1 herumdrücke.
+
+{% photo paris/paris2; Detail aus dem Lichtraum (Hommage à Fontana) (1964) von Heinz Mack, Otto Piene, Günther Uecker %}
+
+*Dynamo*, so heißt die momentan im Grand Palais laufende Ausstellung über kinetische Kunst der letzten hundert Jahre. Nachdem man mich an der Garderobe dazu gezwungen hatte, meine Kamera mitzunehmen, war ich beinahe gezwungen, sie zu dokumentieren. *Dynamo* ist im Übrigen eine faszinierende Ausstellung, die sehr gut die unglaubliche Bandbreite an Ideen, die man in der Kunst findet, verdeutlicht. Ich war allerdings irritiert, mit welcher Sorglosigkeit die teilweise jahrzehntealten Arbeiten im Dauerbetrieb ausgestellt wurden.
+
+{% photo paris/paris3; Lumière Alternée (1928) von Julio le Parc %}
+
+{% photo paris/paris4; Ein Baum auf der Avenue des Champs-Élysées %}
+
+Chlorophyll im Abendlicht finde ich unwiderstehlich, da muss ich einfach die Kamera zücken. Interessanter als meine seltsamen Photo-Fetische ist allerdings das, was vor diesem Photo passierte: Der Besuch im Abercrombie & Fitch-Store. Diesen zu betreten war mit Abstand die bizarrste Erfahrung in diesem Urlaub. 
+
+Der Store besitzt keine Schaufenster, zur Champs-Élysées zeigt nur seine Rückwand. Zur linken muss man durch ein großes, schwarzes Tor schreiten und einen heckengesäumten Weg entlang wandeln, um schließlich zum Eingang zu kommen. Wer eintreten will, muss erst an einem jungen Mann vorbei, der nur eine Hose und ein Jackett trägt. Auf Zuruf entblößt er seinen durchtrainierten Oberkörper für die Kunden. 
+
+Innen: Penetranter Deo-Geruch, wummernde Beats, mehrstöckige Dunkelheit und Wandgemälde, die unangenehm an einen Sportpalast in den 1940ern erinnern. Überall stehen Verkäufer, die verträumt vor sich hin tanzen. Offenbar werden hier nicht nur Klamotten, sondern auch Ideale verkauft. Desorientiert und mit einem starken Bedürfnis, *Pattern Recognition* ein weiteres Mal zu lesen, verließ ich dieses Inferno von einem Laden.
+
+Die nächsten Urlaubstage bestanden, wie ich es auch am liebsten habe, aus ausgedehnten Stadtspaziergängen. Ich finde, dass man Städte am besten zu Fuß erlebt, schlendernd von Ort zu Ort. Sie treiben lassen, genießen, dass eine andere Sprache den Hintergrund bildet, und gelegentlich ein Photo machen. Letzteres ist natürlich optional, aber irgendwie tut es ganz gut, eine Kamera in der Tasche zu haben. So schweift der Blick noch mehr, immer auf der Suche nach interessanten Motiven… 
+
+
+{% photo paris/paris5; Sacré-Cœr bei Nacht%}
+{% photo paris/paris6 %}
+{% photo paris/paris7 %}
+{% photo paris/paris8 %}
+{% photo paris/paris9 %}
+{% photo paris/paris10 %}
+{% photo paris/paris11; Innenraum der Sainte Chapelle %}
+{% photo paris/paris12; Fassade von Notre-Dame  %}
+{% photo paris/paris13%}
+{% photo paris/paris14; Fassade des Pantheons %}
