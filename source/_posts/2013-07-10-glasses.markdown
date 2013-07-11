@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Glasses"
+sub-title: "Thoughts on Google Glass & What I Want Instead"
+date: 2013-07-10 20:35
+comments: true
+categories: 
+- Tech
+- Apple
+- Google
+- Essay
+- English
+
+---
+One interesting question to ask about new products is what problems they try to solve. I've been asking myself that question about Google Glass. You see, I don't buy the official pitch about "freeing us from smartphones". I don't need to be freed. I like smartphones.
+
+### What ain't broken...
+
+Smartphones are clever.{% fn_ref 1 %} The mechanic of taking out your phone and holding it in your hand mirrors taking out a paperback and reading it. That way, smartphones can piggy-back on already established social conventions and habits.{% fn_ref 2 %} They don't feel *awkward* because on some basic level you know what you're expected to do. Touch screens work because we're used to manipulating our surroundings with our hands. Playing with pixels instead is a comparatively small step.
+
+That way, smartphones have managed to admirably solve quite a range of problems. They are better calendars, better address books, better communication devices, better phones, better toys and better Walkmans. And that's not going to change.
+
+***
+
+They *do* have shortcomings, and our shiny new Glasses{% fn_ref 3 %}  and smartwatches could fix some of them. Smartphones are great if you intend to focus your attention on them, if you have a certain task to accomplish. They mostly fail at providing meta-data and ambient information. Navigating with Google Maps on foot is profoundly annoying, and a constantly buzzing phone is a sad excuse for proper notifications. The fact that a smartphone lives in your pocket is also terrible for quick on-the-go interactions. Playing/pausing music with non-standard headphones is a constant hassle.
+
+Incidentally, the Pebble watch is surprisingly good at dealing with these issues. Just controlling my music is *awesome*, and notifications (if they work){% fn_ref 4 %} are very handy indeed. But it can't properly provide ambient information because, well, it's a watch. You still have to look at it, and screen size is severely limited. That's where my hypothetical Glasses come in: They neatly fill that gap. They can provide an additional layer of information, they can display notifications, but they don't do input. Here's why.
+
+### A brief-ish rant on Google Glass input
+
+There is absolutely no way I'm going to use a device that requires me to talk aloud. I spend most of my day either in environments it's considered rude to talk, or with other people. In both situations, it's incredibly awkward to talk to your Glasses. Also, speech recognition is not much beyond its infancy. I certainly can't be bothered to learn some bizarre machine-English dialect just to talk to my gadgets. Using a touchpad on the side also seems like a horrible idea for anything more than scrolling. And even that probably looks incredibly stupid.
+
+In short: With the current level of technology, I can't come up with a good input method that relies on Glasses only. The existing ones certainly don't cut it.
+
+### Your watch saves the day
+
+But wait. Didn't we just talk about a device that excels at simple interactions? Yes: Your (future) smartwatch. If your Glasses are your display, this thing on your wrist is your trackpad. It has buttons for haptically meaningful input, and a flat surface perfectly suited for scrolling and tapping. Of course, you're not going to write your next novel like that, but you don't need to. That's what your phone is for. Or your tablet. Or your notebook.{% fn_ref 5 %}
+
+The way display technology works (at least for now) doesn't really lend itself to this kind of thing anyway. You look *through* your Glasses, and that means if you look at something bright, you won't be able to see anything particularly detailed. What remains is a display that can be used to view information that is nice to have, but not absolutely integral to what you're doing. 
+
+### Look & Feel & Respect
+
+I'm troubled by the way Google Glass looks. It is not really ugly, but still looks a bit like a campy sci-fi prop. We already know how to make glasses that people don't feel awkward about wearing. Why not tap into that? 
+
+There is an already existing ecosystem of manufacturers that would be thrilled to be able to sell their products to more people. To properly exploit this, it would be best to have some open standard for the communication with Glasses. Sadly, that doesn't really seem to be the way technology evolves these days…{% fn_ref 6 %} 
+
+
+In addition to good-looking and subtle hardware, I also want impeccable interface design. If I'm going to look at an interface every waking moment, it'd better be thoughtful, readable, beautiful and above all, respectful. It needs to understand that it has the power to instantly distract me. I need fine-grained control over notifications. And a quickly accessible "I'm thinking, stfu" mode.
+
+***
+
+The iWatch hysteria and the constant snickering about Google Glass shows that there is an interest in mobile computing beyond the smartphone. Those new devices won't replace existing ones though, they'll complement them. It looks like we're evolving away from the personal computer toward the "personal network", a tightly integrated set of devices you carry around everywhere your go. In this network, your phone acts as a central hub, providing bandwidth, storage, processing power and a control surface for the zoo of gadgets in your pockets. 
+
+This is going to be an interesting decade.
+{% footnotes %}
+{% fn 1 Or, dare I say it: Smart. %}
+{% fn 2 Incidentally, I wish we would embrace the parallels even more. If it would be considered rude to take out a book and start reading, you probably shouldn't be looking at your phone. %} 
+{% fn 3  I'm going to stick with that term for now. I'm unable to even think "smart goggles" with a straight face, "AR glasses" is a straight-up lie (at least if you mean hard AR) and HUD just sounds stupid. %}
+{% fn 4  Apple, please fix Bluetooth notification support, the current state of affairs is just plain sad. %}
+{% fn 5  For a much more in-depth look at the potential of a smartwatch, I'd like to refer you to my <a href=" http://asktog.com/atc/apple-iwatch/">favourite tech article of all time</a>. %}
+{% fn 6  An open protocol would have *so many* advantages. Image your car/your bike/your laptop/your whatever talking to your glasses and using them to display important meta-data. %}
+{% endfootnotes %}

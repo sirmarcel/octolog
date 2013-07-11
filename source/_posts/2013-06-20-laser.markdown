@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Laser"
+date: 2013-06-20 01:29
+comments: true
+categories: 
+- Photos
+- Science
+- Deutsch
+---
+{% photo lazor/lazors2; Wabengitter %}
+
+Das sind Beugungsbilder von verschiedenen Öffnungen, die mit einem Helium-Neon-Laser beleuchtet werden. Wir haben damit vor kurzem im Physik-Praktikum gespielt und Photos davon gemacht. Das ist im Übrigen gar nicht so einfach – man kommt sich beim Scharfstellen ein wenig albern vor, weil diese Beugungsbilder grundsätzlich unscharf sind. Die Laserschutzbrillen helfen natürlich auch nicht besonders.
+
+{% photo lazor/lazors1; Kreisblende %}
+{% photo lazor/lazors3; Einfachspalt %}
+{% photo lazor/lazors4; Kante (sieht normalerweise aber nicht so aus) %}
+{% photo lazor/lazors5; Wabengitter %}
