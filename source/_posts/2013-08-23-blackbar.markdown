@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Blackbar"
+date: 2013-08-23 21:57
+comments: true
+categories: 
+- Links
+- Game
+external-url: http://mrgan.tumblr.com/post/59106476913/my-friend-james-moore-and-i-have-made-an-ios
+via:
+---
+
+> Blackbar is a text game: a sci-fi story of a dystopian future told through the medium of word puzzles.
+
+Blackbar is a great little game, a brilliant idea perfectly executed. It also gets fiendishly hard very quickly, but the story is a great motivation to keep playing.
+
+First [Gone Home]( http://www.gonehomegame.com ), now this. What a great week.

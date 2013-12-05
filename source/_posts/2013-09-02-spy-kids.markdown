@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Spy Kids"
+date: 2013-09-03 19:57
+comments: true
+categories: 
+- Links
+- Future
+- Economics
+external-url: http://www.foreignpolicy.com/articles/2013/08/28/spy_kids_nsa_surveillance_next_generation?page=full
+via: <a href="http://www.antipope.org">the man himself</a>
+---
+
+> Generation Z will arrive brutalized and atomized by three generations of diminished expectations and dog-eat-dog economic liberalism. Most of them will be so deracinated that they identify with their peers and the global Internet culture more than their great-grandparents' post-Westphalian nation-state. The machineries of the security state may well find them unemployable, their values too alien to assimilate into a model still rooted in the early 20th century. But if you turn the Internet into a panopticon prison and put everyone inside it, where else are you going to be able to recruit the jailers? And how do you ensure their loyalty?
+
+Charles Stross, sharp as usual, writing about the changing attitudes towards work and the problems those pose for security agencies. The quote above rings very true to me, and the essay certainly is some thought-provoking reading.
+
+Incidentally, the comments on the article are quite interesting, and so are the comments on his [blog post about the same topic]( http://www.antipope.org/charlie/blog-static/2013/08/snowden-leaks-the-real-take-ho.html#comment-1624924 ). It's kind of sad that I have to point this out as an exception. 
