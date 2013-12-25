@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Hvar"
+post-label: Photos
+date: 2013-12-25 11:58
+comments: true
+categories: 
+- Photos
+- English
+
+---
+{% photo hvar/hvar2 %}
+Some photos from my summer holiday on the island of [Hvar]( http://en.wikipedia.org/wiki/Hvar ), which I completely forgot to post for a few months. Maybe they'll help you feel warm in this soggy winter?
+{% photo hvar/hvar3 %}
+{% photo hvar/hvar4; On the ferry there. %}
+{% photo hvar/hvar5 %}
+{% photo hvar/hvar6 %}
+{% photo hvar/hvar7 %}
+{% photo hvar/hvar8 %}
+{% photo hvar/hvar9 %}
+{% photo hvar/hvar10; That's Stiller by Max Frisch, one of the summer reads I still haven't finished. It's not the book's fault, though. I'm just easily distracted by other books. %}
+{% photo hvar/hvar11 %}
+{% photo hvar/hvar12; This is a great novella, go read it! %}
+{% photo hvar/hvar13 %}
+{% photo hvar/hvar14; The island has been inhabited since about 3500 BC. Apparently, the archeologists are quite enthusiastic about that. So am I! %}
+{% photo hvar/hvar15 %}
+{% photo hvar/hvar16; Couldn't resist the good old shallow focus and sunset combo. %}
+{% photo hvar/hvar17 %}
+{% photo hvar/hvar18; Archaeology is funny! %}
+{% photo hvar/hvar19 %}
+{% photo hvar/hvar20 %}
+
