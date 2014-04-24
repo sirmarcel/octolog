@@ -19,7 +19,7 @@ In letzter Zeit habe ich angefangen, gelegentlich Fotos zu posten, die mir gefal
 
 ### Und wer bist du?
 
-<img src="/images/portrait.jpg" width="192" height="192" class="img-left" />Marcel, Physikstudent, [Podcaster]( http://retinacast.de ), Bücherfreund, Filmfan, und Mensch. Auf Twitter kann man mir unter [@xartas](http://twitter.com/xartas) dabei zuhören, wie ich mich über gutes Essen freue, schlimme Witze reiße und mich furchtbar über Nichtigkeiten empöre. Bei [Instagram](http://instagrid.me/sirmarcel/) findet ihr zum Großteil Fotos von meinem Essen, Büchern die ich gerade lese, heißen Getränken und Landschaften. Zu guter letzt bin ich beim [Retinacast](http://retinacast.de) zu hören, wo ich über Serien und Filme rede.
+<img src="/images/portrait.jpg" width="192" height="192" class="img-left" />Marcel, Physikstudent, [Podcaster]( http://retinacast.de ), Bücherfreund, Filmfan, und Mensch. Auf Twitter kann man mir unter [@sirmarcel](http://twitter.com/xartas) dabei zuhören, wie ich mich über gutes Essen freue, schlimme Witze reiße und mich furchtbar über Nichtigkeiten empöre. Bei [Instagram](http://instagrid.me/sirmarcel/) findet ihr zum Großteil Fotos von meinem Essen, Büchern die ich gerade lese, heißen Getränken und Landschaften. Zu guter letzt bin ich beim [Retinacast](http://retinacast.de) zu hören, wo ich über Serien und Filme rede.
 
 ### And how does it work?
 
