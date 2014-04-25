@@ -9,7 +9,7 @@ require "exifr"
 ssh_user       = "sirmarcel@85.17.23.76"
 ssh_port       = "22"
 document_root  = "~/webapps/lumenlog"
-rsync_delete   = true
+rsync_delete   = false
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
