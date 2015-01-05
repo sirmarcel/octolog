@@ -1,0 +1,28 @@
+---
+layout: post
+title: Books I particularly enjoyed in 2014
+sub-title:
+date: 2015-01-05 00:20
+comments: true
+categories: 
+- Books
+- English
+- Science Fiction
+- Review
+---
+
+As every reader should, I keep track of the books I read.{% fn_ref 1 %} Here are the ones I particularly enjoyed in 2014.
+
+- *The Peripheral* by William Gibson: Probably my book of the year. Gibson's future visions are just so perfectly poignant.{% fn_ref 2 %} A warning though: This book dumps you in its world, and then lets you figure things out for yourself. Fortunately, there's Gibson’s beautifully layered prose to keep you company.
+- *The Martian* by Andy Weir: An astronaut gets stranded on Mars and has to survive with the tools at hand. Weir manages to blend technical accuracy, a snarky protagonist and a certain sense of optimism beautifully. This novel is an engineer’s dream come true, and refuses to be literary in any sense. I love it for that.
+- *A Deepness in the Sky* by Vernor Vinge: A far-future first contact story with masterful world-building and great characters. Some of them are spiders, and that's no big deal.
+- *The Dervish House* by Ian McDonald: Set in a near-future Istanbul, the novel throbs with the energy of this metropolis. McDonald makes this city feel like an actual place, and in a way, like home.
+- *Blindsight* by Peter Watts: Basically Solaris on crack, with a side order of crystal-clear prose and boatloads of pragmatism. It's depressing, it's cynical, it's great.
+- *Diaspora* by Greg Egan: I'm technically cheating here, this was a re-read, but I just have to plug it again. *Diaspora* is a truly [hard sci-fi](http://en.wikipedia.org/wiki/Hard_science_fiction) book, with serious digressions into mathematics and physics, but also some of the best post-[singularity](https://en.wikipedia.org/wiki/Technological_singularity) world-building I have come across so far. Quite a ride.
+
+I read a lot of science fiction last year, mainly because it's my home genre and I was too busy to stray. I want to change it this year, just for variety’s sake. Or maybe because reality is catching up to science fiction far too quickly... just looking at the news, we're basically living in the early days of a cyberpunk dystopia. Let's try to not end up in one.
+
+{% footnotes %}
+{% fn 1. Only 33 this year, incidentally. Quite depressing. %}
+{% fn 2. You should follow <a href="https://twitter.com/GreatDismal">Gibson on Twitter</a>, by the way. He’s like a one-person magazine on the emerging future. %}
+{% endfootnotes %}
