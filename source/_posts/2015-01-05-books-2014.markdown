@@ -14,7 +14,7 @@ categories:
 As every reader should, I keep track of the books I read.{% fn_ref 1 %} Here are the ones I particularly enjoyed in 2014.
 
 - *The Peripheral* by William Gibson: Probably my book of the year. Gibson's future visions are just so perfectly poignant.{% fn_ref 2 %} A warning though: This book dumps you in its world, and then lets you figure things out for yourself. Fortunately, there's Gibson’s beautifully layered prose to keep you company.
-- *The Martian* by Andy Weir: An astronaut gets stranded on Mars and has to survive with the tools at hand. Weir manages to blend technical accuracy, a snarky protagonist and a certain sense of optimism beautifully. This novel is an engineer’s dream come true, and refuses to be literary in any sense. I love it for that.
+- *The Martian* by Andy Weir: An astronaut gets stranded on Mars and has to survive with the tools at hand. Weir manages to blend technical accuracy (or at least a convincing impression of it), a snarky protagonist and a certain sense of optimism beautifully. This novel is an engineer’s dream come true, and refuses to be literary in any sense. I love it for that.
 - *A Deepness in the Sky* by Vernor Vinge: A far-future first contact story with masterful world-building and great characters. Some of them are spiders, and that's no big deal.
 - *The Dervish House* by Ian McDonald: Set in a near-future Istanbul, the novel throbs with the energy of this metropolis. McDonald makes this city feel like an actual place, and in a way, like home.
 - *Blindsight* by Peter Watts: Basically Solaris on crack, with a side order of crystal-clear prose and boatloads of pragmatism. It's depressing, it's cynical, it's great.
