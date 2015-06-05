@@ -39,25 +39,9 @@ div#secondary {
 	width: 40%;
 	margin: 0.5*$line 0;
 	}
-	section#about-english {
+	section#about {
 		float: left;
-		margin-right: 10%;
-		width: 40%;
-		@media only screen and (max-width: 799px) 	{
-			clear: both;
-			width: 100%;
-		}
-		}
-	section#about-german {
-		float: right;
-		width: 40%;
-		@media only screen and (max-width: 799px) 	{
-			clear: both;
-			width: 100%;
-		}
-		}
-	p.flattr-button, p.about-flattr {
-		clear: both;
+		width: 100%;
 		}
 	}
 	

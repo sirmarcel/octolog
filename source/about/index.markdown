@@ -7,19 +7,14 @@ type: page
 published: true
 
 ---
-*Don't understand German? There's a lot of content in [English](/tag/english). :)*
+ 
+### Who am I talking to?
 
-### Was ist das hier?
+I'm Marcel, a physics student, currently at [KIT](http://kit.edu) in Karlsruhe, Germany. I occasionally rant on Twitter [@sirmarcel](http://twitter.com/sirmarcel), and post pictures of food and books to [Instagram](https://instagram.com/sirmarcel). On [Retinacast](http://retinacast.de), I talk about TV, books and movies with some friends. In German. Sorry.
 
-Das ist das Lumenlog, hier werfe ich Sachen ins Internet. Ursprünglich ging es hier mal um Mods für das Spiel *Oblivion*, inzwischen geht es hier einfach um alles, was ich interessant finde.
+### What are you talking about?
 
-Warum hier so viel Englisch herumfliegt? Tut mir leid, ich kann nicht anders. Anscheinend erreicht man nach einem Auslandsaufenthalt und Jahren des ständigen Serien- und Buchkonsum auf Englisch eine Schwelle, an der man nicht mehr in der Lage ist, strikt in einer Sprache zu denken. Außerdem komme ich mir albern vor, Texte auf Englisch in einer anderen Sprache zu kommentieren.
-
-In letzter Zeit habe ich angefangen, gelegentlich Fotos zu posten, die mir gefallen. Warum auch nicht.
-
-### Und wer bist du?
-
-<img src="/images/portrait.jpg" width="192" height="192" class="img-left" />Marcel, Physikstudent, [Podcaster]( http://retinacast.de ), Bücherfreund, Filmfan, und Mensch. Auf Twitter kann man mir unter [@sirmarcel](http://twitter.com/xartas) dabei zuhören, wie ich mich über gutes Essen freue, schlimme Witze reiße und mich furchtbar über Nichtigkeiten empöre. Bei [Instagram](http://instagrid.me/sirmarcel/) findet ihr zum Großteil Fotos von meinem Essen, Büchern die ich gerade lese, heißen Getränken und Landschaften. Zu guter letzt bin ich beim [Retinacast](http://retinacast.de) zu hören, wo ich über Serien und Filme rede.
+I honestly don't really know what this blog is about. It's just the place where I put stuff online. It started out with blogging about mods for The Elder Scrolls: Oblivion, and now it's basically just me chronicling my own obsessions. I like to think it's eclectic.
 
 ### And how does it work?
 
