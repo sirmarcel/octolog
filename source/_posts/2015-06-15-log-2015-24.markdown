@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Week 24"
+sub-title: Mysterious books, drone races and delicious sentences
+date: 2015-06-15 09:52
+comments: true
+categories: 
+- English
+- Future
+- Fiction
+- Log
+title-img:
+---
+
+[Gibsonesque](http://www.theparisreview.org/interviews/6089/the-art-of-fiction-no-211-william-gibson) things are afoot in the Valley: 
+
+> A mysterious little book called Iterating Grace is floating around San Francisco right now. At least a dozen people have received the book in the mail—or in my case, by secret hand-delivery to my house. (Which is a little creepy.)
+
+The book, a darkly satirical piece on a programmer-turned-sage, is, somewhat surprisingly, really good: 
+
+> He began to see, in their tweets, hints of some elusive, but irrefutable wisdom: a string of logic that underwrote the universe like code. For him, the tossed-off musings and business maxims of these men (they were almost all men) shimmered with a certain numinous luster. He contemplated individual tweets for days, sometimes weeks, expounding on them at length in the margins of his books about the sea, meditating on them as though they were koans.
+
+Alexis Madrigal, who received a copy and thankfully transcribed it, has a [nice round-up](http://fusion.net/story/146648/who-wrote-this-amazing-mysterious-book-satirizing-tech-startup-culture/) of the entire affair. It feels like something straight out of [Pattern Recognition](http://www.amazon.de/Pattern-Recognition-William-Gibson/dp/0425198685/?tag=lumenlog-21 ).
+
+Speaking of start-up culture, I honestly couldn't tell if [this](https://juneoven.com/) was a joke or not. Subsequently, I found out that they are not only entirely serious, but also part of a thriving sub-genre of cooking gadget start-ups. The future is profoundly weird. 
+
+See also: [The Tamborzão Goes to Thailand](https://medium.com/chrysaora-weekly/the-tamborzão-goes-to-thailand-f3fd2ddfb4b5), a delightful tale about the migration of Brazilian dance music to Thailand that also manages to make some beautiful points about music and globalisation.
+
+> I see a glimmer of hope for new global connections born in the rapture of music rather than in the trauma of colonialism.
+
+People are [racing drones](https://www.youtube.com/watch?v=-6tC0X6c7gg) around abandoned warehouses. That's a sentence I wouldn't have expected to type a few years ago. Another delicious sentence: Jacob Applebaum and Ai Weiwei collaborated on an [art project](http://www.nytimes.com/2015/06/09/opinion/the-art-of-dissent.html). ([Previously](http://fusion.net/story/125475/ai-weiwei-jacob-appelbaum-and-laura-poitras/).)
+
+To round this missive off, here's a little [photo story](https://andrewkam.exposure.co/tokyo-coffee-crawl) of a café crawl (it's a thing) in Tokyo. And [some music and Mars colonisation](https://www.youtube.com/watch?v=WjNssEVlB6M).
