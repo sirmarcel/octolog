@@ -35,7 +35,7 @@ GEM
     pygments.rb (0.2.13)
       rubypython (~> 0.5.3)
     rack (1.4.5)
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     rake (10.1.1)
     rb-fsevent (0.9.4)
